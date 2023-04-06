@@ -1,8 +1,6 @@
 import streamlit as st
 import UMLS_search
-import pre_process
 import LDA_clustering
-
 from multiprocessing import Process, freeze_support
 
 import multiprocessing
