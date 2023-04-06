@@ -1,0 +1,889 @@
+                                                                                                                           RESEARCH
+
+
+
+
+                                                                                                                                                                       BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+                                       Inpatient rehabilitation specifically designed for geriatric
+                                       patients: systematic review and meta-analysis of
+                                       randomised controlled trials
+                                       Stefan Bachmann, Robert Bosch Foundation postdoctoral research fellow in geriatrics,1,2 Christoph Finger,
+                                       doctoral student,1 Anke Huss, assistant professor in environmental epidemiology,3,4 Matthias Egger,
+                                       professor of epidemiology and public health,3,5 Andreas E Stuck, professor of geriatrics,1 Kerri M Clough-Gorr,
+                                       senior research fellow in epidemiology and geriatrics1,3,6
+
+1
+  Department of Geriatrics,            ABSTRACT                                                        INTRODUCTION
+Inselspital, University of Bern        Objective To assess the effects of inpatient rehabilitation     As a complement to acute and curative medicine, reha-
+Hospital, Freiburgstrasse 10,
+CH-3010 Bern, Switzerland              specifically designed for geriatric patients compared with      bilitation medicine is recognised as an efficient tool in
+2
+  Rehabilitation Centre Klinik         usual care on functional status, admissions to nursing          the treatment of patients in the Western world. Accord-
+Valens, CH-7317 Valens,                homes, and mortality.                                           ing the World Health Organization, the aim of rehabi-
+Switzerland
+3                                      Design Systematic review and meta-analysis.                     litation is to maximise function and minimise
+  Institute of Social and Preventive
+Medicine, University of Bern,          Data sources Medline, Embase, Cochrane database, and            limitation of activity and restriction of participation
+Finkenhubelweg 11, CH-3012             reference lists from published literature.                      resulting from an underlying impairment or disease.1
+Bern, Switzerland                                                                                      WHO’s international classification of functioning, dis-
+4
+  Institute for Risk Assessment
+                                       Review methods Only randomised controlled trials were
+                                                                                                       ability, and health (ICF) framework takes into account
+Sciences, Netherlands Utrecht          included. Trials had to report on inpatient rehabilitation
+University, PO Box 80178,                                                                              not just medical or biological dysfunction but the social
+                                       and report at least one of functional improvement,
+3508 TD, Utrecht, Netherlands                                                                          aspects of disability as well. It shifts the focus of reha-
+5
+                                       admission to nursing homes, or mortality. Trials of
+  Department of Social Medicine,                                                                       bilitation medicine from cause to impact and places all
+University of Bristol, Bristol         consultation or outpatient services, trials including
+                                                                                                       health conditions on an equal footing in assessing the
+BS8 2PR                                patients aged <55, trials of non-multidisciplinary
+6                                                                                                      impact of multiple domains on a person’s functioning.
+  Section of Geriatrics, Boston        rehabilitation, and trials without a control group receiving
+University Medical Center, Boston,                                                                        Rehabilitation medicine is well accepted as a specia-
+                                       usual care were excluded. Data were double extracted.
+MA 02118, USA                                                                                          lised medical discipline for the treatment of younger
+Correspondence to: A Stuck             Odds ratios and relative risks with 95% confidence
+                                                                                                       patients with organ specific neurological, musculoske-
+andreas.stuck@spitalnetzbern.ch        intervals were calculated.
+                                                                                                       letal, orthopaedic, pulmonary, and cardiovascular dis-
+Cite this as: BMJ 2010;340:c1718
+                                       Results 17 trials with 4780 people comparing the effects        eases. In geriatric patients with special needs associated
+doi:10.1136/bmj.c1718                  of general or orthopaedic geriatric rehabilitation              with ageing (such as cognitive problems, multiple
+                                       programmes with usual care were included. Meta-                 comorbidities, polypharmacy, end of life decisions)
+                                       analyses of effects indicated an overall benefit in             the situation is less clear, and the impact of rehabilita-
+                                       outcomes at discharge (odds ratio 1.75 (95% confidence          tion (for instance, effect on health outcomes, rates of re-
+                                       interval 1.31 to 2.35) for function, relative risk 0.64 (0.51   admission to hospital, healthcare cost-benefit) is still
+                                       to 0.81) for nursing home admission, relative risk 0.72         controversial. Although it is well known that after an
+                                       (0.55 to 0.95) for mortality) and at end of follow-up (1.36     acute hospital stay older adults are at increased risk of
+                                       (1.07 to 1.71), 0.84 (0.72 to 0.99), 0.87 (0.77 to 0.97),       death and admission to a nursing home,2 3 inpatient
+                                       respectively). Limited data were available on impact on         rehabilitation specifically designed for older adults to
+                                       health care or cost. Compared with those in control             address the special aspects of ageing is not standard
+                                       groups, weighted mean length of hospital stay after             practice.
+                                       randomisation was longer in patients allocated to general          Specialised inpatient and outpatient treatment for
+                                       geriatric rehabilitation (24.5 v 15.1 days) and shorter in      older adults might have the potential to optimise health
+                                       patients allocated to orthopaedic rehabilitation (24.6 v        outcomes, notably by improving functional status. As a
+                                       28.9 days).                                                     result, geriatric rehabilitation programmes might not
+                                       Conclusion Inpatient rehabilitation specifically designed       only improve outcomes but might also generate long
+                                       for geriatric patients has the potential to improve             term cost savings by reducing admissions to nursing
+                                       outcomes related to function, admission to nursing              homes.4 5 Furthermore, delaying functional decline
+                                       homes, and mortality. Insufficient data are available for       and avoiding such admissions might be instrumental
+                                       defining characteristics and cost effectiveness of              not just in reducing healthcare costs but also in effec-
+                                       successful programmes.                                          tively maintaining quality of life in older adults.6
+BMJ | ONLINE FIRST | bmj.com                                                                                                                            page 1 of 11
+ RESEARCH
+
+
+                  To the best of our knowledge there are no systematic       control group in which patients did not receive usual
+               reviews or meta-analyses focusing on the topic of inpa-       care (such as randomised controlled trials comparing
+               tient rehabilitation of older adults based on the WHO         two different forms of rehabilitation).
+
+
+
+
+                                                                                                                                               BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+               framework. We summarised the short term (at dis-
+               charge) and longer term (at end of follow-up) effects         Data extraction and management
+               of inpatient rehabilitation specifically designed for ger-    Two reviewers (SB and CF) independently screened
+               iatric patients on the key outcomes of functional             titles, abstracts, and full texts. Discrepancies were
+               improvement, admissions to nursing homes, and mor-            resolved through discussion with a third reviewer
+               tality. We also identified characteristics that might dif-    (AES). We extracted information on the mean age of
+               ferentiate successful from unsuccessful rehabilitation        the study population, location of the intervention (such
+               programmes as well as their impact on health care.            as separate ward in acute hospital, separate hospital for
+               We hypothesised that inpatient rehabilitation pro-            rehabilitation), mean length of stay in hospital under
+               grammes are more likely to be beneficial if they follow       acute care before randomisation (for intervention and
+               the WHO framework rehabilitation cycle.7-9 Such pro-          control groups combined), length of hospital stay after
+               grammes include a multidimensional geriatric assess-          randomisation (separately for intervention and control
+               ment, stringent assignment to therapies, regular team         group), length of follow-up for outcome evaluation,
+               meetings with all health professionals involved in the        and whether or not patients in the intervention group
+               care of the patient, goal setting tailored to the indivi-     entered an outpatient follow-up therapy programme
+               dual patient, interventions tailored to the patient’s         after their stay in hospital. Most trials reported length
+               needs, and regular treatment evaluation with the care         of hospital stay after randomisation as a mean or med-
+               team and the patient.                                         ian value without standard deviations. We therefore
+                                                                             calculated means within groups weighted for sample
+               METHODS                                                       size; statistical pooling of the data was not possible.
+               Literature search and eligibility criteria                       On the basis of search results, we classified studies as
+               We searched for randomised controlled trials on the           orthopaedic geriatric rehabilitation after hip fracture
+               effects of inpatient rehabilitation specifically designed     or general geriatric rehabilitation. We extracted all
+               for geriatric patients. Rehabilitation was defined as inpa-   information on the key outcomes of functional status,
+               tient multidisciplinary programmes with active physio-        admissions to nursing homes, and mortality at dis-
+               therapy or occupational therapy, or both, according the       charge (or within four weeks after discharge) and at
+               WHO ICF framework. Published studies were identi-             the end of follow-up (preferably at one year or closest
+               fied through searches in Medline, Embase (1 January           to one year). Our definition of functional status was
+               1970 to 31 July 2008), and the Cochrane Central Regis-        based on activities of daily living (ADL), most com-
+               ter of Controlled Trials (CENTRAL) database using the         monly the Barthel index10 (six trials),11-19 or the Katz
+               key words: geriatric, elderly, older, old, very old, aged,    index20 (six trials),21-27 but also included other measures
+               inpatient, rehabilitation, discharge, post(-) acute, hospi-   of functional ability as reported (for example, activities
+               taliz(s)ed, randomiz(s)ed in combination with falls pre-      of daily living score, personal self maintenance
+               vention, exercise, fitness, training, multidisciplinary       scale).5 28-30 If more than one functional outcome was
+               therapy, ICF, physiotherapy, occupational therapy, ger-       reported we used measures based on activities of
+               iatric evaluation, geriatric assessment, geriatric manage-    daily living score. At discharge and at the end of fol-
+               ment, nursing home, mortality, Barthel, Functional            low-up we recorded the number of patients with func-
+               Independence Measure (FIM), Mini mental, Timed-               tional improvement, the number admitted to nursing
+               up-and-go-test, function, functional, fit-to-walk, restora-   homes, and the number who died. Unpublished data
+               tion, strength, maintenance.                                  were available from three studies.21 28 29 Lastly, we mea-
+                  Additional trials were identified by screening refer-      sured the impact of geriatric rehabilitation pro-
+               ence lists. No language restrictions were applied. Trials     grammes on health care measured by rate of re-
+               had to report on inpatient rehabilitation specifically        admission to hospital and total programme costs.
+               designed for geriatric patients and report at least one
+               of functional status, admissions to nursing homes, or         Assessment of quality of intervention programme and
+               mortality. We excluded studies that were not peer             methodological quality of trials
+               reviewed randomised controlled trials, studies offered        Two reviewers (SB and CF) independently assessed all
+               to patients of all ages (that is, the study did not use an    included trials for quality of the intervention programme
+               age threshold for including patients or the study used        and the trial methods. Quality of the intervention pro-
+               an age threshold of <55), interventions that were not an      gramme was measured according to the WHO ICF fra-
+               inpatient programme in a designated unit, inter-              mework rehabilitation cycle. It included whether or not
+               ventions that were part of an acute care programme            studies performed multidimensional geriatric assess-
+               without rehabilitation in medically stable patients,          ment and assigned patients (defined as assignment to
+               interventions that did not include a multidisciplinary        therapy and care team meetings for individualised goal
+               therapy programme including active physiotherapy              setting). Assessment of methodological quality was
+               or occupational therapy, or both, directed towards            based on concealment of allocation (for instance, explicit
+               functional status of patients, studies that did not report    report of a method of concealed random allocation),
+               on the predefined outcome data, and studies with a            independence of assessors (for instance, explicit report
+page 2 of 11                                                                                                    BMJ | ONLINE FIRST | bmj.com
+                                                                                                                                                                            RESEARCH
+
+
+
+Table 1 | Description of main characteristics of 17 included randomised controlled trials (listed alphabetically by type of rehabilitation) of inpatient
+rehabilitation specifically designed for geriatric patients. In all studies, patients in control group received standard inpatient care, except in study of Karppi
+
+
+
+
+                                                                                                                                                                                                BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+et al,22 in which they received usual supervised home care
+                        Type of
+                     hospital for       Reason for initial      Mean length of                                                                                                No of patients
+                     initial acute          hospital          hospital stay before                                                                                 Mean age   (intervention/
+                          care             admission         randomisation (days)                   Main criteria for selection of study sample                     (years)       control)
+General geriatric rehabilitation
+Applegate 1990, Community              Functional                     21             Age ≥65, at risk for admission to nursing home, reversible functional           78.8        78/77
+USA28 43        and city               impairment from                               problem, medically stable, not terminally ill or severely demented
+                hospitals              acute illness
+Cohen 2002,        Medical centre      Acute medical or              NA              Age ≥65, admitted from home, not terminally ill or severely demented            74.2       694/694
+USA21 49           (medical or         surgical illnesses
+                   surgical ward)
+Fleming 2004,      Community           Acute medical or               35             Age ≥65, admitted from home, at risk for admission to nursing home, not        81.5*        81/84
+UK44               hospital            orthopaedic                                   severely disabled or demented, medically stable
+                                       disorders
+Karppi 1995,       Direct              Medical problems               0†             Age >65, admitted from home, at risk for admission to nursing home,             78.5       104/208
+Finland22          admissions          with anticipated                              reversible functional problem
+                   from home           benefit from
+                                       geriatric
+                                       intervention
+Rubenstein       Medical centre        Acute medical or               ≥7             Age ≥65 (all men), at risk for admission to nursing home, reversible            77.9        63/60
+1984, USA5 29 30                       surgical illnesses                            functional problem, not terminally ill or severely demented
+Saltvedt 2002,     University          Acute medical                  0†             Age ≥75, admitted from home, frail, not terminally ill or severely demented     82.1       127/127
+Norway14-16        hospital            illnesses
+White 1994,        University          Acute medical or               17             Age >65, at risk for admission to nursing home, reversible functional           76.5        20/20
+USA27              hospital            surgical illnesses                            problem, not severely demented, medically stable
+Young 2007,        Community           Acute medical or               6*             Age >75, reversible functional problem, medically stable                       86.0*       280/210
+UK19 12 48         hospital            surgical illnesses
+Orthopaedic geriatric rehabilitation
+Cameron 1993,      General             Acute hip fracture‡            2              Age ≥65                                                                         84.9       127/125
+Australia11        hospital
+Gilchrist 1988,    University          Acute hip fracture‡            10             Age ≥65 (all women), expected prolonged hospital stay                           81.3        97/125
+UK45               hospital
+Huusko 2002,       Local health        Acute hip fracture‡            ≥1             Age ≥65, admitted from home, good function before fracture, not                 80.0       120/123
+Finland46 47       centre hospital                                                   terminally ill or severely demented
+Kennie 1988,       District            Acute hip fracture‡            5              Age ≥65 (all women), expected length of hospital stay >7days                    82*         54/54
+UK23 24            hospital
+Naglie 2002,       University          Acute hip fracture‡            0†             Age ≥70, admitted from home, good function before fracture, not                 84.2       141/139
+Canada13           affiliated                                                        terminally ill
+                   hospital
+Shyu 2005,         Community           Acute hip fracture‡            0†             Age ≥60, good function before fracture, not terminally ill or severely          77.6        72/87
+Thailand17         based medical                                                     demented
+                   centre
+Stenvall 2007,     University          Acute hip fracture‡            0†             Age >70, good function before fracture                                          82.2        102/97
+Sweden25           hospital
+Swanson 1998,      University          Acute hip fracture‡            0†             Age ≥55, admitted from home, good function before fracture                      78.1        38/33
+Australia18        hospital
+Vidan 2005,        University          Acute hip fracture‡            0†             Age >65, admitted from home, good function before fracture, not terminally      81.9       155/164
+Spain26            hospital                                                          ill
+NA=not available.
+*Median.
+†Zero (0) indicates patients were enrolled and randomised directly after hospital admission (in these studies, because of initial screening and informed consent procedures, though not
+explicitly reported, patients might have had few inpatient hospital days before randomisation).
+‡Most studies explicitly defined “acute hip fracture” as uncomplicated single sided proximal femur fracture (that is, no additional fractures, non-pathological fracture).
+
+
+
+
+                                         that staff assessing functional status and nursing home                        reported as means (SD) of the Barthel or Katz index)
+                                         outcomes were blinded to the patients’ allocation), and                        were converted to odds ratios and 95% confidence
+                                         analyses by intention to treat (that is, participants were                     intervals according to the method described by
+                                         analysed within their randomised groups).31                                    Chinn32 and Hasselblad and Hedges.33 This method,
+                                                                                                                        used in previously published meta-analyses,4 34 is
+                                         Statistical analysis                                                           based on the fact that with logistic distributions and
+                                         For admission to a nursing home and mortality out-                             equal variances in the two treatment groups the log
+                                         comes, we calculated relative risks with 95% confi-                            odds ratio corresponds to a constant multiplied by
+                                         dence intervals. Functional outcomes (primarily                                the standardised difference between means.
+BMJ | ONLINE FIRST | bmj.com                                                                                                                                                     page 3 of 11
+ RESEARCH
+
+
+
+Table 2 | Description of inpatient rehabilitation programmes specifically designed for geriatric patients in 17 included randomised controlled trials
+                                                 Structure of programme                                                Process of programme
+
+
+
+
+                                                                                                                                                                                      BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+                                                                                         Multidimen-                                      Mean length of
+                                                                                            sional                   Intervention team   hospital stay after       Follow-up
+               Programme                                                                   geriatric   Assignment    meetings for goal    randomisation        intervention after
+               description              Location         Additional team members*        assessment     to therapy         setting           (days)†           hospital discharge
+General geriatric rehabilitation
+Apple-     Geriatric               Separate unit in    Physiotherapist, occupational        Yes           Yes            Weekly                23.6                    No
+gate       assessment unit         acute care hospital therapist, psychologist, social
+1990                               complex             worker, speech therapist,
+                                                       dietician
+Cohen      Geriatric               Separate unit in   Physiotherapist, occupational         Yes           Yes          Twice a week            23.2            Yes (one
+2002       evaluation and          acute care medical therapist, social worker,                                                                                subsample:
+           management unit         centre             dietician                                                                                                outpatientcareinVA
+                                                                                                                                                               geriatric
+                                                                                                                                                               programme)
+Fleming    Care home               Separate             Social worker, occupational          No            No               No                 16.3                    No
+2004       rehabilitation          institution for      therapist
+           services                rehabilitation
+Karppi     Geriatric inpatient     Separate unit in    Physiotherapist, occupational        Yes            NA              NA                  16.5                    No
+1995       unit                    acute care hospital therapist, social worker,
+                                                       psychologist
+Ruben-     Geriatric               Separate unit in   Physiotherapist, occupational         Yes           Yes            Weekly                85.1            Yes (continuing care
+stein      evaluation unit         acute care medical therapist, social worker,                                                                                in geriatric
+1984                               centre             psychologist, dietician                                                                                  outpatient clinic)
+Saltvedt Geriatric                 Separate unit in    Physiotherapist, occupational        Yes           Yes          Twice a week            21.2                    No
+2002     evaluation and            acute care hospital therapist
+         management unit
+White      Multidisciplinary       Separate unit in    Social worker, dietician,            Yes           Yes              Yes                  7.7                    No
+1994       geriatric care          acute care hospital occupational therapist,
+                                                       pharmacist, physiotherapist
+Young      Multidisciplinary       Separate hospital    Physiotherapist, social worker      Yes            No              Yes                  22‡                    No
+2007       geriatric care          for rehabilitation
+Orthopaedic geriatric rehabilitation
+Camer- Accelerated                 Combined acute/ Physiotherapist, occupational            Yes            No              Yes                 19.5            Yes (day hospital or
+on 1993 rehabilitation             post-acute unit in therapist, social worker                                                                                 physiotherapy)
+                                   acute care hospital
+Gilchrist Orthopaedic              Separate hospital    Orthopaedic surgeon,                 No            No            Weekly                33.8                    No
+1988      geriatric inpatient      for rehabilitation   physiotherapist, occupational
+          care                                          therapist, social worker
+Huusko     Intensive geriatric     Separate unit in    Physiotherapist, occupational        Yes           Yes            Weekly                 34             Yes (physiotherapy
+2002       rehabilitation          acute care hospital therapist, social worker,                                                                               for two months)
+                                                       psychologist
+Kennie     Geriatric               Separate hospital    Physiotherapist, occupational       Yes            No              Yes                  24‡                    No
+1988       rehabilitation          for rehabilitation   therapist
+Naglie     Postoperative           Separate unit in    Orthopaedic surgeon,                 Yes            No               No                 29.2                    No
+2002       multidisciplinary       acute care hospital physiotherapist, occupational
+           care                                        therapist, social worker
+Shyu       Multidisciplinary       Combined acute/ Physiotherapist                          Yes           Yes              Yes                 10.1            Yes (geriatric nurse
+2005       intervention            post-acute unit in                                                                                                          coordination of
+           programme               acute care hospital                                                                                                         follow-up services
+                                                                                                                                                               and clinic visits)
+Stenvall   Multidisciplinary       Combined acute/ Physiotherapist, occupational            Yes           Yes              Yes                 30.0                    Yes
+2007       postoperative           post-acute unit in therapist, dietician
+           rehabilitation          acute care hospital
+Swan-      Multidisciplinary       Combined acute/ Orthopaedic surgeon,                     Yes           Yes            Weekly                21.0            Yes (follow-up visit
+son        rehabilitation          post-acute unit in physiotherapist, occupational                                                                            one and six months
+1998       intervention            acute care hospital therapist, social worker                                                                                after discharge)
+Vidan      Comprehensive           Combined acute/ Social worker, rehabilitation            Yes           Yes            Weekly                 16‡                    No
+2005       geriatric               post-acute unit in specialist
+           intervention            acute care hospital
+NA=not available.
+*All teams included geriatrician and nurse.
+†Weighted for sample size.
+‡Median.
+
+
+
+
+                                            We used the “metan” command for Stata statistical               Heterogeneity between trials was measure with the I2
+                                          software (version 10, StataCorp, College Station, TX)             statistic, which indicates the proportion of the total var-
+                                          to conduct random effects meta-analyses.35                        iation in estimated effects caused by heterogeneity
+
+page 4 of 11                                                                                                                                          BMJ | ONLINE FIRST | bmj.com
+                                                                                                                                                                      RESEARCH
+
+
+
+Table 3 | Reported outcomes in 17 included randomised controlled trials (listed alphabetically by type of rehabilitation) of inpatient rehabilitation
+programmes specifically designed for geriatric patients
+
+
+
+
+                                                                                                                                                                                                BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+                                       Reported short term (at discharge) outcomes                                  Reported longer term (at 3-12 month follow-up) outcomes
+                                                                                                                                                                       Length of follow-up
+                                     Functional                                                          Functional                                                       to outcome
+                                   improvement         Nursing home                                    improvement            Nursing home                               measurement
+                                (instrument used)*      admission             Mortality             (instrument used)*         admission               Mortality            (months)
+General geriatric rehabilitation
+Applegate 1990                          No                  Yes                  No                ADL score                       Yes                   Yes                    12
+Cohen 2002                     Katz index                   No                   No                Katz index                      Yes                   Yes                    12
+Fleming 2004                            No                  No                   No                No                              Yes                   Yes                    12
+Karppi 1995                             No                  No                   No                Katz index                      Yes                   Yes          3 (function), 12
+                                                                                                                                                                      (nursing home
+                                                                                                                                                                      admission, mortality)
+Rubenstein 1984                         No                  Yes                  Yes               Personal self                   Yes                   Yes                    12
+                                                                                                   maintenance scale
+Saltvedt 2002                           No                  Yes                  Yes               Barthel index                   Yes                   Yes          6 (nursing home
+                                                                                                                                                                      admission), 12
+                                                                                                                                                                      (function, mortality)
+White 1994                     Katz index                   Yes                  Yes               No                              No                    No                 Discharge
+Young 2007                     Barthel index†               No                   Yes               Barthel index†                  Yes                   Yes                     6
+Orthopaedic geriatric rehabilitation
+Cameron 1993                            No                  No                   No                Barthel index                   Yes           No                              4
+Gilchrist 1988                          No                  Yes                  Yes               No                              No            Yes                             6
+Huusko 2002                             No                  Yes                  Yes               No                              Yes           Yes                            12
+Kennie 1988                    Katz index                   Yes                  Yes               Katz index                      Yes           Yes                            12
+Naglie 2002                             No                  Yes                  Yes               Barthel index                   Yes           Yes                             6
+Shyu 2005                      Barthel index                Yes                  Yes               Barthel index                   Yes           Yes                             3
+Stenvall 2007                  Katz index                   Yes                  Yes               Katz index                      Yes           Yes                            12
+Swanson 1998                   Barthel index                Yes                  Yes               No                              No            Yes                             6
+Vidan 2005                     Katz index                   No                   Yes               Katz index                      No            Yes                  3 (function), 12
+                                                                                                                                                                      (mortality)
+ADL=activities of daily living.
+*See methods for references of functional status measures.
+†Functional status outcomes reported for only one study site (intervention group n=79, control group n=141).
+
+
+
+                                        between trials rather than chance.36 We also calculated                     RESULTS
+                                        the P value for the χ2 test of heterogeneity. We explored                   Identification of eligible trials
+                                        the extent to which one or more study characteristics                       We identified 932 potentially relevant publications.
+                                        explained heterogeneity between trials using random                         Twenty seven articles5 11-19 21-30 43-49 describing 17 trials
+                                        effects meta-regression, with the Stata “metareg” com-                      met the predefined inclusion criteria and were
+                                        mand. According to an a priori statistical analysis plan                    included in our meta-analysis (fig 1).
+                                        we considered type of intervention programme (gen-
+                                        eral geriatric/orthopaedic), mean (or median) age of
+                                        total study population (≤80 v >80), length of hospital                         Articles identified by search of titles and abstracts (n=932):
+                                        stay after randomisation in the intervention group (≤21                         Embase and Medline (n=689)
+                                        v >21 days), outpatient follow-up therapy after the trial                       Cochrane (n=204)
+                                                                                                                        Additional references from reference lists (n=39)
+                                        for patients in the intervention group (yes/no), length
+                                        of follow-up for outcome evaluation (≤6 v >6 months),                           Full text articles retained for assessment of eligibility (n=119)
+                                        quality of the intervention programme (use of multi-
+                                        dimensional geriatric assessment and assignment of                                    Articles rejected (n=92):
+                                                                                                                               Not randomised controlled trial (n=25)
+                                        patients), and methodological trial quality (conceal-                                  Age <55 (n=17)
+                                        ment of allocation, blinding of outcome assessor, and                                  Not inpatient programme (n= 20)
+                                        analysis by intention to treat). For all outcomes we                                   Acute care programme (n=9)
+                                                                                                                               Consultation service (n=3)
+                                        included the selected variables in meta-regression                                     Non-comprehensive multidisciplinary rehabilitation (n=3)
+                                        models and conducted random effects meta-analyses                                      No outcome data (n=7)
+                                                                                                                               Control group did not receive usual care (n=8)
+                                        within each subgroup. We used funnel plots and
+                                        Begg and Egger bias tests to check for small study                                        Articles included in meta-analysis (n=27)
+                                        effects.37-41 Finally, we calculated the numbers needed                           (27 articles reporting on 17 randomised controlled trials)
+
+                                        to treat (NNT) to prevent one admission to a nursing
+                                        home and death.42                                                           Fig 1 | Flow of papers through study
+
+BMJ | ONLINE FIRST | bmj.com                                                                                                                                                     page 5 of 11
+ RESEARCH
+
+
+                                        Characteristics of trials, participants, and intervention                        main structural (location, personnel) and process
+                                        programmes                                                                       (based on WHO criteria) characteristics.
+
+
+
+
+                                                                                                                                                                                                   BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+                                        Tables 1 and 2 describe the 17 trials and correspond-                               Table 3 gives details of the reported outcomes. At
+                                        ing inpatient rehabilitation intervention programmes.                            discharge eight (47%) of the 17 trials reported func-
+                                        We found eight trials on general geriatric                                       tional status in a way that we could extract and com-
+                                        rehabilitation 5 12 14-16 19 21 22 27-30 43 44 48 49 and nine on                 pare results between trials, 10 (59%) reported
+                                        orthopaedic geriatric rehabilitation after hip                                   admissions to nursing homes, and 12 (71%) reported
+                                        fracture. 11 13 17 18 23-26 45-47 No trials reporting effects of                 mortality. At the end of follow-up 12 (71%) trials
+                                        rehabilitation programmes in other specialties (such                             reported on functional status, 13 (76%) on admission
+                                        as orthopaedic for other indications, neurological, car-                         to nursing homes, and 15 (88%) on mortality (table 3).
+                                        diac, or pulmonary) met the inclusion criteria (rando-                           Length of follow-up for outcomes ranged from dis-
+                                        mised controlled trials of neurological rehabilitation,                          charge to 12 months. Funnel plots and bias tests indi-
+                                        for example, often had no lower age cut off and                                  cated little evidence of publication bias.
+                                        included younger patients). In the 17 included trials,
+                                        4780 people were allocated to intervention (n=2353)                              Short term effects at discharge
+                                        or control (n=2427) groups. Mean (or median) age of                              At discharge, heterogeneity tests for the three out-
+                                        participants ranged from 74.2 to 86.0 (table 1). Type                            comes were not significant (I2=38.4%, P=0.12, for func-
+                                        and duration of hospital care before the trial, reason for                       tional improvement; I2=14.6%, P=0.31, for admission
+                                        the initial hospital admission, and criteria for the selec-                      to nursing home; and I2=0.0%, P=0.56, for mortality)
+                                        tion of patients (such as age criteria, functional criteria)                     (figs 2-4). Overall, trials had a short term beneficial
+                                        varied between studies (table 1). Table 2 shows the                              effect on all outcomes (combined odds ratio 1.75
+
+
+Table 4 | Random effects meta-analysis for outcomes stratified by study characteristics in 17 trials of inpatient rehabilitation specifically designed for
+geriatric patients. Figures are odds ratios (for functional improvement) or relative risks (for nursing home admissions and mortality) with 95% confidence
+intervals
+                                                          Short term (at discharge)                                                       Longer term (at 3-12 month follow-up)
+                                     Functional                 Nursing home                                                Functional               Nursing home
+Study characteristics               improvement                  admission                     Mortality                   improvement                admission                 Mortality
+Type of intervention programme:
+  General geriatric              1.34 (1.12 to 1.60)         0.53 (0.33 to 0.86)          0.76 (0.54 to 1.06)           1.02 (0.86 to 1.21)       0.90 (0.71 to 1.13)      0.88 (0.75 to 1.04)
+rehabilitation
+  Orthopaedic geriatric         2.33 (1.62 to 3.34),         0.72 (0.56 to 0.91)          0.66 (0.42 to 1.04)           1.79 (1.24 to 2.60),      0.79 (0.61 to 1.02)      0.77 (0.61 to 0.96)
+rehabilitation                        P=0.04*                                                                                 P=0.01*
+Mean age of study population (years):
+  ≤80                            1.88 (1.19 to 2.97)         0.42 (0.27 to 0.64)          1.01 (0.47 to 2.16)           1.26 (0.87 to 1.82)       0.82 (0.58 to 1.16)      0.85 (0.62 to 1.16)
+  >80                            1.74 (1.05 to 2.88)         0.75 (0.58 to 0.96),         0.68 (0.50 to 0.92)           1.45 (1.08 to 1.94)       0.88 (0.72 to 1.07)      0.82 (0.70 to 0.95)
+                                                                  P=0.045*
+Intervention programme: length of hospital stay after randomisation in intervention group:
+  ≤21 days                       2.38 (1.53 to 3.70)         0.67 (0.42 to 1.09)          0.59 (0.29 to 1.22)           1.43 (1.00 to 2.05)       0.99 (0.69 to 1.42)      0.84 (0.67 to 1.05)
+  >21 days                       1.52 (1.08 to 2.13)         0.61 (0.45 to 0.83)          0.76 (0.56 to 1.04)           1.30 (0.95 to 1.78)       0.81 (0.67 to 0.98)      0.85 (0.73 to 0.99)
+Outpatient follow-up after inpatient rehabilitation for patients in intervention group:
+  Yes                                    —                            —                           —                     1.49 (0.93 to 2.39)       0.76 (0.64 to 0.92)      0.84 (0.61 to 1.16)
+  No/NR                                  —                            —                           —                     1.29 (1.00 to 1.66)       0.88 (0.69 to 1.12)      0.82 (0.71 to 0.96)
+Length of follow-up for outcome evaluation (months):
+  ≤6                                     —                            —                           —                     1.44 (0.94 to 2.21)       0.82 (0.67 to 1.00)      0.83 (0.66 to 1.05)
+  >6                                     —                            —                           —                     1.32 (0.99 to 1.76)       0.90 (0.68 to 1.19)      0.85 (0.73 to 0.99)
+Intervention programme quality: intervention included initial multidimensional geriatric assessment:
+  Yes                            1.75 (1.31 to 2.35)         0.60 (0.46 to 0.78)          0.75 (0.57 to 0.99)           1.36 (1.07 to 1.71)       0.81 (0.69 to 0.94)      0.86 (0.77 to 0.97)
+  No/NR                                  NA                  0.84 (0.54 to 1.29)          0.40 (0.13 to 1.18)                    NA               1.23 (0.75 to 2.02)      0.90 (0.61 to 1.33)
+Intervention programme quality: intervention included patient assignment (to therapies and goal setting):
+  Yes                            1.81 (1.23 to 2.67)         0.54 (0.37 to 0.78)          0.68 (0.39 to 1.19)           1.32 (0.90 to 1.92)       0.88 (0.62 to 1.26)      0.83 (0.68 to 1.00)
+  No/NR                          1.80 (0.96 to 3.37)         0.71 (0.53 to 0.94)          0.74 (0.53 to 1.03)           1.40 (1.02 to 1.90)       0.86 (0.71 to 1.04)      0.85 (0.71 to 1.02)
+Methodological trial quality: concealed randomisation:
+  Yes                            1.61 (1.21 to 2.13)         0.61 (0.45 to 0.83)          0.75 (0.56 to 1.02)           1.45 (1.02 to 2.06)       0.78 (0.68 to 0.91)      0.90 (0.79 to 1.03)
+  No/NR                          2.91 (1.36 to 6.24)         0.66 (0.40 to 1.07)          0.54 (0.24 to 1.22)           1.29 (0.99 to 1.68)       1.05 (0.72 to 1.54)      0.77 (0.60 to 0.98)
+Methodological trial quality: data assessment by an independent assessor:
+  Yes                            1.39 (1.17 to 1.65)         0.59 (0.33 to 1.06)          0.63 (0.31 to 1.26)           1.34 (0.97 to 1.85)       0.81 (0.68 to 0.95)      0.92 (0.80 to 1.06)
+  No/NR                          2.43 (1.47 to 4.00)         0.63 (0.47 to 0.85)          0.72 (0.48 to 1.07)           1.40 (0.97 to 2.03)       0.93 (0.66 to 1.30)      0.76 (0.62 to 0.93)
+NR=not reported, NA=not applicable (no studies in this category).
+*Exact P values for significant results in meta-regression analyses (P<0.05). If result of meta-regression was not significant (P≥0.05), no P value is listed.
+
+page 6 of 11                                                                                                                                                        BMJ | ONLINE FIRST | bmj.com
+                                                                                                                                                          RESEARCH
+
+
+                                       (1.31 to 2.35) for function, relative risk 0.64 (0.51 to              admissions to nursing homes and mortality were not
+                                       0.81) for nursing home admission, relative risk 0.72                  heterogeneous (I2=22.6%, P=0.22, and I2=0.0%,
+                                                                                                             P=0.60, respectively) (figs 2-4). Meta-analyses of
+
+
+
+
+                                                                                                                                                                                  BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+                                       (0.55 to 0.95) for morality). Comparisons of short
+                                       term outcomes between trials according to character-                  longer term effects indicated an overall significant
+                                       istics of the programme or patients showed two signifi-               favourable effect of the intervention on all outcomes
+                                       cant differences in effect. Specifically in meta-                     at the end of follow-up (combined odds ratio 1.36
+                                       regression analyses (table 4), there was greater func-                (1.07 to 1.71) for function, relative risk 0.84 (0.72 to
+                                       tional improvement for orthopaedic compared with                      0.99) for nursing home admission, relative risk 0.87
+                                       general geriatric rehabilitation programmes (odds                     (0.77 to 0.97) for mortality). Stratified effects of func-
+                                       ratio 2.33 (1.62 to 3.34) v 1.34 (1.12 to 1.60), P=0.04);             tional improvement at end of follow-up significantly
+                                       and a larger reduction in admissions to nursing homes                 differed by intervention type (odds ratio 1.02 (0.86 to
+                                       in trials with younger patients (mean age of study popu-              1.21) for general v 1.79 (1.24 to 2.60) for orthopaedic,
+                                       lation ≤80) than with older patients (>80) (relative risk             P=0.01). All other longer term effects (table 4) were
+                                       0.42 (0.27 to 0.64) v 0.75 (0.58 to 0.96), P=0.045).                  similar across study characteristics hypothesised to
+                                                                                                             influence longer term effects and not significant in
+                                       Longer term effects at end of follow-up                               meta-regression (P>0.05). In addition, heterogeneity
+                                                                                                             between studies also varied by intervention type for
+                                       At the end of follow-up, results on function were het-
+                                                                                                             both functional status and admissions to nursing
+                                       erogeneous (I2=51.4%, P=0.02). Overall results for
+                                                                                                             homes (function: I2=0.0%, P=0.95, for general v
+                                                                                                             I2=53.5%, P=0.06, for orthopaedic; nursing home
+                                                 Odds ratio (95% CI)                  Odds ratio (95% CI)    admission: I2=42.8%, P=0.11, for general v I2=0.0%,
+Effects at hospital discharge                                                                                P=0.43, for orthopaedic).
+General geriatric rehabilitation                                                                                The proportion of people in control groups admitted
+ Cohn 2002                                                                            1.35 (1.11 to 1.63)    to a nursing home varied between 10% and 30% in
+ White 1994                                                                           1.82 (0.59 to 5.65)    most studies, resulting in a number needed to treat
+ Young 2007                                                                           1.22 (0.71 to 2.11)    between 9 and 28 to avoid one admission to a nursing
+Subtotal: I2=0.0%, P=0.821                                                            1.34 (1.12 to 1.60)    home at hospital discharge, and between 21 and 63 to
+Orthopaedic geriatric rehabilitation                                                                         avoid one admission to a nursing home at follow-up.
+ Kennie 1988                                                                          4.39 (1.57 to 12.27)   The number needed to treat to prevent on death at one
+ Shyu 2005                                                                            2.25 (1.21 to 4.19)    year follow-up was 38, assuming a 20% one year mor-
+ Stenwal 2007                                                                         1.60 (0.83 to 3.05)    tality rate among controls.
+ Swanson 1998                                                                         3.57 (1.46 to 8.76)
+ Vidan 2005                                                                           1.70 (0.40 to 7.24)    Measures of intervention programme quality and
+Subtotal: I2=0.0%, P=0.428                                                            2.33 (1.62 to 3.34)    methodological quality of trials
+                                                                                                             Of the 17 included trials, 15 (88%) reported that they
+Overall: I2=38.4%, P=0.123                                                            1.75 (1.31 to 2.35)    included multidimensional geriatric assessment as part
+                                                                                                             of the intervention, and 10 (59%) reported on assign-
+Effects at 3-12 month follow-up
+                                                                                                             ment as part of the intervention (table 2). Overall, 10
+General geriatric rehabilitation                                                                             (59%) trials reported adequate concealment of
+ Applegate 1990                                                                       1.11 (0.51 to 2.39)    allocation, 13-17 19 21 23 25 27 28 46 47 seven (41%) blinded the
+ Cohen 2002                                                                           0.97 (0.78 to 1.21)    independent outcome assessors, 13 17 19 21 26 28 44 and all
+ Karppi 1995                                                                          1.13 (0.73 to 1.72)    reported intention to treat. In meta-regression ana-
+ Rubenstein 1984                                                                      1.08 (0.42 to 2.75)    lyses, there were no significant differences in effects
+ Saltvedt 2002                                                                        0.88 (0.39 to 1.95)    related to any of these quality criteria.
+ Young 2007                                                                           1.28 (0.71 to 2.30)
+Subtotal: I2=0.0%, P=0.949                                                            1.02 (0.86 to 1.21)    Impact of intervention programmes on healthcare
+Orthopaedic geriatric rehabilitation
+                                                                                                             Compared with patients in control groups, the
+ Cameron 1993                                                                         1.19 (0.69 to 2.08)
+                                                                                                             weighted mean length of hospital stay after randomisa-
+ Kennie 1988                                                                          3.82 (1.37 to 10.60)
+                                                                                                             tion was longer in patients allocated to general geriatric
+ Naglie 2002                                                                          1.06 (0.63 to 1.79)
+                                                                                                             rehabilitation (24.5 v 15.1 days) and shorter in those
+ Shyu 2005                                                                            2.95 (1.54 to 5.63)
+                                                                                                             allocated to orthopaedic rehabilitation (24.6 v 28.
+ Stenvall 2007                                                                        2.36 (1.18 to 4.72)
+                                                                                                             9 days). Six out of 17 trials reported on readmission
+ Vidan 2005                                                                           1.68 (1.05 to 2.70)
+                                                                                                             to hospital after rehabilitation.5 14-17 25 27 29 30 44 All six
+Subtotal: I2=53.5%, P=0.057                                                           1.79 (1.24 to 2.60)
+                                                                                                             reported a lower or equal rate in intervention patients,
+                                                                                                             but the overall range across the six trials was similar in
+Overall: I2=51.4%, P=0.020                                                            1.36 (1.07 to 1.71)
+                                                                                                             intervention (21-51%) and control patients (31-55%).
+                                       0.25      0.5     1        2      4       8                           Six trials reported total costs of inpatient geriatric reha-
+                                       Favours                              Favours                          bilitation programmes.19 27 29 43 47 49 Total programme
+                                       control                         intervention
+                                                                                                             costs adjusted for years survived or living in the com-
+Fig 2 | Effect of inpatient rehabilitation specifically designed for geriatric patients on functional        munity differed between the trials: one trial showed no
+improvement at hospital discharge and at follow-up                                                           cost difference between intervention and usual care,19
+BMJ | ONLINE FIRST | bmj.com                                                                                                                                       page 7 of 11
+ RESEARCH
+
+
+                                   Treatment   Control                 Relative risk           Relative risk       programme, patients, and quality of the study showed
+                                                                         (95% CI)                (95% CI)
+Effects at hospital discharge                                                                                      only two significant differences in effects between
+                                                                                                                   study subgroups: orthopaedic intervention pro-
+
+
+
+
+                                                                                                                                                                                     BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+General geriatric rehabilitation
+                                                                                                                   grammes were more likely to be associated with func-
+ Applegate 1990                        6/78     17/77                                       0.35 (0.15 to 0.84)
+ Rubenstein 1984                       8/63     18/60                                       0.42 (0.20 to 0.90)
+                                                                                                                   tional improvement, and study populations with a
+ Saltvedt 2002                      15/127     15/127                                       1.00 ( 0.51 to 1.96)
+                                                                                                                   younger mean age showed a more beneficial effect
+ White 1994                            6/20     13/20                                       0.46 (0.22 to 0.97)
+                                                                                                                   for the nursing home outcome than those with a higher
+Subtotal: I2=37.0%, P=0.190         35/288     63/284                                       0.53 (0.33 to 0.86)    mean age. Given our extensive search strategy we are
+Orthopaedic geriatric rehabilitation                                                                               confident that we have identified all published rando-
+ Gilchrist 1988                     26/97      33/103                                       0.84 (0.54 to 1.29)    mised controlled trials meeting our inclusion criteria so
+ Kennie 1988                           5/54     16/54                                       0.31 (0.12 to 0.79)    that we included only trials examining programmes in
+ Naglie 2002                        38/141     48/138                                       0.77 (0.54 to 1.11)    accordance with WHO’s definition of rehabilitation
+ Shyu 2005                             1/72      3/87                                       0.40 (0.04 to 3.79)    and the ICF framework.
+ Stenvall 2007                      15/102      22/97                                       0.65 (0.36 to 1.17)
+ Swanson 1998                          1/38      2/33                                       0.43 (0.04 to 4.57)    Comparison with other studies
+Subtotal: I2=0.0%, P=0.502          86/504     124/512                                      0.72 (0.56 to 0.91)    To our knowledge this is the first study to show the
+                                                                                                                   effects of inpatient rehabilitation specifically designed
+Overall: I2=14.6%, P=0.309         121/792     187/796                                      0.64 (0.51 to 0.81)    for older adults. Earlier meta-analyses found favour-
+                                                                                                                   able effects of geriatric rehabilitation compared with
+Effects at 3-12 month follow-up
+                                                                                                                   usual hospital care but grouped randomised controlled
+General geriatric rehabilitation                                                                                   trials of inpatient rehabilitation together with those of
+ Applegate 1990                        7/78     15/77                                       0.46 (0.20 to 1.07)    acute geriatric units.50 51 One exception was a recent
+ Cohen 2002                        127/694     177/694                                      0.72 (0.59 to 0.88)    study that analysed the separate effects of acute geria-
+ Fleming 2004                       25/81       21/84                                       1.23 (0.75 to 2.02)    tric units but not those of inpatient rehabilitation.6 Our
+ Karppi 1995                        11/104     18/208                                       1.22 (0.60 to 2.49)    meta-analysis now provides evidence for independent
+ Rubenstein 1984                    11/63        7/60                                       1.50 (0.62 to 3.61)    favourable effects of inpatient geriatric rehabilitation
+ Saltvedt 2002                      15/127     12/127                                       1.25 (0.61 to 2.56)    on function, admission to nursing homes, and mortal-
+ Young 2007                         84/280     75/210                                       0.84 (0.65 to 1.08)    ity.
+Subtotal: I2=42.8%, P=0.106        280/1427 325/1460                                        0.90 (0.71 to 1.13)
+                                                                                                                      Our stringent definition of rehabilitation contrasts
+Orthopaedic geriatric rehabilitation
+                                                                                                                   with recent literature on the topic of geriatric
+ Cameron 1993                       13/79       21/79                                       0.62 (0.33 to 1.15)
+                                                                                                                   rehabilitation,52 53 where the term “rehabilitation” is
+ Huusko 2002                        9/120       6/123                                       1.54 (0.56 to 4.19)
+                                                                                                                   used in various ways. For example, Gill et al performed
+ Kennie 1988                           6/54     15/54                                       0.40 (0.17 to 0.95)
+                                                                                                                   a randomised controlled trial in an outpatient setting
+ Naglie 2002                        37/141     42/138                                       0.86 (0.59 to 1.25)
+                                                                                                                   where a physiotherapy intervention (labelled rehabili-
+ Shyu 2005                             2/72      3/87                                       0.81 (0.14 to 4.69)
+                                                                                                                   tation) was compared with educational interventions.52
+ Stenvall 2007                      17/102      19/97                                       0.85 (0.47 to 1.54)
+                                                                                                                   Wells et al used a definition of rehabilitation similar to
+Subtotal: I2=0.0%, P=0.425          84/568     106/578                                      0.79 (0.61 to 1.02)
+                                                                                                                   ours but did not emphasise the assignment procedure
+Overall: I2=22.6%, P=0.215         364/1995 431/2038                                        0.84 ( 0.72 to 0.99)
+                                                                                                                   with goal setting.53
+                                                                                                                      Our findings add to the existing literature evaluating
+                                                        0.125 0.25 0.5      1     2    4
+                                                                                                                   the best methods of treating geriatric patients. They are
+                                                        Favours                  Favours
+                                                        intervention              control                          in concordance with earlier meta-analyses showing
+                                                                                                                   favourable effects of other types of inpatient and out-
+Fig 3 | Effect of inpatient rehabilitation specifically designed for geriatric patients on                         patient programmes specifically designed for geriatric
+admissions to nursing homes at hospital discharge and at follow-up                                                 patients.4 6 50 51 54 They are also in concordance with cri-
+                                                                                                                   teria of successful geriatric programmes identified in
+                                                                                                                   earlier meta-analyses. These analyses showed that pro-
+                                        and five trials showed cost differences that were not
+                                                                                                                   grammes were more successful if they used multidi-
+                                        significant. Three trials showed cost savings in the
+                                                                                                                   mensional geriatric assessment as a basis for problem
+                                        intervention group,27 29 49 and two trials showed the
+                                                                                                                   identification,4 they had a geriatric team that formu-
+                                        opposite.43 47                                                             lated recommendations and controlled implementa-
+                                                                                                                   tion of the recommendations,51 and inpatient geriatric
+                                        DISCUSSION                                                                 care was combined with outpatient geriatric follow-
+                                        This systematic review and meta-analysis of inpatient                      up.51 These three criteria were at least in part met by
+                                        rehabilitation specifically designed for geriatric                         the studies included in our meta-analysis.
+                                        patients showed beneficial effects over usual care for
+                                        functional improvement, preventing admissions to                           Limitations
+                                        nursing homes, and reducing mortality. For all out-                        Given the number of stratified analyses, the more
+                                        comes inpatient rehabilitation showed a short term                         favourable effects in orthopaedic intervention pro-
+                                        effect after discharge as well as a less pronounced                        grammes or populations with a younger mean age
+                                        longer term effect at the end of follow-up. Multiple stra-                 might be due to chance. Furthermore, given the limited
+                                        tified analyses according to characteristics of the                        number of included studies we might have missed true
+page 8 of 11                                                                                                                                          BMJ | ONLINE FIRST | bmj.com
+                                                                                                                                                           RESEARCH
+
+
+                                        differences between study subgroups. For example,                          nursing homes. Therefore, these pooled effects should
+                                        the difference in effects at discharge between trials by                   be interpreted with caution because the true differ-
+                                        length of hospital stay after randomisation did not                        ences in effects between studies might be due to
+
+
+
+
+                                                                                                                                                                                  BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+                                        reach significance but might reflect real differences.                     uncharacterised or unexplained underlying factors or
+                                        Another limitation was introduced by differences in                        the variability of outcome measures on functional sta-
+                                        length of stay after randomisation in intervention com-                    tus. Finally, we used aggregate data rather than data on
+                                        pared with control patients, potentially influencing the                   individual patients for the meta-regression analyses. As
+                                        comparability of outcome data measured at hospital                         a result we cannot exclude confounding of the ana-
+                                        discharge. There was heterogeneity at the end of fol-                      lyses, and potentially key associations might have
+                                        low-up for the pooled effect of orthopaedic inter-                         been missed, underestimated, or reversed.
+                                        vention programmes on functional status and general                           Longer term effects of rehabilitation for all outcomes
+                                        geriatric intervention programmes on admissions to                         seemed to be less pronounced than short term effects.
+                                                                                                                   This might in part be explained by variable and poten-
+                                   Treatment    Control                Relative risk           Relative risk
+                                                                                                                   tially suboptimal treatments of intervention patients
+                                                                         (95% CI)                (95% CI)          after hospital discharge. Additionally, outpatient treat-
+Effects at hospital discharge
+                                                                                                                   ments after the intervention were seldom described,
+General geriatric rehabilitation                                                                                   making interpretation of their potential influences on
+ Rubenstein 1984                       9/63      9/60                                       0.95 (0.41 to 2.24)    longer term effects impracticable.
+ Saltvedt 2002                      8/127       17/127                                      0.47 (0.21 to 1.05)
+ Young 2007                         38/280      35/210                                      0.81 (0.53 to 1.24)    Implications
+ White 1994                            0/20      0/20                                            Excluded          Surprisingly, among the trials included in this meta-
+Subtotal: I2=0.0%, P=0.418          55/490      61/417                                       0.76 (0.54 to 1.06)   analysis, we found only two types of geriatric rehabili-
+Orthopaedic geriatric rehabilitation
+                                                                                                                   tation programmes: general and orthopaedic for hip
+ Gilchrist 1988                        4/97     13/125                                      0.40 (0.13 to 1.18)
+                                                                                                                   fracture. No rehabilitation study in any other clinical
+ Huusko 2002                        5/120       5/123                                       1.02 (0.30 to 3.45)
+                                                                                                                   specialty (such as cardiac, stroke, or pulmonary) met
+ Kennie 1988                           5/54      4/54                                       1.25 (0.35 to 4.40)
+                                                                                                                   our inclusion criteria of being designed specifically for
+ Naglie 2002                        7/141       13/138                                      0.53 (0.22 to 1.28)
+                                                                                                                   the care of geriatric patients, thus indicating a need for
+ Shyu 2005                             1/72      0/87                                       3.62 (0.15 to 87.45)
+                                                                                                                   programme development and research for other types
+ Stenvall 2007                      6/102        7/97                                       0.82 (0.28 to 2.34)
+                                                                                                                   of rehabilitation. Some other type of inpatient rehabi-
+ Swanson 1998                          2/38      2/33                                       0.87 (0.13 to 5.83)
+                                                                                                                   litation might produce similar favourable effects if they
+ Vidan 2005                         1/155       9/164                                       0.12 (0.02 to 0.92)
+Subtotal: I2=0.0%, P=0.458
+                                                                                                                   are specifically designed for geriatric patients and
+                                    31/779      53/821                                      0.66 (0.42 to 1.04)
+                                                                                                                   might actually change clinical practice in the future.
+Overall: I2=0.0%, P=0.563          86/1269     114/1238                                      0.72 (0.55 to 0.95)
+                                                                                                                      Difference in effects between subtypes of geriatric
+                                                                                                                   rehabilitation programmes is a potentially important
+Effects at 3-12 month follow-up                                                                                    focus for research with relevant practice implications.
+General geriatric rehabilitation                                                                                   Firstly, further analysis should determine whether
+ Applegate 1990                     16/78       19/77                                        0.83 (0.46 to 1.49)   orthopaedic rehabilitation programmes truly reduce
+ Cohen 2002                        150/694     147/694                                       1.02 (0.83 to 1.25)   length of inpatient hospital stay and thereby poten-
+ Fleming 2004                       22/81       23/84                                        0.99 (0.60 to 1.63)   tially reduce healthcare costs and at the same time
+ Karppi 1995                        14/104      25/208                                       1.12 (0.61 to 2.06)   improve patients’ outcomes. If confirmed, this type
+ Rubenstein 1984                    15/63       29/60                                        0.49 (0.29 to 0.82)   of intervention might exhibit the rare combination of
+ Saltvedt 2002                      35/127      43/127                                       0.81 (0.56 to 1.18)   an intervention that reduced healthcare costs and
+ Young 2007                         73/280      64/210                                       0.86 (0.64 to 1.14)   improves patients’ outcomes, giving it a high priority
+Subtotal: I2=24.1%, P=0.245        325/1427 350/1460                                         0.88 (0.75 to 1.04)   for implementation in practice. In contrast, general
+Orthopaedic geriatric rehabilitation                                                                               geriatric rehabilitation programmes seemed to
+ Gilchrist 1988                     14/97       23/125                                      0.78 (0.43 to 1.44)    increase length of inpatient stay. In these programmes
+ Huusko 2002                        18/120      20/123                                      0.92 (0.51 to 1.66)    intervention patients were probably offered an addi-
+ Kennie 1988                        10/54       18/54                                       0.56 (0.28 to 1.09)    tional inpatient rehabilitation programme, resulting
+ Naglie 2002                        17/141      21/138                                      0.79 (0.44 to 1.44)    in initially increased healthcare costs in contrast with
+ Shyu 2005                             2/72      1/87                                       2.42 (0.22 to 26.11)   control patients who were probably discharged early
+ Stenvall 2007                      16/102      18/97                                       0.85 (0.46 to 1.56)    to a long term care setting. Further research should
+ Swanson 1998                          3/38      5/33                                       0.52 (0.13 to 2.02)    determine cost effectiveness based on a longer term
+ Vidan 2005                         29/155      42/164                                      0.73 (0.48 to 1.11)    time frame and should define criteria for targeting
+Subtotal: I2=0.0%, P=0.917         109/779     148/821                                      0.77 (0.61 to 0.96)    patients in clinical practice. Finally, research might
+                                                                                                                   find answers for other types of programmes that, until
+Overall: I2=0.0%, P=0.601          434/2206 498/2281                                         0.87 (0.77 to 0.97)   now, have not been adapted and tested for the specific
+                                                        0.125 0.25 0.5      1     2    4                           needs of older patients.
+                                                        Favours                  Favours                              Inpatient rehabilitation specifically designed for ger-
+                                                        intervention              control
+                                                                                                                   iatric patients is a resource intensive, and therefore
+Fig 4 | Effect of inpatient rehabilitation specifically designed for geriatric patients on mortality               expensive, component of health care. We considered
+at hospital discharge and at follow-up                                                                             it important to assess the impact on health care of
+BMJ | ONLINE FIRST | bmj.com                                                                                                                                       page 9 of 11
+ RESEARCH
+
+
+                                                                                                   unclear, as does the efficacy of characteristics of indivi-
+ WHAT IS ALREADY KNOWN ON THIS TOPIC
+                                                                                                   dual interventions and the impact on health care of
+ Inpatient rehabilitation programmes specifically designed for patients with cardiac,              such programmes (that is, cost-benefit and re-admis-
+
+
+
+
+                                                                                                                                                                                    BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+ neurological, pulmonary, or musculoskeletal problems have been shown to improve                   sion rates). Although we tried to clarify these questions
+ outcomes
+                                                                                                   with our work, the paucity of available evidence
+ Older patients admitted to acute care hospitals are at increased risk for decline in functional   emphasises the need for further research to address
+ status and admission to nursing homes                                                             these important questions.
+ WHAT THIS STUDY ADDS                                                                              Contributors: SB and AES were responsible for study concept, study
+                                                                                                   design, data collection, data analysis, data interpretation, and preparation
+ Inpatient geriatric rehabilitation programmes specifically designed for older people show         of manuscript. CF was responsible for study design, data collection, data
+ sustained effects on improving functional status and reducing admissions to nursing homes         analysis, data interpretation, preparation of manuscript. AH was
+ and mortality                                                                                     responsible for data collection, data analysis, and preparation of
+                                                                                                   manuscript. ME was responsible for data interpretation, and preparation
+ Such programmes might increase or decrease the overall length of hospital stay, depending         of manuscript. KMC was responsible for study concept, data analysis,
+ on type and concept of the programme                                                              data interpretation, and preparation of manuscript. AES is guarantor.
+                                                                                                   Funding: SB was supported by a Forschungskolleg Geriatrie Grant from
+ Reduction in admissions to nursing homes might result in cost savings or offset additional        the Robert Bosch Foundation, Stuttgart, Germany (grant No
+ costs of the initial inpatient rehabilitation                                                     32.5.1141.0021.0).
+                                                                                                   Competing interests: All authors have completed the Unified Competing
+                                                                                                   Interest form at www.icmje.org/coi_disclosure.pdf (available on request
+                                                                                                   from the corresponding author) and declare that (1) SB received financial
+                                  interventions based on actual programme costs and
+                                                                                                   support from the Robert Bosch Foundation (see above) for the submitted
+                                  efficacy measured by readmission rates after the reha-           work, and no other support was received for the submitted work; (2) they
+                                  bilitation. Disappointingly, available cost and efficacy         have no relationships with companies that might have an interest in the
+                                  data provided insufficient evidence to draw substantial          submitted work in the previous 3 years; (3) their spouses, partners, or
+                                                                                                   children have no financial relationships that may be relevant to the
+                                  conclusions. Analyses published for trials included in           submitted work; and (4) they have no non-financial interests that may be
+                                  this meta-analysis were few (that is, insufficient num-          relevant to the submitted work.
+                                  bers for meta-regression) and variable (that is, results         Ethical approval: Not required.
+                                  ranged from no difference in costs between inter-                Data sharing: Funnel plots and a list of excluded trials are available from
+                                                                                                   corresponding author on request.
+                                  vention and control patients to lower costs for control
+                                  patients). These limited results regarding the impact of
+                                                                                                   1    WHO Expert Committee on Disability Prevention and Rehabilitation.
+                                  programmes on health care do not provide robust evi-                  Disability prevention and rehabilitation. World Health Organ Tech
+                                  dence in favour of intensive inpatient rehabilitation                 Rep Ser 1981;668:1-39.
+                                                                                                   2    Gaugler JE, Duval S, Anderson KA, Kane RL. Predicting nursing home
+                                  programmes but provide preliminary evidence that                      admission in the US: a meta-analysis. BMC Geriatr 2007;7:13.
+                                  inpatient rehabilitation might not be more expensive             3    Ottenbacher KJ, Smith PM, Illig SB, Linn RT, Ostir GV, Granger CV.
+                                  and potentially be more effective in reducing hospital                Trends in length of stay, living setting, functional outcome, and
+                                                                                                        mortality following medical rehabilitation. JAMA 2004;292:1687-95.
+                                  readmissions than usual care for geriatric patients.             4    Huss A, Stuck AE, Rubenstein LZ, Egger M, Clough-Gorr KM.
+                                  Furthermore, even if general geriatric rehabilitation                 Multidimensional preventive home visit programs for community-
+                                                                                                        dwelling older adults: a systematic review and meta-analysis of
+                                  programmes truly increased length of hospital stay,                   randomized controlled trials. J Gerontol A Biol Sci Med Sci
+                                  this cost might be more than offset by savings because                2008;63:298-307.
+                                                                                                   5    Rubenstein LZ, Josephson KR, Harker JO, Miller DK, Wieland D. The
+                                  of a reduction in admissions to nursing homes.                        Sepulveda GEU Study revisited: long-term outcomes, use of services,
+                                     Lastly, for practice implementation, we must deter-                and costs. Aging (Milano) 1995;7:212-7.
+                                                                                                   6    Baztan JJ, Suarez-Garcia FM, Lopez-Arrieta J, Rodriguez-Manas L,
+                                  mine the criteria for effective inpatient geriatric reha-             Rodriguez-Artalejo F. Effectiveness of acute geriatric units on
+                                  bilitation programmes. The subgroup analyses                          functional decline, living at home, and case fatality among older
+                                  conducted as part of the present meta-analysis did not                patients admitted to hospital for acute medical disorders: meta-
+                                                                                                        analysis. BMJ 2009;338:b50.
+                                  help to clarify them. Therefore, criteria for successful         7    Stucki G, Ewert T, Cieza A. Value and application of the ICF in
+                                  programmes must be gleaned from the characteristics                   rehabilitation medicine. Disabil Rehabil 2003;25:628-34.
+                                                                                                   8    Stucki G, Cieza A, Melvin J. The international classification of
+                                  of the programmes in the individually published stu-                  functioning, disability and health (ICF): a unifying model for the
+                                  dies. Most studies implemented programmes in spe-                     conceptual description of the rehabilitation strategy. J Rehabil Med
+                                                                                                        2007;39:279-85.
+                                  cially designated units, involved multidisciplinary
+                                                                                                   9    Stucki G, Melvin J. The international classification of functioning,
+                                  teams in patients’ care, and, in most cases, had a system             disability and health: a unifying model for the conceptual description
+                                  of multidimensional geriatric assessment and assign-                  of physical and rehabilitation medicine. J Rehabil Med
+                                                                                                        2007;39:286-92.
+                                  ment of patients. Unfortunately, however, detailed               10   Mahoney FI, Barthel DW. Functional evaluation: the Barthel index.
+                                  operational characteristics, such as intensity and fre-               Md State Med J 1965;14:61-5.
+                                                                                                   11   Cameron ID, Lyle DM, Quine S. Accelerated rehabilitation after
+                                  quency of physical therapy, were not available in the                 proximal femoral fracture: a randomized controlled trial. Disabil
+                                  published materials.                                                  Rehabil 1993;15:29-34.
+                                                                                                   12   Green J, Young J, Forster A, Mallinder K, Bogle S, Lowson K, et al.
+                                                                                                        Effects of locality based community hospital care on independence
+                                  Conclusion                                                            in older people needing rehabilitation: randomised controlled trial.
+                                  Inpatient rehabilitation specifically designed for geria-             BMJ 2005;331:317-22.
+                                                                                                   13   Naglie G, Tansey C, Kirkland JL, Ogilvie-Harris DJ, Detsky AS,
+                                  tric patients seems to have the potential to improve                  Etchells E, et al. Interdisciplinary inpatient care for elderly people
+                                  function, admissions to nursing homes, and mortality                  with hip fracture: a randomized controlled trial. CMAJ
+                                                                                                        2002;167:25-32.
+                                  outcomes. Targeting the subgroup of patients who will            14   Saltvedt I, Mo ES, Fayers P, Kaasa S, Sletvold O. Reduced mortality in
+                                  benefit most from such programmes still remains                       treating acutely sick, frail older patients in a geriatric evaluation and
+
+page 10 of 11                                                                                                                                    BMJ | ONLINE FIRST | bmj.com
+                                                                                                                                                                       RESEARCH
+
+
+                                    management unit. A prospective randomized trial. J Am Geriatr Soc                 people: systematic review and meta-regression analysis. JAMA
+                                    2002;50:792-8.                                                                    2002;287:1022-8.
+                               15   Saltvedt I, Saltnes T, Mo ES, Fayers P, Kaasa S, Sletvold O. Acute           35   DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin
+
+
+
+
+                                                                                                                                                                                                   BMJ: first published as 10.1136/bmj.c1718 on 20 April 2010. Downloaded from http://www.bmj.com/ on 14 March 2023 by guest. Protected by copyright.
+                                    geriatric intervention increases the number of patients able to live at           Trials 1986;7:177-88.
+                                    home. A prospective randomized study. Aging Clin Exp Res                     36   Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-
+                                    2004;16:300-6.                                                                    analysis. Stat Med 2002;21:1539-58.
+                               16   Saltvedt I, Jordhoy M, Opdahl Mo ES, Fayers P, Kaasa S, Sletvold O.          37   Begg CB, Mazumdar M. Operating characteristics of a rank
+                                    Randomised trial of in-hospital geriatric intervention: impact on                 correlation test for publication bias. Biometrics 1994;50:1088-101.
+                                    function and morale. Gerontology 2006;52:223-30.                             38   Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-
+                               17   Shyu YI, Liang J, Wu CC, Su JY, Cheng HS, Chou SW, et al. A pilot                 analysis detected by a simple, graphical test. BMJ 1997;315:629-34.
+                                    investigation of the short-term effects of an interdisciplinary              39   Harbord RM, Egger M, Sterne JA. A modified test for small-study
+                                    intervention program on elderly patients with hip fracture in Taiwan. J           effects in meta-analyses of controlled trials with binary endpoints.
+                                    Am Geriatr Soc 2005;53:811-8.                                                     Stat Med 2006;25:3443-57.
+                               18   Swanson CE, Day GA, Yelland CE, Broome JR, Massey L,                         40   Juni P, Holenstein F, Sterne J, Bartlett C, Egger M. Direction and
+                                    Richardson HR, et al. The management of elderly patients with                     impact of language bias in meta-analyses of controlled trials:
+                                    femoral fractures. A randomised controlled trial of early intervention            empirical study. Int J Epidemiol 2002;31:115-23.
+                                    versus standard care. Med J Aust 1998;169:515-8.                             41   Sterne JA, Egger M. Funnel plots for detecting bias in meta-analysis:
+                               19   Young J, Green J, Forster A, Small N, Lowson K, Bogle S, et al.                   guidelines on choice of axis. J Clin Epidemiol 2001;54:1046-55.
+                                    Postacute care for older people in community hospitals: a                    42   Stettler C, Allemann S, Juni P, Cull CA, Holman RR, Egger M, et al.
+                                    multicenter randomized, controlled trial. J Am Geriatr Soc                        Glycemic control and macrovascular disease in types 1 and 2
+                                    2007;55:1995-2002.                                                                diabetes mellitus: meta-analysis of randomized trials. Am Heart J
+                               20   Katz S, Downs TD, Cash HR, Grotz RC. Progress in development of the               2006;152:27-38.
+                                    index of ADL. Gerontologist 1970;10:20-30.                                   43   Applegate WB, Graney MJ, Miller ST, Elam JT. Impact of a geriatric
+                               21   Cohen HJ, Feussner JR, Weinberger M, Carnes M, Hamdy RC, Hsieh F,                 assessment unit on subsequent health care charges. Am J Public
+                                    et al. A controlled trial of inpatient and outpatient geriatric evaluation        Health 1991;81:1302-6.
+                                    and management. N Engl J Med 2002;346:905-12.                                44   Fleming SA, Blake H, Gladman JR, Hart E, Lymbery M, Dewey ME, et al.
+                               22   Karppi P. Effects of a geriatric inpatient unit on elderly home care              A randomised controlled trial of a care home rehabilitation service to
+                                    patients: a controlled trial. Aging (Milano) 1995;7:207-11.                       reduce long-term institutionalisation for elderly people. Age Ageing
+                               23   Kennie DC, Reid J, Richardson IR, Kiamari AA, Kelt C. Effectiveness of            2004;33:384-90.
+                                    geriatric rehabilitative care after fractures of the proximal femur in       45   Gilchrist WJ, Newman RJ, Hamblen DL, Williams BO. Prospective
+                                    elderly women: a randomised clinical trial. BMJ 1988;297:1083-6.                  randomised study of an orthopaedic geriatric inpatient service. BMJ
+                               24   Reid J, Kennie DC. Geriatric rehabilitative care after fractures of the           1988;297:1116-8.
+                                    proximal femur: one year follow up of a randomised clinical trial. BMJ       46   Huusko TM, Karppi P, Avikainen V, Kautiainen H, Sulkava R.
+                                    1989;299:25-6.                                                                    Randomised, clinically controlled trial of intensive geriatric
+                               25   Stenvall M, Olofsson B, Nyberg L, Lundstrom M, Gustafson Y.                       rehabilitation in patients with hip fracture: subgroup analysis of
+                                    Improved performance in activities of daily living and mobility after a           patients with dementia. BMJ 2000;321:1107-11.
+                                    multidisciplinary postoperative rehabilitation in older people with          47   Huusko TM, Karppi P, Avikainen V, Kautiainen H, Sulkava R. Intensive
+                                    femoral neck fracture: a randomized controlled trial with 1-year                  geriatric rehabilitation of hip fracture patients: a randomized,
+                                    follow-up. J Rehabil Med 2007;39:232-8.                                           controlled trial. Acta Orthop Scand 2002;73:425-31.
+                               26   Vidan M, Serra JA, Moreno C, Riquelme G, Ortiz J. Efficacy of a              48   O’Reilly J, Lowson K, Green J, Young JB, Forster A. Post-acute care for
+                                    comprehensive geriatric intervention in older patients hospitalized               older people in community hospitals—a cost-effectiveness analysis
+                                    for hip fracture: a randomized, controlled trial. J Am Geriatr Soc                within a multi-centre randomised controlled trial. Age Ageing
+                                    2005;53:1476-82.                                                                  2008;37:513-20.
+                               27   White SJ, Powers JS, Knight JR, Harrell D, Varnell L, Vaughn C, et al.       49   Phibbs CS, Holty JE, Goldstein MK, Garber AM, Wang Y, Feussner JR,
+                                    Effectiveness of an inpatient geriatric service in a university hospital.         et al. The effect of geriatrics evaluation and management on nursing
+                                    J Tenn Med Assoc 1994;87:425-8.                                                   home use and health care costs: results from a randomized trial.
+                               28   Applegate WB, Miller ST, Graney MJ, Elam JT, Burns R, Akins DE. A                 Med Care 2006;44:91-5.
+                                    randomized, controlled trial of a geriatric assessment unit in a             50   Ellis G, Langhorne P. Comprehensive geriatric assessment for older
+                                    community rehabilitation hospital. N Engl J Med 1990;322:1572-8.                  hospital patients. Br Med Bull 2004;71:45-59.
+                               29   Rubenstein LZ, Josephson KR, Wieland GD, English PA, Sayre JA,               51   Stuck AE, Siu AL, Wieland GD, Adams J, Rubenstein LZ.
+                                    Kane RL. Effectiveness of a geriatric evaluation unit. A randomized               Comprehensive geriatric assessment: a meta-analysis of controlled
+                                    clinical trial. N Engl J Med 1984;311:1664-70.                                    trials. Lancet 1993;342:1032-6.
+                               30   Rubenstein LZ, Wieland GD, Josephson KR, Rosbrook B, Sayre J,                52   Gill TM, Baker DI, Gottschalk M, Peduzzi PN, Allore H, Byers A. A
+                                    Kane RL. Improved survival for frail elderly inpatients on a geriatric            program to prevent functional decline in physically frail, elderly
+                                    evaluation unit (GEU): who benefits? J Clin Epidemiol 1988;41:441-9.              persons who live at home. N Engl J Med 2002;347:1068-74.
+                               31   Juni P, Altman DG, Egger M. Systematic reviews in health care:               53   Wells JL, Seabrook JA, Stolee P, Borrie MJ, Knoefel F. State of the art in
+                                    Assessing the quality of controlled clinical trials. BMJ                          geriatric rehabilitation. Part I: review of frailty and comprehensive
+                                    2001;323:42-6.                                                                    geriatric assessment. Arch Phys Med Rehabil 2003;84:890-7.
+                               32   Chinn S. A simple method for converting an odds ratio to effect size         54   Beswick AD, Rees K, Dieppe P, Ayis S, Gooberman-Hill R, Horwood J,
+                                    for use in meta-analysis. Stat Med 2000;19:3127-31.                               et al. Complex interventions to improve physical function and
+                               33   Hasselblad V, Hedges LV. Meta-analysis of screening and diagnostic                maintain independent living in elderly people: a systematic review
+                                    tests. Psychol Bull 1995;117:167-78.                                              and meta-analysis. Lancet 2008;371:725-35.
+                               34   Stuck AE, Egger M, Hammer A, Minder CE, Beck JC. Home visits to
+                                    prevent nursing home admission and functional decline in elderly             Accepted: 29 January 2010
+
+
+
+
+BMJ | ONLINE FIRST | bmj.com                                                                                                                                                      page 11 of 11
+

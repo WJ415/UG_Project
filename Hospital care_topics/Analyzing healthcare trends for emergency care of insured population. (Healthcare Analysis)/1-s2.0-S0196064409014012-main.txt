@@ -1,0 +1,448 @@
+                        HEALTH POLICY AND CLINICAL PRACTICE/ORIGINAL RESEARCH
+
+
+          The Changing Profile of Patients Who Used Emergency
+          Department Services in the United States: 1996 to 2005
+K. Tom Xu, PhD                        From the Department of Family and Community Medicine (Xu), Department of Emergency Medicine
+Brian K. Nelson, MD                   (Nelson), and Department of Internal Medicine (Berk), Texas Tech University Health Sciences
+                                      Center, Lubbock, TX.
+Steven Berk, MD
+
+
+
+         Study objective: Because of the vital role of emergency departments (EDs) in the US health care system, it is
+         important to monitor the changes in the patient mix over time to identify existing problems and ways to improve the
+         system. The current study aimed to identify raw and population-adjusted time trends for demographic characteristics,
+         socioeconomic characteristics, access to care, utilization of care, and general health of ED users and heavy ED users.
+
+         Methods: Ten years’ worth of nationally representative data was derived from the Medical Expenditure Panel
+         Survey, 1996 to 2005. Raw time trends of various patient characteristics for ED users, nonusers, and heavy
+         users were estimated to demonstrate changes in ED patient mix. Population-attributable fraction was used to
+         generate population-adjusted trends that elucidate the net changes in subpopulations’ propensities to ED use in
+         relation to those of the general population.
+
+         Results: Between 1996 and 2005, the total number of noninstitutionalized individuals who used ED services
+         increased from 34.2 to 40.8 million. That is, the proportion of ED users in the US population increased from
+         12.7% to 13.8%. Increasing proportions of elderly and those who perceived themselves to be in poor or fair
+         physical health among ED users, particularly heavy users, were found in both raw and population-adjusted
+         trends. Several subpopulations demonstrated increasing levels of ED use after population adjustment: blacks,
+         patients within 100% to 199% of the federal poverty line, patients with only Medicare, patients with greater than
+         or equal to 2 types of insurance, and patients with at least 1 inpatient stay. Decreasing population-adjusted
+         trends were found in the proportions of female patients, Hispanics, patients at greater than or equal to 200% of
+         the federal poverty line, the uninsured, and patients with only private insurance, respectively.
+
+         Conclusion: EDs play a larger role in the management of geriatric patients over time. The increasing burden of
+         the aging population in the EDs poses challenges in the training of future emergency physicians, care for older
+         patients, public health insurance, and health care system reform. [Ann Emerg Med. 2009;54:805-810.]
+
+
+    Provide feedback on this article at the journal’s Web site, www.annemergmed.com.
+0196-0644/$-see front matter
+Copyright © 2009 by the American College of Emergency Physicians.
+doi:10.1016/j.annemergmed.2009.08.004
+
+
+
+INTRODUCTION                                                           evidence suggested that the rate of ED visits increased
+Background                                                             more rapidly among blacks than whites.2,3 Rural residents
+   The use of emergency department (ED) services in the                may have a lower ED utilization than their urban
+United States has been increasing. According to the National           counterparts, probably because of the geographic distribution
+Hospital Ambulatory Medical Care Survey, the total number              of EDs.1,4
+of ED visits increased from 96.5 to 115.3 million between                 Patients’ access to the medical care system was also found
+1995 and 2005.1 Changes in certain demographic                         to affect ED utilization. National Hospital Ambulatory
+characteristics may have contributed to this trend; for                Medical Care Survey 2005 data showed that Medicaid/State
+example, the increasing proportion of persons aged 65 years            Children’s Health Insurance Program (SCHIP) insurance
+or older in the United States. The aging of the population             was associated with a higher ED visit rate than other
+implies increased prevalence of chronic diseases that leads to         insurance types.1 Also, parents of pediatric patients with
+a higher utilization rate of all medical services. Indeed, it was      Medicaid were more likely to view EDs as their usual source
+shown that ED visits for patients aged 65 to 74 years                  of care.5 Several studies demonstrated that the presence of,
+increased by 34% between 1993 and 2003.2 In addition,                  satisfaction with and effectiveness of a usual source of care
+
+
+Volume , .  : December                                                                      Annals of Emergency Medicine 805
+Changing Profile of Emergency Department Patients                                                                                      Xu et al
+
+                                                                          Goals of This Investigation
+                   Editor’s Capsule Summary
+                                                                              The objectives of the current study were to estimate raw and
+   What is already known on this topic                                    population-adjusted trends of ED users’ demographic
+   It is indisputable that annual emergency department                    characteristics, socioeconomic characteristics, access to care,
+                                                                          utilization of care, and general health level and to identify trends
+   (ED) visits in the United States have steadily increased
+                                                                          of characteristics of heavy users of ED services.
+   for many years. We know less about changes in the
+   kinds of patients accounting for these visits.                         MATERIALS AND METHODS
+   What question this addressed                                               The Medical Expenditure Panel Survey data from 1996 to 2005
+                                                                          were used.11 The Medical Expenditure Panel Survey is nationally
+   The 1996 to 2005 Medical Expenditure Panel Survey                      representative of the civilian noninstitutionalized US population
+   was analyzed to describe changes in the characteristics                and collected by the Agency for Healthcare Research and Quality
+   of patients using the ED during this period.                           in each year since 1996. Various underserved and historically
+   What this study adds to our knowledge                                  underrepresented subpopulations, for example, blacks, Hispanics,
+                                                                          and the poor, are targeted for oversampling in different years. The
+   The use of the ED by the elderly, the poor, and                        response rates in 1996 through 2005 range from 61.3% to 70.7%;
+   those in poor health has increased to a greater extent                 sample sizes, from 21,571 to 37,418. The household component
+   than the increase in these groups in the overall                       contains detailed information about sociodemographic
+   population.                                                            characteristics, health, access to care, health care utilization and
+   How this might change clinical practice                                expenditure, health insurance, and satisfaction with care at both the
+                                                                          person and the household levels. Children’s information is obtained
+   This study will not change practice but will help                      from parents or guardians.
+   those planning the kinds of ED resources that will                         ED utilization was extracted as the reported total number of ED
+   be needed in the future.                                               visits in a year for each subject. Subjects were then grouped into
+                                                                          ED users (at least 1 ED visit) and nonusers. Heavy users of ED
+                                                                          services were also identified. There has not been a consensus in
+                                                                          regard to the definition of heavy ED users. Previous studies used
+(other than EDs) significantly decreased the utilization of               cutoffs of 3,12,13 4,14-16 and even 12 visits.17,18 In the current
+EDs.6-10                                                                  study, heavy users were those who had 3 or more ED visits in a
+                                                                          year, representing the top 5th percentile of ED users in terms of the
+Importance                                                                number of ED visits. In the preliminary analyses, it was found that
+    Because of the vital role of EDs in health care delivery, it is       higher cutoffs resulted in sample sizes of heavy users in some years
+important to monitor changes in the patient mix over time to              too small to provide reliable nationally representative estimates.
+identify problems and ways for improvement. For example, if the               Demographic characteristics included were whether a subject
+proportion of older and more chronically ill patients among ED            lived in a Metropolitan Statistical Area as a proxy of rural/urban
+users is increasing over time, more staff training in geriatric care is   residency, age, sex, and race/ethnicity. The race/ethnicity
+warranted. If more indigent patients are treated, improved financial      variable was constructed as non-Hispanic white, black,
+management may be crucial to some EDs’ survival. Consequently,            Hispanic, and other races. Because there were too few nonwhite
+raw time trends of ED patients’ characteristics are valuable for          Hispanics, a categorization based on the interaction of race and
+efficient ED management.                                                  ethnicity was not explored. Hispanics of all races were combined
+    On the other hand, demonstrating a raw trend in a                     into the Hispanic category, with the majority being white.
+characteristic of ED users, for example, a higher proportion of           Socioeconomic characteristics included a subject’s poverty level,
+Hispanics in 2005 than in 1995, does not necessarily indicate that        highest educational achievement, and employment status. In the
+Hispanics had an increased propensity to using ED services in             Medical Expenditure Panel Survey, poverty level was defined
+2005. Instead, it could be that the proportion of Hispanics had           according to the percentage of federal poverty level. Three
+increased in the US population; the increase in the proportion of         categories of poverty were created in the current study: poor
+Hispanics observed among ED users simply mirrored the change in           (⬍100% federal poverty level), near poor or low income (100%
+the population. This is particularly important from the perspectives      to 199% federal poverty level), and middle or high income
+of health policy and health care distribution. If a segment of the US     (ⱖ200% federal poverty level). A subject’s highest educational
+population has an altered propensity to using ED services after           achievement was dichotomized into whether he or she was a
+adjusting for population changes, it may indicate lapses in               high school graduate. Employment status was dichotomized
+appropriate care or access barriers to primary care for this segment.     according to whether a subject had a job (or jobs).
+Therefore, it is imperative to obtain population-adjusted trends to           Two groups of indicators of access to care were used, health
+better understand health care needs of subpopulations, especially         insurance and usual source of care. Health insurance variables
+the traditionally underserved ones.                                       were no health insurance, private insurance only, Medicare
+
+806 Annals of Emergency Medicine                                                                         Volume , .  : December 
+Xu et al                                                                          Changing Profile of Emergency Department Patients
+
+only, Medicaid only, other public insurance only, and more
+than one type of insurance. Whether a subject had a usual
+source of care was dichotomized. Subjects reporting EDs as
+their usual source of care were classified as having no usual
+source of care. In addition, whether a subject reported that their
+usual source of care had off-hour services was included. The
+Medical Expenditure Panel Survey 1997 and 1998 did not have
+information about usual source of care. In addition, although
+other characteristics of usual source of care were included in the
+Medical Expenditure Panel Survey, those characteristics were
+not consistently included in all years, making it impossible to
+analyze their trends. Consequently, these characteristics were
+not included in the current study.
+                                                                                 Figure 1. ED service utilization pattern.
+    A subject’s utilization of ambulatory care and inpatient
+services was included to indicate the intensity of overall health
+care utilization. As in any care utilization data, the total number   estimates, strata, primary sampling units, and person weights
+of ambulatory visits to office-based or outpatient clinics during a   were accounted for in all analyses. More detailed information in
+year was highly skewed to the right. Consequently, it was             regard to the statistical analyses performed can be viewed in
+categorized into 3 groups: zero, 1 to 5, and 6 or more visits. The    Appendix E1 (available online at http://www.annemergmed.com).
+cutoff point at 6 visits represented the 67th percentile of the
+distribution. Whether a subject had any inpatient stay was            RESULTS
+included as a dichotomized variable. Health was measured by               Between 1996 and 2005, the total number of
+self-reported overall physical and mental health and                  noninstitutionalized individuals who used ED services increased
+injury/accident. The 5-category overall physical health was           from 34.2 to 40.8 million. That is, the proportion of ED users
+dichotomized into fair/poor versus excellent/very good/good.          in the US population increased from 12.7% to 13.8%. As
+The same dichotomization was applied to overall mental health.        Figure 1 shows, the largest increase occurred between 1999 and
+                                                                      2001. The continual increase in the proportion of heavy users
+                                                                      (number of visits ⱖ3) among ED users occurred between 1999
+PRIMARY DATA ANALYSIS                                                 (5.9%) and 2002 (7.6%).
+    The annual numbers and percentages of the US population               Figure 2 shows selected raw and population-adjusted trends for
+who used EDs were estimated for 1996 through 2005. Among              patient characteristics of interest among ED users. Interested
+ED users, the proportion of heavy users (ⱖ3 ED visits) and the        readers can find the trends for all variables in Appendix E1
+mean number of visits were estimated. For each patient                (available online at http://www.annemergmed.com). Variables that
+characteristic, a raw time trend was first identified. For example,   demonstrated significant increasing raw trends were observed in the
+in each year, the proportion of female users among ED users           proportions of older patients; racial and ethnic minorities; patients
+was estimated. The linear trend of the proportion of female           with only Medicare, only Medicaid, or greater than or equal to 2
+users among ED users between 1996 and 2005 would be the               types of insurance; patients with at least 1 inpatient stay; and
+raw trend. An ordinary least squares method was used for the          patients with poor/fair physical and mental health, respectively.
+regression of a variable of interest; for example, the proportion     Significant decreasing raw trends were shown in the proportions of
+of female users, over years. If the slope obtained from the           female users, whites, patients with a lower education level, patients
+ordinary least squares was significant at P⬍.05, the trend would      who were employed, patients with only private insurance, patients
+be deemed statistically significant.                                  whose usual source of care had off-hour services, and patients with
+    As discussed earlier, the raw trend may simply mirror a           1 to 5 ambulatory visits, respectively.
+change in the population, rather than a change in propensity for          Several subpopulations demonstrated significant increasing
+ED use. Consequently, population-attributable fraction was            population-adjusted trends (or population-attributable
+used to obtain population-adjusted trends.19 It was calculated as     fractions), that is, increased propensity to ED use over time:
+the ratio of the proportion among ED users to that among              older patients, blacks, patients within 100% to 199% federal
+nonusers for each year; for example, the proportion of female         poverty level, patients with only Medicare, patients with greater
+users among ED users divided by that among nonusers. The              than or equal to 2 types of insurance, patients with at least 1
+linear trend of population-attributable fraction would                inpatient stay, and patients with poor/fair physical health.
+approximate the changes in the propensity for ED use in the           Subpopulations with decreasing population-adjusted trends
+subpopulation of interest. Similarly, raw and population-             included female users, Hispanics, patients with greater than or
+adjusted trends for heavy users of EDs were obtained.                 equal to 200% federal poverty level, the employed, the
+    Statistical software STATA (StataCorp, College Station, TX)       uninsured, patients with only private insurance, and patients
+was used for all analyses. To provide nationally representative       with 1 to 5 ambulatory visits.
+
+Volume , .  : December                                                                       Annals of Emergency Medicine 807
+Changing Profile of Emergency Department Patients                                                                                        Xu et al
+
+
+
+
+Figure 2. Raw and population-adjusted trends of characteristics of ED users, 1996-2005. Bars show raw trends whereas
+lines indicate population-adjusted trends. The slopes for population-adjusted trends are shown with their respective 95%
+CIs. Solid lines for population-adjusted trends indicate statistically significant linear time trends (P⬍0.05). PAF, Population-
+adjusted trends; FPL, federal poverty levels.
+
+
+    Graphs of statistically significant raw and population-adjusted    NHAMC (eg, homeless and institutionalized persons), and
+trends of characteristics of heavy users of ED services can be found   misclassification of visits when ED was considered a usual
+in Appendix E1 (available online at                                    source of care.20 Also, no information of differential coding over
+http://www.annemergmed.com). Patient characteristics that              time was available in the Medical Expenditure Panel Survey.
+indicated increasing raw trends were age, other race/ethnicity,        Furthermore, some indicators may have nonlinear trends. This
+having greater than or equal to 2 insurance types, and having at       possibility was not pursued in the current study because 10
+least 1 inpatient stay. Characteristics with decreasing raw trends     points of observation may be too small to establish accurate
+included being employed, having only private insurance, and usual      nonlinearity. Lastly, the linear regression method used to
+source of care with off-hour services. With population-attributable    establish trends assumes normality of the underlying
+fraction adjustment, increasing population-adjusted trends were        distribution. Nonlinear and step trends cannot be captured.
+observed in age, whites, having only Medicare, having greater than
+or equal to 2 insurance types, and having at least 1 inpatient stay.
+Decreasing population-adjusted trends were indicated in Hispanics,     DISCUSSION
+being employed, and having only private insurance.                        We found that ED users had become older and those who
+                                                                       perceived themselves to be in poor or fair physical health from
+LIMITATIONS                                                            1996 to 2005, with and without population adjustment of the
+    The majority of the Medical Expenditure Panel Survey               trends. A similar observation was made in the raw and adjusted
+household data are self-reported. Consequently, readers are            trends of increasing proportion of patients with Medicare. This is
+cautioned to take into consideration all biases inherent in self-      consistent with the findings from a previous study using a
+report and recall when interpreting the results. As compared           nationally representative cross-sectional data set.15 These trends
+with NHAMC, both the Medical Expenditure Panel Survey and              suggest that EDs may play a larger role in geriatric disease
+the National Health Interview Survey produce only about half           management over time. Because we used population-adjusted trends in
+of the total number of ED visits estimated by the NHAMC                the analyses, increases in the prevalence rates of various chronic diseases
+(90.3 million in 1996). Possible explanations included recall          do not seem to be the reasons for these changes. Instead, failure of
+error on ED visits followed by hospitalization, a wider scope of       control at the primary care level, including treatment adherence,
+
+808 Annals of Emergency Medicine                                                                         Volume , .  : December 
+Xu et al                                                                            Changing Profile of Emergency Department Patients
+
+
+
+
+                                                              Figure 2. (Cont’d)
+
+increased propensity to care-seeking, and easier access to EDs, may be   with the increasing population-attributable fraction of the age
+plausible reasons for these observations.                                variable. Further studies of these individual subpopulations are
+    Weber et al21 found no raw trends in various insurance               needed to investigate whether age or other factors were at play
+statuses and that individuals of greater than 400% federal               to have generated the observed trends.
+poverty level accounted for an increasing portion of ED visits.             No significant population-adjusted trends were observed for the
+In contrast, we showed that there were increasing raw trends in          proportion of the poor and that of individuals with only Medicaid
+Medicare and Medicaid and a decreasing raw trend in private              between 1996 and 2005, which may reflect the consistent health
+insurance. There are several possible explanations for the               insurance coverage by Medicaid for this subpopulation during the
+differences in the findings. First, the current study included           10-year period. The results from the current study also confirmed a
+children, whereas Weber et al21 did not. Second, the current             previous finding that ED users were more likely to be publicly
+study used a different classification scheme of insurance. About         insured13 and expanded the finding to show that this pattern has
+20% of the US population has more than 1 type of insurance.              become more apparent recently than 10 years ago.
+The current study consequently created a separate category for              Moderate use of ambulatory care seemed to be associated with
+more than 1 insurance type, a large proportion of which was              lowered utilization of EDs, and the magnitude of this effect
+individuals with Medicare plus a supplemental insurance plan.            increased from 1996 to 2005. Individuals who were hospitalized
+The most comparable category between the 2 studies is                    were more likely to be ED users and heavy users. As a previous
+probably the uninsured group. As did Weber et al,21 we found             study reported, heavy users of EDs tended to be heavy users of
+no significant raw trend. The current study further                      other health services.22 Our study further demonstrated that the
+demonstrated that, after adjusting for population changes,               disease burden in the EDs associated with aging and the
+however, a decreasing population-attributable fraction trend was         complementation of ED to inpatient service use significantly
+observed. It is possible that the observed decreasing population-        increased in the last decade. Geriatrics has been a major part of
+attributable fractions of the uninsured and the subpopulation            emergency medicine training, with the first suggested curriculum
+with only private insurance, respectively, reflect the age effect.       published in 1986,23 and this focus is accelerating.
+The majority of the uninsured and those with only private                   There is a methodological merit of using population-adjusted
+insurance are working-age adults (⬍65 years of age). In                  trends in conjunction with raw trends. By examining only
+contrast, an increasing population-attributable fraction was             raw trends, one would have concluded that there were no
+observed in individuals with Medicare. These findings coincide           significant trends in certain subpopulations; for example, the
+
+Volume , .  : December                                                                         Annals of Emergency Medicine 809
+Changing Profile of Emergency Department Patients                                                                                       Xu et al
+
+uninsured. In certain cases, for example, the proportion of               3. Burt CW, McCaig LF. Trends in hospital emergency department
+Hispanics, the raw and population-adjusted trends were in                    utilization: United States, 1992-99. Vital Health Stat 13. 2001;
+                                                                             (150):1-34.
+opposite directions. These cases highlight the importance of              4. Hirshon JM, Weiss SR, LoCasale R, et al. Looking beyond urban/
+choosing appropriate trend indicators for different purposes.                rural differences: emergency department utilization by asthmatic
+Raw trends are appropriate for the management of EDs. In                     children. J Asthma. 2006;43:301-306.
+contrast, population-adjusted trends help to elucidate changes            5. Phelps K, Taylor C, Kimmel S, et al. Factors associated with
+in certain population segments, providing valuable information               emergency department utilization for nonurgent pediatric
+                                                                             problems. Arch Fam Med. 2000;9:1086-1092.
+about barriers to care and inappropriate use of care.
+                                                                          6. Brousseau DC, Hoffmann RG, Nattinger AB, et al. Quality of
+    Our study confirmed that the poor and the uninsured are not              primary care and subsequent pediatric emergency department
+the main contributing factors for ED crowding in recent years, as            utilization. Pediatrics. 2007;119:1131-1138.
+found in many previous studies. Future health policies that target        7. Goodman RM. Relationship between primary care physician financial
+improvement of access of the poor and the uninsured through the              risk and member emergency department use in a commercial HMO
+                                                                             population. Am J Manag Care. 2006;12:329-340.
+route of easier ED access will probably have limited effects. In
+                                                                          8. Cree M, Bell NR, Johnson D, et al. Increased continuity of care
+contrast, better management of geriatric patients, who are likely to         associated with decreased hospital care and emergency department
+have a constellation of chronic diseases, may produce better results.        visits for patients with asthma. Dis Manag. 2006;9:63-71.
+In terms of cost containment and disease management of patients,          9. Northington WE, Brice JH, Zou B. Use of an emergency department by
+the relationship between primary and ED care perhaps is more                 nonurgent patients. Am J Emerg Med. 2005;23:131-137.
+similar to that between primary and specialist care than we              10. Sarver JH, Cydulka RK, Baker DW. Usual source of care and nonurgent
+                                                                             emergency department use. Acad Emerg Med. 2002;9:916-923.
+previously thought, especially as the proportion of the elderly          11. Agency for Healthcare Research and Quality. Medical Expenditure
+population in the US increases. Ways to achieve efficient chronic            Panel Survey. Available at: http://www.meps.ahrq.gov/mepsweb.
+disease management, disease prevention, and health promotion at              Accessed June 9, 2008.
+the primary care level are critical in the pursuit of the solution for   12. Ruger JP, Richter CJ, Spitznagel EL, et al. Analysis of costs,
+ED crowding and overutilization.                                             length of stay, and utilization of emergency department services
+                                                                             by frequent users: implications for health policy. Acad Emerg
+                                                                             Med. 2004;11:1311-1317.
+Supervising editor: David L. Schriger, MD, MPH                           13. Zuckerman S, Shen YC. Characteristics of occasional and
+                                                                             frequent emergency department users: do insurance coverage
+Author contributions: KTX and SB conceived the study. KTX and
+                                                                             and access to care matter? Med Care. 2004;42:176-182.
+BKN performed data analyses. KTX, BKN, and SB contributed to
+                                                                         14. Byrne M, Murphy AW, Plunkett PK, et al. Frequent attenders to an
+the interpretation of the results and the writing of the article. KTX        emergency department: a study of primary health care use,
+takes responsibility for the paper as a whole.                               medical profile, and psychosocial characteristics. Ann Emerg
+                                                                             Med. 2003;41:309-318.
+Funding and support: By Annals policy, all authors are required
+                                                                         15. Hunt KA, Weber EJ, Showstack JA, et al. Characteristics of
+to disclose any and all commercial, financial, and other
+                                                                             frequent users of emergency departments. Ann Emerg Med.
+relationships in any way related to the subject of this article              2006;48:1-8.
+that might create any potential conflict of interest. The authors        16. Lucas RH, Sanford SM. An analysis of frequent users of
+have stated that no such relationships exist. See the                        emergency care at an urban university hospital. Ann Emerg Med.
+Manuscript Submission Agreement in this issue for examples                   1998;32:563-568.
+of specific conflicts covered by this statement.                         17. Blank FS, Li H, Henneman PL, et al. A descriptive study of heavy
+                                                                             emergency department users at an academic emergency
+Publication dates: Received for publication October 29, 2008.                department reveals heavy ED users have better access to care
+Revisions received March 18, 2009; July 12, 2009; and July                   than average users. J Emerg Nurs. 2005;31:139-144.
+21, 2009. Accepted for publication August 6, 2009. Available             18. Chan BT, Ovens HJ. Frequent users of emergency departments.
+online October 1, 2009.                                                      Do they also use family physicians’ services? Can Fam Physician.
+                                                                             2002;48:1654-1660.
+Reprints not available from the authors.                                 19. Rothman KJ, Greenland S. Modern Epidemiology. 2nd ed.
+Address for correspondence: K. Tom Xu, PhD, Department of                    Philadelphia, PA: Lippincott-Raven; 1998.
+Family and Community Medicine, School of Medicine, Texas                 20. Machlin SR, Valluzzi JL, Chevarley FM, et al. Measuring
+                                                                             ambulatory health care use in the United States: a comparison of
+Tech University Health Sciences Center, 3601 4th Street, MS
+                                                                             1996 estimates across four federal surveys. J Econ Soc
+8143, Lubbock, TX 79430-8143; 806-743-6983, fax 806-743-
+                                                                             Measurement. 2001;27:57-69.
+3995; E-mail tom.xu@ttuhsc.edu.                                          21. Weber EJ, Showstack JA, Hunt KA, et al. Are the uninsured
+                                                                             responsible for the increase in emergency department visits in
+REFERENCES                                                                   the United States? Ann Emerg Med. 2008;52:108-115.
+ 1. Nawar EW, Niska RW, Xu J. National Hospital Ambulatory Medical       22. Hansagi H, Olsson M, Sjoberg S, et al. Frequent use of the
+    Care Survey: 2005 emergency department summary. Adv Data.                hospital emergency department is indicative of high use of other
+    2007;(386):1-32.                                                         health care services. Ann Emerg Med. 2001;37:561-567.
+ 2. Roberts DC, McKay MP, Shaffer A. Increasing rates of emergency       23. Jones J, Dougherty J, Cannon L, et al. A geriatrics curriculum for
+    department visits for elderly patients in the United States, 1993        emergency medicine training programs. Ann Emerg Med. 1986;
+    to 2003. Ann Emerg Med. 2008;51:769-774.                                 15:1275-1281.
+
+
+
+
+810 Annals of Emergency Medicine                                                                         Volume , .  : December 
+Appendix E1. Technical notes.                                         with the Taylor Series approach. Examples of the software include
+The trend estimation of the current study was based on point          SAS, SUDAAN, Stata, and SPSS.
+estimates of means or proportions, using 10 years of the Medical         The Medical Expenditure Panel Survey sample is a subsample
+Expenditure Panel Survey data. To provide nationally representa-      of previous year’s National Health Interview Survey (NHIS).
+tive means and proportions for each year, special statistical con-    NHIS uses a stratified multistage sampling design for the nonin-
+siderations were taken to account for the multiple-stage complex      stitutionalized civilian US population. There are 1,995 PSUs
+sampling design of the Medical Expenditure Panel Survey. In a         (counties or groups of adjacent counties) and 237 strata. The
+simple random sampling design, the sample mean is an unbiased         second-stage units are clusters of housing units. The Medical Ex-
+estimator of the population mean. Because of the extreme small        penditure Panel Survey Web site provides guidelines in regard to
+probability for any simple random sample to sufficiently represent    estimation using various statistical software (http://www.meps.
+subpopulations in a large population, for example, the United         ahrq.gov/mepsweb/survey_comp/standard_errors.jsp). The cur-
+States, stratification is used in most large surveys. Each stratum    rent study followed the statistical guidelines using Stata.
+represents a subpopulation, for example, women. Probability              The estimation and the construction of the charts in Figures
+sampling is then conducted within each stratum. The population        1 to 3 are detailed as the following. The variable Female is used
+mean is calculated as a weighted average.                             as an example. First, the Medical Expenditure Panel Survey
+                                S       ns                            1996 data set was declared as a data set with a multistage
+                               兺   兺 wis x is
+                               s⫽1 i⫽1
+                                                                      sampling design in Stata. This was accomplished by using the
+                      mean ⫽             ns                           “svyset” command to let Stata recognize the variables indicat-
+                                    S
+                                兺   兺 wis
+                                s⫽1 i⫽1
+                                                                      ing the PSUs, strata, and weights, as suggested by the Medical
+                                                                      Expenditure Panel Survey Web site. Next, the proportions of
+s and i stand for strata and subjects, respectively. The 2 main
+                                                                      the female population among the user and nonuser subpopu-
+disadvantages of using a stratified sampling method to obtain
+                                                                      lations were calculated. Then the population-attributable frac-
+population mean are that the population frame for each stratum
+                                                                      tion was calculated as the proportion for users divided by that
+must be known beforehand, and data collection is costly because
+                                                                      for nonusers. At this point, 3 numbers, the proportion for
+the selected subjects may be very scattered.
+                                                                      users, the proportion for nonusers, and the population-attrib-
+    Most large population surveys use multistage sampling to over-
+                                                                      utable fraction, were obtained for 1996. The same procedure
+come the high cost associated with (stratified) simple random
+                                                                      was repeated for 1997, 1998, and so on.
+sampling. The entire population is divided into clusters, or the
+                                                                         To obtain the trend among ED users, we plotted the propor-
+primary sampling units (PSUs); for example, the census districts.
+                                                                      tion (of females) against year in Excel 2007 (Microsoft, Redmond,
+The sampling unit in the first stage is the PSU. Within each PSU,
+                                                                      WA), as seen in the chart in Figure 2. We then used ordinary least
+a second-stage sampling can be conducted with a smaller sampling
+                                                                      squares to regress the 10 proportions from 1996 to 2005 through-
+unit; for example, a street. The population mean is calculated as a
+                                                                      out their respective years to obtain the slope of the line in the
+weighted average, with the weight being the inverse of the prob-
+                                                                      chart. The same regression was then conducted for the 10 propor-
+ability of inclusion. Oversampling of a particular subpopulation
+                                                                      tions among nonusers and the population-attributable fractions.
+can be accommodated by weighting. Because of the complexity of
+                                                                      The statistical significance of a trend was indicated by the signif-
+the study design, variances calculated using the formula for strat-
+                                                                      icance of the regression slope. This was repeated for all variables of
+ified simple random samples are underestimated. On the other
+                                                                      interest. For Figure 3, the same procedures were used. The only
+hand, there are no mathematical formulas for the calculation of
+                                                                      difference was that heavy users, instead of all ED users, were the
+the true variances in a multistage complex sampling design. Spe-
+                                                                      subpopulation.
+cialized software empirically produces estimation of variances
+
+
+
+
+Volume , .  : December                                                                    Annals of Emergency Medicine 810.e1
+Figure E1. Raw and population-adjusted trends of ED patient characteristics, 1996-2005. Solid lines indicate statistically
+significant linear time trends (P⬍0.05). The lines labeled “Users” show raw trends whereas the lines labeled “PAF”
+indicate population-adjusted trends. The slopes for population-adjusted trends were shown with their respective 95% CIs.
+The horizontal axis represents time.
+
+
+
+
+810.e2 Annals of Emergency Medicine                                                        Volume , .  : December 
+                                   Figure E1. (Cont’d)
+
+
+
+
+Volume , .  : December                          Annals of Emergency Medicine 810.e3
+                                      Figure E1. (Cont’d)
+
+
+
+
+810.e4 Annals of Emergency Medicine                         Volume , .  : December 
+                                   Figure E1. (Cont’d)
+
+
+
+
+Volume , .  : December                          Annals of Emergency Medicine 810.e5
+Figure E2. Raw and population-adjusted trends of characteristics of heavy ED service users, 1996-2005. Solid lines
+indicate statistically significant linear trends (P⬍0.05). The lines labeled “Heavy Users” show raw trends whereas the lines
+labeled “PAF” indicate population-adjusted trends. The slopes for population-adjusted trends were shown with their
+respective 95% CIs. The horizontal axis represents time.
+
+
+
+
+810.e6 Annals of Emergency Medicine                                                        Volume , .  : December 
+                                   Figure E2. (Cont’d)
+
+
+
+
+Volume , .  : December                          Annals of Emergency Medicine 810.e7
+

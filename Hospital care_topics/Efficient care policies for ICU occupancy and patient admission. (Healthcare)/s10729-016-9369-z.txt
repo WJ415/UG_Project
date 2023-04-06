@@ -1,0 +1,749 @@
+Health Care Manag Sci (2017) 20:532–547
+DOI 10.1007/s10729-016-9369-z
+
+
+
+
+Sustaining critical care: using evidence-based simulation
+to evaluate ICU management policies
+Amin Mahmoudian-Dehkordi 1 & Somayeh Sadat 2
+
+
+
+
+Received: 20 November 2015 / Accepted: 10 May 2016 / Published online: 23 May 2016
+# Springer Science+Business Media New York 2016
+
+Abstract Intensive Care Units (ICU) are costly yet critical             particularly in times of crisis. A multivariate sensitivity anal-
+hospital departments that should be available to care for pa-           ysis on parameters with diverse range of values in the litera-
+tients needing highly specialized critical care. Shortage of ICU        ture found the superiority of the general ward admission con-
+beds in many regions of the world and the constant fire-                trol to hold true in every scenario.
+fighting to make these beds available through various ICU
+management policies motivated this study. The paper dis-                Keywords Intensive Care Unit (ICU) . ICU management
+cusses the application of a generic system dynamics model               policy . Critical care management . Patient flow . System
+of emergency patient flow in a typical hospital, populated with         dynamics . Simulation . Evidence-based policy analysis .
+empirical evidence found in the medical and hospital admin-             Performance measure
+istration literature, to explore the dynamics of intended and
+unintended consequences of such ICU management policies
+under a natural disaster crisis scenario. ICU management pol-           1 Introduction
+icies that can be implemented by a single hospital on short
+notice, namely premature transfer from ICU, boarding in                 Intensive Care Units (ICU) are costly yet critical hospital de-
+ward, and general ward admission control, along with their              partments that should be available to care for patients needing
+possible combinations, are modeled and their impact on man-             highly specialized critical care. There is a shortage of ICU
+agerial and health outcome measures are investigated. The               beds in many countries [1–5] and ICU occupancy rates are
+main insight out of the study is that the general ward admis-           increasing [6]. When demand for critical care is high relative
+sion control policy outperforms the rest of ICU management              to available ICU capacity, ICU becomes a bottleneck to pa-
+policies under such crisis scenarios with regards to reducing           tient flow [5], making critical patients access to ICUs limited
+total mortality, which is counter intuitive for hospital admin-         [7]. As a result, critically ill patients may be boarded in emer-
+istrators as this policy is not very effective at alleviating the       gency departments (ED) which causes ED overcrowding [8,
+symptoms of the problem, namely high ED and ICU occupan-                9] and potential closure [10] and puts pressure on ED physi-
+cy rates that are closely monitored by hospital management              cians who have to care for boarded patients in addition to ED
+                                                                        patients [11]. Most importantly, boarding critically ill patients
+                                                                        in ED puts the patients at risk of higher adverse events and
+Electronic supplementary material The online version of this article
+                                                                        mortality [12, 13], potentially increasing risk of ICU mortality
+(doi:10.1007/s10729-016-9369-z) contains supplementary material,
+which is available to authorized users.                                 by 1.5 % for each hour of waiting [14]. In addition to
+                                                                        disrupting the workings of the ED, shortage of ICU beds could
+* Somayeh Sadat                                                         cause elective surgery cancellations [5, 7], affect discharge
+  Somayeh.Sadat@modares.ac.ir                                           decisions [15–17], and increase risk of early death [18].
+                                                                           Various ICU management policies have been proposed and
+1
+    Department of Industrial Engineering, Yazd University, Yazd, Iran   implemented over time in hospitals to lower ICU occupancy
+2
+    Health Systems Engineering Program, Faculty of Industrial and       rates and improve critical care availability. While all are good
+    Systems Engineering, Tarbiat Modares University, Tehran, Iran       intentioned and have positive intended consequences in terms
+Sustaining critical care by use of evidence-based simulation                                                                     533
+
+
+of improving patient flow, there is evidence of unintended           parameters, as well as a discussion of study limitations and
+consequences that could put patient health at risk.                  areas for future exploration.
+    While there is empirical research within the medical and
+hospital administration literature on the silo effects of individ-
+ual ICU management policies on particular aspects of care            2 ICU Management policies
+outcomes, there seems to be a research gap in terms of the
+combined effects of such management policies in a typical            Due to the fact that ICU is the best place for critically ill
+hospital. As such, clinicians and hospital administrators may        patients [4] to receive early interventions, many policies have
+have a difficult time putting all the evidence together to con-      been suggested to increase ICU bed availability [5, 7, 26].
+clude what the best ICU management policies are in times of          Most common policies, starting from the three policies within
+crisis. The purpose of this research is to address this gap in the   the scope of this study that a single hospital can implement on
+literature by quantitatively assessing the combined effects of       short notice without incurring high costs, include:
+select ICU management policies in a typical hospital, and
+identify the best performing policy in managing ICU capacity.         1 Premature Transfer from ICU: Shortening ICU Length of
+    To do so, a system dynamics modeling approach [19] has              Stay (LOS), estimated to occur for 6 to 42 % of initial
+been applied to the context of emergency patient flow in a              discharges from ICU [27, 28], is another intuitive policy
+typical hospital. The choice of this methodology was based              for admitting more patients into an ICU [17, 29].
+on the fact that by modeling the interactions of various ele-           However, it has been shown that transferring patients
+ments of the patient flow at the aggregate level, it enables            faster and sicker to the general ward is associated with
+gaining a strategic perspective on the effects of management            increased in-hospital, ICU and Post-ICU, mortality [30,
+policies at the system level. System dynamics not only offers a         31] as well as increased readmission rates [32, 33]. Early
+rigorous approach to focus on the interconnectedness inherent           transfer out of ICU is responsible for 22 to 42 % of ICU
+in healthcare settings, but also the models can serve as learn-         readmissions [28] and 39 % of discharge mortality [34].
+ing environments for decision makers to understand why a              2 Boarding in Ward (ICU Admission Control): Under this
+certain structure produces a behaviour and conduct policy               policy, when ICU is full, critical patients waiting for ICU
+analysis to see how varying the conditions can change behav-            admission are admitted to the general ward instead [4, 14,
+ior [20]. The latter was of utmost importance to us in this             26]. It has been shown that admitted critical patients in
+study, as we intend that our fully documented generic model             ICU have better outcomes compared to those admitted to
+of a typical hospital can be used to test ICU management                wards [14]. Parkhe et al. (2002) found that critically ill
+policies by decision makers in the field, using either the ge-          patients who were detoured to the Ward had an increased
+neric parameter values in this study or institution-specific pa-        relative risk of 30-day mortality of 2.46 versus patients
+rameter values applicable to their local circumstances. System          directly admitted to the ICU from ED [35].
+dynamics has been applied to modeling patient flow problems           3 General Ward Admission Control: Dunn (2003) men-
+extensively. Some examples include Brailsford et al. (2004)             tioned that in order to decrease hospital overcrowding
+[21], Lattimer et al. (2004) [22], Desai et al. (2008) [23], Lane       we may need some priorities in allocation of scarce re-
+and Husemann (2008) [24], and Rashwan et al. (2015) [25].               sources in hospital [36]. Under this policy, ICU patients
+    The paper is organized as follows. First, the literature on         ready to be transferred to the general ward are given
+ICU management policies is reviewed. The following section              priority over those waiting for a ward bed in ED.
+presents the research question and focus of the study. Next, a        4 Expanding ICU Capacity: Adding more beds to ICU is
+high-level cause and effect dynamic hypothesis of the effects           usually seen as an intuitive yet costly policy that is widely
+of ICU management policies on system performance is                     discussed in the literature. By investigating five hospitals
+discussed, followed by a system dynamics simulation model               in UK, Lyons et al. (2000) estimated that to meet de-
+of emergency patient flow at a typical hospital, populated and          mands 95 % of times a two-fold increase in the number
+calibrated with data from the literature. After a description of        of ICU beds is required for a region [3]. Daly et al. (2001)
+system-level performance measures, output of a baseline sce-            concluded that to avoid post-ICU death caused by inap-
+nario that represents a typical hospital operating under stable         propriate discharge, a 16 % increase in the number of
+conditions is presented. Subsequently, a crisis scenarios of a          ICU beds in UK is necessary [34]. Yet, Kim et al.
+natural disaster that could put significant pressure on the crit-       (2014) estimated that adding each bed to ICU costs
+ical care capacity of the hospital is introduced. Various ICU           $0.8 million per year [26]. It has been mentioned that
+management policies are tested to assess their effects on alle-         investments in ICU beds also resulted in higher fixed
+viating the pressure on the ICU under this crisis scenario. The         costs, excess capacity, and long-term inefficiencies [37].
+final sections discuss ICU management insights derived from             Limitations in the number of ICU staff, spaces within
+the simulation, sensitivity of these insights to input                  hospitals, government regulations and high costs
+534                                                                                                 A. Mahmoudian-Dehkordi, S. Sadat
+
+
+      associated with adding more beds to ICUs are mentioned             McManus et al. (2003) investigated the impact of vari-
+      as main reasons that hinder expansion of ICUs [1, 38,              ability in patient flow on access to medical care and found
+      39].                                                               that variability in scheduled surgical cases was higher
+ 5    Expanding General Ward Capacity: Inadequate availabil-             than variability in unscheduled ICU admissions [51].
+      ity of beds in the general ward is seen as a reason for            By smoothing the number of elective surgeries over the
+      prolonged ICU stay, which in turn may cause blocked                days of the week, Kolker (2009) made an 8.5 % reduction
+      access to ICU beds [40, 41]. As such, expanding general            in ICU diversions [52].
+      ward capacity is considered as another policy to free
+      blocked ICU beds.
+ 6    ICU Direct Discharge Home: Johnson et al. (2013) pro-
+      pose directly discharging ICU patient home from ICU in        3 Research question and focus of the study
+      instances where they have waited for a ward bed for a
+      long time [40].                                               The study aims to analyze ICU management policies that a
+ 7    Discharge Home without Admitting to ICU: Armony et            single hospital can implement on short notice in times of crisis
+      al. (2014) propose that patients who have waited long         to alleviate the pressure on the ICU without incurring addi-
+      enough for admission to ICU in another department             tional costs or the need for coordination with other sectors,
+      may have recovered and no longer need admission to            and most importantly without jeopardizing the rest of its op-
+      ICU, and as such may be ready to be discharged [42].          erations (e.g. regarding the care for elective patients). As such,
+      This is confirmed by Hodgins’ (2011) observation that         cost-incurring or long term capacity decisions (i.e. expanding
+      14 % of admitted patients spend all of their hospital stay    ICU capacity, general ward capacity, and intermediate units),
+      in ED [43]. Similarly, Dunn (2003) mentions that some         policies where patients are transferred to other hospitals and as
+      admitted patients in the ED admission group recover           such cannot be implemented by a single hospital in silo (i.e.
+      enough during their waiting times in ED that are              ambulance divergence and ICU patient transfer), or else need
+      discharged directly from the ED without ever being trans-     coordination with the community to care for prematurely
+      ferred to a hospital bed [36].                                discharged patients from hospitals (i.e. ICU Direct Discharge
+ 8    Intermediate Units: To decrease ICU occupancy rates,          Home and Discharge Home without Admitting to ICU poli-
+      intermediate units such as a Step Down Unit (SDU) or          cies) as well as the elective surgical demand control policy
+      High Dependency Unit (HDU) can be used. These units           which disrupts the operations of the hospital for other patients
+      provide an intermediate level of care between ICU and         are not investigated. In short, three policies of Premature
+      the general ward for semi-critical patients who do not        Transfer from ICU, Boarding in Ward and General Ward
+      need the level of care in ICU but are not ready to be         Admission Control, as well as their combinations, are fully
+      transferred to the general ward either [44, 45].              analyzed to reveal the best performing policy under the crisis
+ 9    Ambulance Diversion: To overcome crowding in ED,              scenario.
+      ambulances may be diverted to other hospitals. Given
+      that many ICU patients are brought into the hospital by
+      an ambulance [46], this policy also alleviates the pressure   4 Cause and effect hypothesis
+      on ICUs by reducing the demand for ICU beds.
+      However, Scheulen et al. (2001) states that diverting pa-     Figure 1 shows a high level cause and effect dynamic hypoth-
+      tients is ineffective in decreasing ED volume [47]. More      esis of the relationships between the selected ICU manage-
+      importantly, Begley et al. (2004) found a higher mortality    ment policies and particular performance measures. The dia-
+      rate among trauma patients who were admitted during           gram is not meant to be a comprehensive demonstration of all
+      ambulance diversions [48].                                    causal and feedback relationships. The purpose here is to
+10    ICU Patient Transfer: In times of inadequate ICU beds,        show main intended consequences (IC) and unintended con-
+      patients may be transferred from a hospital to another        sequences (UIC) of the selected ICU management policies,
+      hospital in order to be admitted in the latter hospital’s     namely Premature Transfer from ICU, Boarding in Ward,
+      ICU. It has been found that these patients experience         and General Ward Admission Control, and possible combina-
+      worse outcomes than those admitted to the ICU in the          tions of these.
+      same hospital [49, 50].                                          All the selected policies share the central balancing loop,
+11    Elective Surgical Demand Control: Elective surgery can-       which shows the intended consequence (IC) of reducing
+      cellation is another way to make room in ICU, basically       higher than desired ICU bed occupancy through
+      by reducing the demand for ICU beds generated from            implementing these policies, regardless of the degree to which
+      elective surgical cases. Moreover, demand from elective       this intended consequence is realized. To varying degrees, as
+      surgeries can be controlled through better scheduling.        empirically demonstrated in the literature and summarized
+Sustaining critical care by use of evidence-based simulation                                                                          535
+
+Fig. 1 High-Level Cause-and-
+Effect Dynamic Hypothesis of                                            Avg ICU LOS                               -
+Managing ICU Occupancy                                                     (Hour)
+through ICU Management
+Policies                                                           +     UIC of Increased        +         UIC of Increased Mortality Rate
+                                                                           ICU LOS                            Mortality     (Person/Hour)
+                                                                                                                      -
+                                                                                                   ICU Bed
+                                                                                  +               Occupancy
+                                                                                                (Dimensionless)
+                                                        ICU Readmission                                                       +
+                                                       Ratio (Dimensionless) UIC of Increased         IC
+                                                                                                 -            +
+                                                                             ICU Readmission
+
+                                                                                                 ICU Management
+                                                                                                     Policy
+                                                                              +
+                                                                                                      UIC of Occupancy
+                                                                                                          Spillover
+                                                                                                                    +
+                                                                                                     -
+
+                                                                                                            ED or Ward
+                                                                                                             Occupancy
+                                                                                                           (Dimensionless)
+
+
+under section 2, the policies could also result in UIC of in-               We quantify these cause and effect relationships in the con-
+creased ICU readmissions, UIC of increased ICU LOS, UIC                  text of emergency patient flow based on empirical evidence
+of increased mortality, and UIC of occupancy spillover.                  from the literature, so that a whole system analysis of effects
+   The BUIC of Increased ICU Readmission^ loop demon-                    of any combination of ICU management policies can be per-
+strates how responding to higher than desired ICU occupancy              formed to inform best practices in managing precious ICU
+rate by implementing selected ICU management policies, to                capacity.
+varying degrees, could result in a higher percentage of patients            The following section explains the high level structure of a
+who would require ICU readmission (i.e. higher ICU readmis-              system dynamics model developed for this purpose.
+sion ratio) [32, 33], and as a result increase ICU occupancy
+rate.
+   The BUIC of Increased ICU LOS^ loop depicts how higher                5 Model structure
+ICU readmission rate (as part of the dynamics of BUIC of
+increased ICU readmission^) could increase average ICU                   We developed a system dynamics simulation model of emer-
+LOS [27, 53, 54], further increasing ICU occupancy rate                  gency patient flow within a typical acute care hospital
+above the intended level.                                                consisting of an Emergency Department (ED), an Intensive
+   The BUIC of Increased Mortality^ loops shows how                      Care Unit (ICU), and a general ward (Ward). A high level
+responding to higher than desired ICU occupancy rate by                  schematic picture of the model is presented in Fig. 2. The full
+implementing selected ICU management policies, to varying                model consists of 36 stock and 50 flow variables, as well as 86
+degrees, could result in a higher mortality rate [30, 31, 34, 35],       auxiliary variables. To ensure replicability of the results and
+decreasing average ICU LOS, and as a result decreasing av-               enable various hospitals to run the model with generic param-
+erage ICU occupancy rate. Such a decrease in ICU occupancy               eter values presented in this study, as well as institution-
+rate is of course not desired, as it is achieved through higher          specific parameter values to obtain hospital-specific results
+mortality.                                                               (if desired), we have provided model documentation follow-
+   Finally, the BUIC of Occupancy Spillover^ indicates how               ing the guidelines devised by Sterman and Rahmandad [55] in
+responding to higher than desired ICU occupancy rate by                  the Appendix: Model Documentation. Our model documen-
+implementing selected ICU management policies, to varying                tation also includes sources of data for each parameter, where
+degrees, could have spillover effects on occupancy rates of              applicable.
+other departments, as patients transferred prematurely out of                The general emergency patient flow of the baseline model
+ICU or otherwise boarded in other departments inevitably                 is as follows. Patients arrive at the hospital through the ED,
+increase occupancy rates of those departments.                           and depending on the severity of their condition, are either
+536                                                                                                     A. Mahmoudian-Dehkordi, S. Sadat
+
+Fig. 2 High-Level Schematic
+Model of Emergency Patient                                                                                 ICU
+Flow                                                                Critical Admission                                  ICU Death
+
+
+
+                                                                                                          ICU
+                                                                                          ED Death                      ICU
+                                                                          ED                             Transfer
+                                                                                                                     Readmission
+                                                      ED Arrival                                           Out
+                                                                                         ED Discharge
+
+
+
+                                                                                                           Ward
+                                                                      Non-Critical                                      Ward Death
+                                                                       Admission
+
+                                                                                                                 Ward Discharge
+
+
+
+
+discharged from the ED (titled Bnon-admitted patients^),               6 Performance measures
+earmarked to be transferred to the ICU (titled Bcritical
+patients^) or to the Ward (titled Bnon-critical admitted               We analyze the policies with regards to two sets of perfor-
+patients^). Most admitted patients are discharged home from            mance measures. One set of performance measures captures
+the ward, though some need to be readmitted to the ICU due to          the intended effect of ICU management policies, namely de-
+deterioration of their medical condition. Consistent with the          creasing hospital overcrowding by reducing departmental
+literature [8, 10], the baseline model assumes that if ICU is          (ED, ICU, and Ward) occupancy rates. Occupancy rates are
+full, patients would remain (board) in ED until there is capac-        closely monitored by hospital management in times of crisis
+ity to admit them to ICU and that regardless of the boarding           and their reduction is usually interpreted as controlling the
+time in ED, patients would still require their full LOS in ICU.        crisis. The other set of performance measures deal with the
+However, non-critical admitted patients boarding in ED and             ultimate health outcome measure of mortality, as hospitals’
+waiting for a ward bed may be discharged home from ED                  mission is to save lives, especially in times of crisis. We would
+[56].                                                                  like to assess the ICU management policies with regards to
+    To keep the model simple, although some emergency pa-              alleviating the symptom of the problem (occupancy rates) as
+tients require surgery and are admitted to ICU or the ward post        well as potential unintended effects on mortality.
+operation, the model does not explicitly model the operating              There are numerous possible intermediate outcome mea-
+room (OR). It is assumed that once the patients leave the ED           sures, such as total time spent in ICU, number of blocked beds
+for OR, the few hours spent in OR can be modelled as part of           in one department and wait times associated to get admitted to
+the subsequent ICU or ward LOS, as a bed is usually vacated            another department, readmissions to ICU, etc., which are all
+for these patients as early as the start of the operation.             modeled in detail but are not reported individually in the re-
+    To evaluate various ICU management policies, the model             sults section, as their combined effect demonstrates itself on
+also allows variations to the generic emergency patient flow           either the occupancy rates or mortality (or both). For instance,
+described earlier. For instance, the percentage of patients            longer time spent in ICU (either due to ICU readmissions of
+readmitted to ICU is a function of the baseline percentage of          health-deteriorated patients prematurely transferred out of
+ICU readmission and the effect of Bpremature transfer from             ICU or alternatively due to insufficient beds in the ward
+ICU^ policy on ICU readmission rates. Similarly, ICU mor-              resulting in bed blockage in ICU) affects both ICU occupancy
+tality rate is a function of baseline ICU mortality rates and the      rate and mortality. Similarly, long wait times in ED for ICU
+effects of average wait time for admission into ICU on ICU             beds affects both ED occupancy and mortality. As such, oc-
+mortality rate. Another example is the average ICU LOS,                cupancy rates (as the managerial performance measure
+which depends on the percentage of patients who have been              representing the alleviation of the symptoms of the problem)
+readmitted to ICU and require longer ICU LOS. Overall shape            and mortality (as the health outcome performance measure
+and specific values of these functions are also derived from the       representing unintended consequences of ICU management
+literature [14, 32, 33, 56] and documented under the                   policies) are the two main performance measures reported in
+Appendix: Model Documentation section.                                 this study.
+Sustaining critical care by use of evidence-based simulation                                                                            537
+
+
+    With regards to departmental occupancy rates, two differ-            8 Crisis scenario
+ent performance measures should be distinguished here. One
+is the departmental instantaneous occupancy rate, which mea-             We consider a crisis scenarios to evaluate the effects of differ-
+sures the occupancy rate at a point in time. The other is the            ent policies on the performance measures. Under this scenario,
+departmental average occupancy rate, which measures the av-              beginning from the second day of the simulation and for a
+erage of the departmental occupancy rate from the beginning              duration of 2 days, we double the hospital arrival rate. We call
+of the simulation to a particular point in time. We have report-         this scenario a Bnatural disaster^ scenario, as it could represent
+ed both these performance measures in this paper, as the in-             a disaster such as a flood or mass accident that brings an influx
+stantaneous occupancy rate could best reflect what happens at            of patients over a period of time (in this scenario assumed to
+any point during a crisis and the average occupancy rate could           be 2 days), after which the majority of remaining victims are
+demonstrate a cumulative effect of various policies on depart-           found deceased on the scene and as such not taken to the
+mental occupancy rates over time.                                        hospital. Such a crisis could put a lot of pressure on the critical
+                                                                         care capacity of a hospital that is operating under stable con-
+                                                                         ditions before the crisis, and as such provides good grounds
+                                                                         for evaluating the effects of various ICU management policies
+7 Baseline results                                                       on selected performance measures.
+                                                                             Figure 3 shows the instantaneous departmental occupancy
+The baseline scenario mimics the performance of a typical                rates under the crisis scenario in the baseline model, which
+hospital at equilibrium for 2000 h (nearly 3 months). As doc-            assumed no ICU management policies are implemented. As
+umented under the model documentation section, values of                 shown in the figure, the model is at equilibrium before the start
+medically-driven model parameters for the baseline model,                of the crisis. Then the instantaneous occupancy rates rise
+such as average length of stay at each department, percentage            sharply (and in case of ED, are allowed to go well beyond
+of patients leaving one department for another, percentage of            100 %) during the crisis and stay high shortly after the crisis as
+patients dying in each department, and percentage of patients            well. The model reaches equilibrium again at time 1356 (on
+readmitted to ICU, are derived from the literature. To best              day 56.5). It should be noted that the term Dmnl in Fig. 3 and
+mimic a typical hospital, arrival rate is set close to the average       elsewhere in the paper stands for dimensionless.
+of 89 EDs studied by Schneider et al. (2003) [57]. Ratio of bed              Figure 4 shows the average departmental occupancy rates
+capacities in each department to overall hospital beds is set in         under the crisis scenario in the baseline model, in essence
+line with what is observed in the literature [57–60]. To cali-           smoothing the occupancy rates over time. This performance
+brate the model, total number of hospital beds and initial num-          measure may better reflect the cumulative occupancy rate
+ber of patients in each department are set in a way that results         from the start of the simulation to a particular point in time.
+in occupancy levels close to what is typically reported in the               Figure 5 shows the behavior of health outcome measures of
+literature [61–63] (See sources of parameter values under                hospital-wide hourly mortality rate and accumulated total hos-
+Appendix: Model Documentation).                                          pital mortality under the crisis scenario in the baseline model
+    Table 1 outlines the performance of the baseline scenario            (i.e. assuming no ICU management policies are implement-
+against the performance measures. As seen in the table, aver-            ed). As seen in Fig. 5, hospital-wide hourly mortality rate sees
+age ED occupancy of 97.88 %, average ICU occupancy of                    a temporary and sharp increase during and shortly after the
+87.78 %, and average ward occupancy of 85 % in the baseline              crisis, but then decreases to near pre-crisis equilibrium values.
+model are close to 100 % ED occupancy observed in 6 EDS                  As a result of the temporary increase in hospital-wide mortal-
+[61], 90 % ICU occupancy [62], and 85 % ward occupancy                   ity rate, the rate of increase in the accumulated total hospital
+[63] respectively. These results ensure some level of face va-           mortality increases temporarily, but reverts back to the pre-
+lidity where a full validation of the model is not possible due          crisis rate of increase shortly after the end of the crisis.
+to lack of data from a single source.
+
+                                                                         9 ICU Management policies under the crisis scenario
+Table 1    Baseline performance measures under equilibrium conditions
+
+Scenario    Avg. Occupancy [Dmnl                  Hospital-Wide Hourly
+                                                                         Figures below show the selected performance measures under
+            (Dimensionless)]                      Mortality Rate         the crisis scenario given the implementation of each policy (or
+                                                  [Person/Hour]          combination of policies). It is assumed that the hospital, oper-
+            ED           ICU         Ward                                ating under stable equilibrium conditions only starts to imple-
+                                                                         ment the policies after the beginning of the crisis (i.e. the
+Baseline    97.88 %      87.78 %     85.00 %      0.1628 (1 death
+                                                     every 6.14 h)       second day) and continues to apply the policies to the end of
+                                                                         the simulation period.
+538                                                                                                    A. Mahmoudian-Dehkordi, S. Sadat
+
+
+
+
+Fig. 3 Instantaneous Occupancy Rates under the Crisis Scenario (Baseline Model)
+
+
+
+    We first evaluate ICU management policies against their              Boarding in Ward and General Ward Admission Control, 7)
+intended effect of reducing average ICU occupancy rate which             Baseline, and 8) Boarding in Ward policy respectively.
+sees a sudden increase after the crisis. As seen in Fig. 6 below,           Average ED occupancy rate also skyrockets after the crisis.
+all policies except the boarding in ward policy actually reduce          As seen in Fig. 7 and the zoomed version in Fig. 8 around time
+the average ICU occupancy rate against the baseline scenario             1356, policies most effective at controlling average ED occu-
+of implementing no policies. We rank the policies at time                pancy at time 1356 are 1) All Policies, 1) Boarding in Ward
+1356, which is the time the baseline model would have                    and Premature Transfer from ICU, 2) Boarding in Ward and
+reached equilibrium if no policies were implemented. Most                General Ward Admission Control, 3) Boarding in Ward, 4)
+effective policies in reducing average ICU occupancy rate at             General Ward Admission Control and Premature Transfer
+time 1356 are 1) General Ward Admission Control and                      from ICU, 5) Premature Transfer from ICU, 6) General
+Premature Transfer from ICU, 2) All Policies, 3) Premature               Ward Admission Control, and 7) Baseline. When we use the
+Transfer from ICU, 4) Boarding in Ward and Premature                     same rank number for two policies, it means that the two
+Transfer from ICU, 5) General Ward Admission Control, 6)                 policies had the exact same performance.
+
+
+
+
+Fig. 4 Average Occupancy Rates under the Crisis Scenario (Baseline Model)
+Sustaining critical care by use of evidence-based simulation                                                                       539
+
+
+
+
+Fig. 5 Hospital Mortality Outcome Measures under the Crisis Scenario (Baseline Model)
+
+
+
+   The crisis also affects the average ward occupancy rate. As           Fig. 12, the best performing policies at time 1356 are as fol-
+seen in Fig. 9 and the zoomed Fig. 10, policies most effective           lows: 1) General Ward Admission Control, 2) Baseline, 3)
+at controlling average ward occupancy at time 1356 are 1)                Boarding in Ward and General Ward Admission Control, 4)
+General Ward Admission Control, 2) Baseline, 3) General                  Boarding in Ward, 5) General Ward Admission Control and
+Ward Admission Control and Premature Transfer from ICU,                  Premature Transfer from ICU, 6) Premature Transfer from
+4) Premature Transfer from ICU, 5) Boarding in Ward and                  ICU, 7) All Policies, and 8) Boarding in Ward and
+General Ward Admission Control, 6) All Policies, 7)                      Premature Transfer from ICU.
+Boarding in Ward, and 8) Boarding in Ward and Premature                     As for hospital-wide hourly mortality rate, as seen in
+Transfer from ICU respectively.                                          Fig. 13 and the zoomed Fig. 14, the best performing policies
+   As the ultimate measure of health quality, measures of                at time 1356 are as follows: 1) Baseline, 1) General Ward
+mortality are of utmost importance. In terms of accumulated              Admission Control, 2) Boarding in Ward and General Ward
+total hospital mortality, as seen in Fig. 11 and the zoomed              Admission Control, 2) Boarding in Ward, 3) Premature
+
+
+
+
+Fig. 6 Average ICU Occupancy under the Crisis Scenario
+540                                                                                                    A. Mahmoudian-Dehkordi, S. Sadat
+
+
+
+
+Fig. 7 Average ED Occupancy under the Crisis Scenario
+
+
+
+Transfer from ICU, 4) General Ward Admission Control and                 equilibrium after the crisis without implementing any ICU
+Premature Transfer from ICU, 5) Boarding in Ward and                     management policies.
+Premature Transfer from ICU, and 6) All Policies.                           In terms of the ultimate health outcome measure of accu-
+                                                                         mulated total hospital mortality, which measures the total
+                                                                         number of deaths from the beginning of the simulation to
+                                                                         the particular point in time (1356 in this case), all ICU man-
+10 Discussion and management insights                                    agement policies except the General Ward Admission Control
+                                                                         perform worse than the Baseline policy of doing nothing. So
+Which ICU management policies are the best in terms of                   one may argue that by implementing any of the ICU manage-
+alleviating the pressure on hospitals in times of temporary              ment policies or their combinations except in the case of the
+crisis? Table 2 summarizes the performance of the various                General Ward Admission Control, hospitals may be indeed
+analyzed policies or combination of policies at time 1356,               putting patients’ lives at higher risk and do more harm than
+the point at which the baseline model would have reached                 good. The General Ward Admission Control policy
+
+
+
+
+Fig. 8 Average ED Occupancy under the Crisis Scenario (Zoomed Version)
+Sustaining critical care by use of evidence-based simulation                                                                   541
+
+
+
+
+Fig. 9 Average Ward Occupancy under the Crisis Scenario
+
+outperforms the Baseline policy of doing nothing, but even            patients who have completed their medically-necessary criti-
+this superiority in performance does not appear to be very            cal care period in ICU in accessing general ward beds over
+significant (0.1 lives saved compared to the Baseline policy).        emergency patients in ED who are competing for the same
+As we show later under the sensitivity analysis though, this          ward beds. The results show that this is not the case and the
+degree of significance could be higher under different depart-        policy decreases (albeit slightly) the ED occupancy rate over
+mental capacity assumptions.                                          the Baseline, but overall is not that effective in decreasing
+   The fact that the General Ward Admission Control policy            occupancy rates when compared to the rest of the policies.
+outperformed the rest of the ICU management policies (by a               The counter intuitive finding that the General Ward
+range of 0.9 to 3.3 lives saved) may be counter intuitive to          Admission Control policy which is among the worst in alle-
+hospital management used to assess the situation of the crisis        viating the symptoms of the problem (i.e. high ED and ICU
+based on the managerial outcome measure of departmental               occupancy rates) outperforms the rest of the policies has a
+occupancy rates. Indeed, one might have hypothesized that             logical explanation though. Unlike policies involving
+the General Ward Admission Control policy even increases              Premature Transfer of Patients from ICU, this policy does
+ED occupancy over the Baseline as it prioritizes critical             not put the patients’ health at risk by making them receive
+
+
+
+
+Fig. 10 Average Ward Occupancy under the Crisis Scenario (Zoomed Version)
+542                                                                                                       A. Mahmoudian-Dehkordi, S. Sadat
+
+
+
+
+Fig. 11 Accumulated Total Hospital Mortality under the Crisis Scenario
+
+
+sub-standard critical care in the general ward when they                 Control policy is not an effective policy in times of crisis, as it
+should have still been occupying an ICU bed. Furthermore,                does not adequately alleviate the symptoms of the problem
+unlike policies involving boarding in ward that make it hard             (high ED and ICU occupancy rates), it is indeed the policy
+for ED patients to get admitted to ICU, this policy helps empty          that outperforms the rest of the policies with regards to the
+to a greater extent ICU beds for ED patients, and as such                ultimate measure of saving patients’ lives.
+somewhat alleviate the pressure on the ICU by housing critical
+patients whose critical care period in ICU is completed where
+they belong (in general ward) and ED patients who need ICU               11 Sensitivity analysis
+beds in ICU. Putting patients where they medically need to be
+is the right medical decision and as such should have positive           We populated our model with parameter values found in em-
+effects on health outcomes.                                              pirical studies published in the medical as well as hospital
+    The main management insight from this research, as such,             administration literature. While for the most part the values
+is that while on the face of it the General Ward Admission               of these parameters showed little variation from one study to
+
+
+
+
+Fig. 12 Accumulated Total Hospital Mortality under the Crisis Scenario (Zoomed Version)
+Sustaining critical care by use of evidence-based simulation                                                                        543
+
+
+
+
+Fig. 13 Hospital-Wide Hourly Mortality Rate under the Crisis Scenario
+
+
+
+another (see sources of parameter values under Appendix:                 369.6 h [66], 499.2 [67], and 1202.4 [68]. Similarly, we varied
+Model Documentation), there were three parameter values                  Ward LOS for Discharge-from-Ward Critical Patients from
+that showed a wide range of empirical values in the literature,          126 h (used in the baseline model) to 93.8 h [69], 513.6 h
+namely: Non-Survivor LOS in Ward, Ward LOS for Non-                      [67], and 895.2 h [68]. In each of these 11 experiments, the
+Critical Admitted Patients, and Ward LOS for Critical                    General Ward Admission Control remained as the best
+Discharged home Patients.                                                performing policy with regards to accumulated total hospital
+   To test the sensitivity of our findings to different values of        mortality. In all but two experiments, the second best
+these parameters, we first conducted a series of single variable         performing policy was the Baseline policy of implementing
+sensitivity analyses. We varied Ward LOS for Non-Critical                no particular ICU management policy. In two experiments,
+Admitted Patients from 120 h (used in the baseline model)                one setting the Ward LOS for Non-Critical Admitted
+to 144 [64], and 175.2 h [65]. We also varied Non-Survivors              Patients to 175.2 h and the other one setting the Ward LOS
+LOS in Ward from 297.6 h (used in the baseline model) to                 for Discharge-from-Ward Critical Patients to 895.2 h, the
+
+
+
+
+Fig. 14 Hospital-Wide Hourly Mortality Rate under the Crisis Scenario (Zoomed Version)
+544                                                                                                    A. Mahmoudian-Dehkordi, S. Sadat
+
+Table 2    Performance of ICU management policies at time 1356
+
+Policy                                 Avg ICU             Avg ED           Avg Ward            Hourly Mortality       Accumulated Total
+Performance Measure                    Occupancy (%)       Occupancy (%)    Occupancy (%)       Rate (Person/Hour)     Hospital Mortality
+                                                                                                                       (Person)
+
+All Policies                           88.37               103.83           88.02               0.16452                231.6
+Baseline                               91.28               104.34           87.72               0.16284                228.7
+Boarding in Ward                       91.5                103.85           88.03               0.16286                230.1
+Boarding in Ward and General           91.06               103.84           87.92               0.16286                229.5
+  Ward Admission Control
+Boarding in Ward and Premature         88.85               103.83           88.09               0.16447                231.9
+  Transfer from ICU
+General Ward Admission Control         90.96               104.23           87.68               0.16284                228.6
+General Ward Admission Control         88.28               103.89           87.8                0.16446                230.6
+  and Premature Transfer from ICU
+Premature Transfer from ICU            88.65               103.99           87.84               0.16438                230.8
+
+
+
+
+second best performing policy changed from Baseline to                Control outperformed the rest of the policies with regards to
+BGeneral Ward Admission Control and Premature Transfer                accumulated total hospital mortality. We also found that the
+from ICU^.                                                            degree of its significance over the second best performing
+    The reason that the second best performing policy changes         policy could range from 0.081 to 1.837 lives saved. As the
+to BGeneral Ward Admission Control and Premature Transfer             number of beds in the ICU or general ward decreases, the
+from ICU^ in these two scenarios is that in both scenarios, the       number of lives saved as a result of implementing the
+pressure on the ward is increased significantly due to higher         General Ward Admission Control policy increases.
+ward LOS for a large portion of patients. As such, discharging
+critical patients more quickly from ICU and prioritizing them
+over non-critical admitted patients in the ward admission pro-
+                                                                      12 Areas for future research
+cess make more ICU beds available for those who are boarded
+in ED (and at risk of higher mortality) and helps reduce overall
+                                                                      The model and insights gained from the analysis presented in
+mortality rates.
+                                                                      this paper are a first step in understanding the performance of
+    We also conducted a series of multi-variable sensitivity
+                                                                      various hospital management policies on managerial and
+analyses using the combination of the three values for Ward
+                                                                      health outcome measures. With the ever growing empirical
+LOS for Non-Critical Admitted Patients (120, 144, 175.2),
+                                                                      evidence of the effects of various policies on intermediate
+four values for Non-Survivors LOS in Ward (297.6, 369.6,
+                                                                      and ultimate performance measures, it may be possible to
+499.2, 1202.4), and four values for Ward LOS for
+                                                                      add a costing layer to the analysis to evaluate the cost effec-
+Discharge-from-Ward Critical Patients (126, 93.8, 513.6,
+                                                                      tiveness of various management policies, especially those that
+895.2). This resulted in 48 combination of values. We imple-
+                                                                      involve significant investments such as capacity expansion
+mented the eight ICU management policies or combination of
+                                                                      policies.
+policies in each of the 48 scenarios (i.e. a total of 384 simula-
+                                                                         Other crisis scenarios especially those that are of a more
+tion experiments) and found that in every single scenario, the
+                                                                      permanent nature, such as the ever increasing pressure on
+General Ward Admission Control was the best performing
+                                                                      hospitals to serve an ageing population in many countries
+policy with regards to accumulated total hospital mortality.
+                                                                      [70–72], could be an interesting line of research for future
+The second best policy in the various scenarios was either
+                                                                      exploration. These type of crisis scenarios would likely re-
+the Baseline or the BGeneral Ward Admission Control and
+                                                                      quire more fundamental (and potential costly) management
+Premature Transfer from ICU^.
+                                                                      policies than the short term policies implementable by a single
+    To assess the sensitivity of the findings to relative depart-
+                                                                      hospital explored in this study.
+mental capacity assumptions, we conducted another series of
+multi-variable sensitivity analyses. We evaluated the impact of
+15 % change in each departmental capacity. This resulted in
+27 combination of values. Like the previous sensitivity anal-         13 Conclusions
+yses, we implemented the eight ICU management policies or
+combination of policies in each of the 27 scenarios and found         In light of the fact that there is a shortage of costly ICU beds in
+that in every single scenario, the General Ward Admission             many regions of the world necessitating constant fire-fighting
+Sustaining critical care by use of evidence-based simulation                                                                                         545
+
+
+to make these beds available through various ICU manage-                     4.   Simchen E, Sprung CL, Galai N, Zitser-Gurevich Y, Bar-Lavi Y,
+                                                                                  Gurman G, Klein M, Lev A, Levi L, Zveibil F, Mandel M,
+ment policies, we studied the intended and unintended conse-
+                                                                                  Mnatzaganian G (2004) Survival of critically ill patients hospital-
+quences of these policies on managerial and health outcome                        ized in and out of intensive care units under paucity of intensive
+measures in the context of emergency patient flow. The sys-                       care unit beds. Crit Care Med 32:1654–1661
+tem dynamics simulation model is based in empirical evi-                     5.   Hosseinifard S, Abbasi B, Minas J (2014) Intensive care unit dis-
+dence found in the medical and hospital administration litera-                    charge policies prior to treatment completion. Oper Res Health Care
+                                                                                  3:168–175
+ture. The model is fully documented so that it can be custom-                6.   Halpern NA, Pastores SM (2010) Critical care medicine in the
+ized with institution-specific parameter values where applica-                    United States 2000–2005: an analysis of bed numbers, occupancy
+ble. Nonetheless, the preliminary insight generated by popu-                      rates, payer mix, and costs. Crit Care Med 38:65–71
+lating generic models such as ours with Btypical^ data can                   7.   Duke GJ, Buist MD, Pilcher D, Scheinkestel CD, Santamaria JD,
+                                                                                  Gutteridge GA, Cranswick PJ, Ernest D, French C, Botha JA
+firm up guideline thinking, by facilitating the thinking for                      (2009) Interventions to circumvent intensive care access block: a
+the relationship between the structure of an organization and                     retrospective 2-year study across metropolitan Melbourne. Med J
+its behaviour over time [73].                                                     Aust 190:375–378
+    The main policy implications of the study is that the                    8.   Hoot NR, Aronsky D (2008) Systematic review of emergency de-
+                                                                                  partment crowding: causes, effects, and solutions. Ann Emerg Med
+General Ward Admission Control policy outperforms the rest
+                                                                                  52:126–136
+of the ICU management policies under a defined natural di-                   9.   Olshaker JS, Rathlev NK (2006) Emergency department over-
+saster crisis scenario. This policy basically prioritizes critical                crowding and ambulance diversion: the impact and potential solu-
+patients whose medically-necessary episode of critical care in                    tions of extended boarding of admitted patients in the emergency
+ICU is completed in accessing general ward beds over emer-                        department. J Emerg Med 30:351–356
+                                                                            10.   Moskop JC, Sklar DP, Geiderman JM, Schears RM, Bookman KJ
+gency patients competing for ward beds in ED. This policy                         (2009) Emergency department crowding, part 1—concept, causes,
+saves more lives when compared to implementing no policies                        and moral consequences. Ann Emerg Med 53:605–611
+(Baseline), Premature Transfer of Patients from ICU,                        11.   Zhou JC, Pan KH, Zhou DY, Zheng SW, Zhu JQ, Xu QP, Wang CL
+Boarding in Ward, and possible combinations of these poli-                        (2012) High hospital occupancy is associated with increased risk for
+                                                                                  patients boarding in the emergency department. Am J Med 125:416
+cies. The superiority of the General Ward Admission Control
+                                                                            12.   Young MP, Gooder VJ, McBride K, James B, Fisher ES (2003)
+policy over other policies may be counter-intuitive to hospital                   Inpatient transfers to the intensive care unit: delays are associated
+administrators, as this policy is not as effective as other poli-                 with increased mortality and morbidity. J Gen Intern Med 18:77–83
+cies in alleviating the symptoms of the problem, which are the              13.   Chalfin DB, Trzeciak S, Likourezos A, Baumann BM, Dellinger
+high ED and ICU occupancy rates closely monitored by hos-                         RP (2007) Impact of delayed transfer of critically ill patients from
+                                                                                  the emergency department to the intensive care unit. Crit Care Med
+pital administrators during any bed crisis period. More impor-                    35:1477–1483
+tantly, our findings show that the other ICU management pol-                14.   Cardoso LT, Grion CM, Matsuo T, Anami EH, Kauss IA, Seko L,
+icies may be doing more harm than good in saving patients’                        Bonametti AM (2011) Impact of delayed admission to intensive
+lives, and as such implementing no ICU management policy                          care units on mortality of critically ill patients: a cohort study. Crit
+                                                                                  Care 15:R28
+could be regarded a relatively good policy compared to all the
+                                                                            15.   Profit J, McCormick MC, Escobar GJ, Richardson DK, Zheng Z,
+ICU management policies studies except the General Ward                           Coleman-Phox K, Roberts R, Zupancic JA (2007) Neonatal inten-
+Admission Control policy.                                                         sive care unit census influences discharge of moderately preterm
+    Future research could look into exploring the performance                     infants. Pediatrics 119:314–319
+of various policies under different crisis scenarios, and adding            16.   Stelfox HT, Hemmelgarn BR, Bagshaw SM, Gao S, Doig CJ,
+                                                                                  Nijssen-Jordan C, Manns B (2012) Intensive care unit bed avail-
+a costing layer to the model to assess the cost-effectiveness of                  ability and outcomes for hospitalized patients with sudden clinical
+these policies.                                                                   deterioration. Arch Intern Med 172:467–474
+                                                                            17.   Wagner J, Gabler NB, Ratcliffe SJ, Brown SE, Strom BL, Halpern
+                                                                                  SD (2013) Outcomes among patients discharged from busy inten-
+                                                                                  sive care units. Ann Intern Med 159:447–455
+                                                                            18.   Chrusch CA, Olafson KP, McMillan PM, Roberts DE, Gray PR
+                                                                                  (2009) High occupancy increases the risk of early death or readmis-
+References                                                                        sion after transfer from intensive care. Crit Care Med 37:2753–2758
+                                                                            19.   Sterman JD (2000) Business dynamics: systems thinking and
+ 1. Bing-Hua YU (2014) Delayed admission to intensive care unit for               modeling for a complex world. Irwin McGrawHill, Boston
+    critically surgical patients is associated with increased mortality.    20.   Lane DC, Monefeldt C, Rosenhead JV (2000) Looking in the
+    Am J Surg 208:268–274                                                         wrong place for health care improvements: a system dynamics
+ 2. Kelley MA, Angus D, Chalfin DB, Crandall ED, Ingbar D,                        study of an accident and emergency department. J Oper Res Soc
+    Johanson W, Medina J, Sessler CN, Vender JS (2004) The critical               51:518–531
+    care crisis in the United States: a report from the profession. Chest   21.   Brailsford SC, Lattimer VA, Tamaras P, Turnbull JC (2004)
+    125:1514–1517                                                                 Emergency and on demand health care: modelling a large and com-
+ 3. Lyons RA, Wareham K, Hutchings HA, Major E, Ferguson B                        plex system. J Oper Res Soc 55:34–42
+    (2000) Population requirement for adult critical care beds: a pro-      22.   Lattimer V, Brailsford S, Turnbull J, Tarnaras P, Smith H, George S,
+    spective quantitative and qualitative study. Lancet 355:595–598               Gerard K, Maslin-Prothero S (2004) Reviewing emergency care
+546                                                                                                               A. Mahmoudian-Dehkordi, S. Sadat
+
+    systems I: insights from system dynamics modelling. Emerg Med J          45.   Stacy KM (2011) Progressive care units: different but the same. Crit
+    21:685–691                                                                     Care Nurse 31:77–83
+23. Desai MS, Penn ML, Brailsford S, Chipulu M (2008) Modelling of           46.   Burt CW, McCaig LF, Valverde RH (2006) Analysis of ambulance
+    Hampshire Adult Services—gearing up for future demands. Health                 transports and diversions among US emergency departments. Ann
+    Care Manag Sci 11:167–176                                                      Emerg Med 47:317–326
+24. Lane DC, Husemann E (2008) System dynamics mapping of acute              47.   Scheulen JJ, Li G, Kelen GD (2001) Impact of ambulance diversion
+    patient flows. J Opl Res Soc 59:213–224                                        policies in urban, suburban, and rural areas of central Maryland.
+25. Rashwan W, Abo-Hamad W, Arisha A (2015) A system dynamics                      Acad Emerg Med 8:36–40
+    view of the acute bed blockage problem in the Irish healthcare           48.   Begley CE, Chang Y, Wood RC, Weltge A (2004) Emergency
+    system. Eur J Oper Res 247:276–293                                             department diversion and trauma mortality: evidence from
+26. Kim SH, Chan CW, Olivares M, Escobar G (2015) ICU admission                    Houston, Texas. J Trauma 57:1260–1265
+    control: an empirical study of capacity allocation and its implication   49.   Rosenberg AL, Hofer TP, Strachan C, Watts CM, Hayward RA
+    on patient outcomes. Manag Sci 61:19–38                                        (2003) Accepting critically ill transfer patients: adverse effect on a
+27. Cooper GS, Sirio CA, Rotondi AJ, Shepardson LB, Rosenthal GE                   referral center’s outcome and benchmark measures. Ann Intern
+    (1999) Are readmissions to the intensive care unit a useful measure            Med 138:882–890
+    of hospital performance? Med Care 37:399–408                             50.   Combes A, Luyt CE, Trouillet JL, Chastre J, Gibert C (2005)
+28. Rosenberg AL, Watts C (2000) Patients readmitted to ICUs: a sys-               Adverse effect on a referral intensive care unit’s performance of
+    tematic review of risk factors and outcomes. Chest 118:492–502                 accepting patients transferred from another intensive care unit.
+29. Anderson D, Price C, Golden B, Jank W, Wasil E (2011) Examining                Crit Care Med 33:705–710
+    the discharge practices of surgeons at a large medical center. Health    51.   McManus ML, Long MC, Cooper A, Mandell J, Berwick DM,
+    Care Manag Sci 14:338–347                                                      Pagano M, Litvak E (2003) Variability in surgical caseload and
+30. Goldfrad C, Rowan K (2000) Consequences of discharges from                     access to intensive care services. Anesthesiology 98:1491–1496
+    intensive care at night. Lancet 355:1138–1142                            52.   Kolker A (2009) Process modeling of ICU patient flow: effect of
+31. Beck DJ, McQuillan P, Smith GB (2002) Waiting for the break of                 daily load leveling of elective surgeries on ICU diversion. J Med
+    dawn? The effects of discharge time, discharge TISS scores and                 Syst 33:27–40
+    discharge facility on hospital mortality after intensive care.           53.   Kramer AA, Higgins TL, Zimmerman JE (2013) The association
+    Intensive Care Med 28:1287–1293                                                between ICU readmission rate and patient outcomes. Crit Care Med
+                                                                                   41:24–33
+32. Utzolino S, Kaffarnik M, Keck T, Berlet M, Hopt UT (2010)
+                                                                             54.   Kramer AA, Higgins TL, Zimmerman JE (2012) Intensive care unit
+    Unplanned discharges from a surgical intensive care unit:
+                                                                                   readmissions in U.S. hospitals: patient characteristics, risk factors,
+    readmissions and mortality. J Crit Care 25:375–381
+                                                                                   and outcomes. Crit Care Med 40:3–10
+33. Kc DS, Terwiesch C (2012) An econometric analysis of patient
+                                                                             55.   Rahmandad H, Sterman JD (2012) Reporting guidelines for
+    flows in the cardiac intensive care unit. Manuf Serv Oper Manag
+                                                                                   simulation-based research in social sciences. Syst Dyn Rev 28:
+    14:50–65
+                                                                                   396–411
+34. Daly K, Beale R, Chang RW (2001) Reduction in mortality after
+                                                                             56.   St Noble VJ, Davies G, Bell D (2008) Improving continuity of care
+    inappropriate early discharge from intensive care unit: logistic re-
+                                                                                   in an acute medical unit: initial outcomes. QJM 101:529–533
+    gression triage model. BMJ 322:1274–1276
+                                                                             57.   Schneider SM, Gallery ME, Schafermeyer R, Zwemer FL (2003)
+35. Parkhe M, Myles PS, Leach DS, Maclean AV (2002) Outcome of                     Emergency department crowding: a point in time. Ann Emerg Med
+    emergency department patients with delayed admission to an inten-              42:167–172
+    sive care unit. Emerg Med 14:50–57                                       58.   Kirchhoff KT, Dahl N (2006) American Association of Critical-
+36. Dunn R (2003) Reduced access block causes shorter emergency                    Care Nurses’ national survey of facilities and units providing criti-
+    department waiting times: an historical control observational study.           cal care. Am J Crit Care 15:13–27
+    Emerg Med 15:232–238                                                     59.   Multz AS, Chalfin DB, Samson IM, Dantzker DR, Fein AM,
+37. Terwiesch C, Diwas KC, Kahn JM (2011) Working with capacity                    Steinberg HN, Niederman MS, Scharf SM (1998) A Bclosed^ med-
+    limitations: operations management in critical care. Crit Care 15:             ical intensive care unit (MICU) improves resource utilization when
+    308                                                                            compared with an Bopen^ MICU. Am J Respir Crit Care Med 157:
+38. Howell MD (2011) Managing ICU throughput and understanding                     1468–1473
+    ICU census. Curr Opin Crit Care 17:626–633                               60.   Iapichino G, Gattinoni L, Radrizzani D, Simini B, Bertolini G, Ferla
+39. Halpern NA, Pastores SM, Oropello JM, Kvetan V (2013) Critical                 L, Mistraletti G, Porta F, Miranda DR (2004) Volume of activity and
+    care medicine in the United States: addressing the intensivist short-          occupancy rate in intensive care units. Association with mortality.
+    age and image of the specialty. Crit Care Med 41:2754–2761                     Intensive Care Med 30:290–297
+40. Johnson DW, Schmidt UH, Bittner EA, Christensen B, Levi R, Pino          61.   McCarthy ML, Aronsky D, Jones ID, Miner JR, Band RA, Baren
+    RM (2013) Delay of transfer from the intensive care unit: a pro-               JM, Desmond JS, Baumlin KM, Ding R, Shesser R (2008) The
+    spective observational study of incidence, causes and financial im-            emergency department occupancy rate: a simple measure of emer-
+    pact. Crit Care 17:R128                                                        gency department crowding? Ann Emerg Med 51:15–24
+41. Levin PD, Worner TM, Sviri S, Goodman SV, Weiss YG, Einav S,             62.   Pronovost PJ, Needham DM, Waters H, Birkmeyer CM, Calinawan
+    Weissman C, Sprung CL (2003) Intensive care outflow limitation:                JR, Birkmeyer JD, Dorman T (2004) Intensive care unit physician
+    frequency, etiology, and impact. J Crit Care 18:206–211                        staffing: financial modelling of the Leapfrog standard. Crit Care
+42. Armony M, Chan CW, Zhu B (2013) Critical care in hospitals:                    Med 32:1247–1253
+    when to introduce a step down unit? Working Paper, Columbia              63.    de Bruin A, Bekker R, van Zanten L, Koole G (2010)
+    University                                                                      Dimensioning hospital wards using the Erlang loss model. Ann
+43. Hodgins MJ, Moore N, Legere L (2011) Who is sleeping in our                     Oper Res 178:23–43
+    beds? Factors predicting the ED boarding of admitted patients for        64.   Curley C, McEachern JE, Speroff T (1998) A firm trial of interdis-
+    more than 2 hours. J Emerg Nurs 37:225–230                                     ciplinary rounds on the inpatient medical wards: an intervention
+44. Harding AD (2009) What can an intermediate care unit do for you?               designed using continuous quality improvement. Med Care 36:
+    J Nurs Adm 39:4–7                                                              AS4–AS12
+Sustaining critical care by use of evidence-based simulation                                                                                     547
+
+65.   Asplund K, Gustafson Y, Jacobsson C, Bucht G, Wahlin A, Peterson J,   69. Garland A, Connors AF Jr (2013) Optimal timing of transfer out of
+      Blom JO, Angquist KA (2000) Geriatric-based versus general wards          the intensive care unit. Am J Crit Care 22:390–397
+      for older acute medical patients: a randomized comparison of out-     70. LaPierre TA, Hughes ME (2009) Population aging in Canada and
+      comes and use of resources. J Am Geriatr Soc 48:1381–1388                 the United States. In: Poston D (ed) International handbook of pop-
+66.   Iapichino G, Morabito A, Mistraletti G, Ferla L, Radrizzani D, Reis       ulation aging. Springer, New York, pp 191–228
+      Miranda D (2003) Determinants of post-intensive care mortality in     71. George G, Jell C, Todd BS (2006) Effect of population ageing on
+      high-level treated critically ill patients. Intensive Care Med 29:        emergency department speed and efficiency: a historical perspec-
+      1751–1756                                                                 tive from a district general hospital in the UK. Emerg Med J 23:
+67.   Wallis CB, Davies HT, Shearer AJ (1997) Why do patients die on            379–383
+      general wards after discharge from intensive care units?              72. Schulz E, Leidl R, König HH (2004) The impact of ageing on
+      Anaesthesia 52:9–14                                                       hospital care and long-term care-the example of Germany. Health
+68.   Mayr VD, Dünser MW, Greil V, Jochberger S, Luckner G, Ulmer               Policy 67:57–74
+      H, Friesenecker BE, Takala J, Hasibeder WR (2006) Causes of           73. Wolstenholme E (1999) A patient flow perspective of UK Health
+      death and determinants of outcome in critically ill patients. Crit        Services: exploring the case for new Bintermediate care^ initiatives.
+      Care 10:R154                                                              Syst Dyn Rev 15:253–271
+
