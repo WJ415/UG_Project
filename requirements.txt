@@ -3,3 +3,4 @@ requests
 langdetect
 python-Levenshtein
 Levenshtein
+stop-words
