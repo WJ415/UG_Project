@@ -1,0 +1,5 @@
+streamlit
+requests
+langdetect
+python-Levenshtein
+Levenshtein
