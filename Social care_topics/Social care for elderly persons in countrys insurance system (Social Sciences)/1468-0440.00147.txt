@@ -1,0 +1,911 @@
+                  The Geneva Papers on Risk and Insurance Vol. 26 No. 4 (October 2001) 667±683
+
+
+
+
+     Long-term Health and Social Care for the Elderly: An
+                 International Perspective
+                                            by Laurence Assous
+
+     This paper describes how industrialized countries have taken different paths towards
+     meeting the needs of their dependent elderly. Dependency-related needs come under the
+     heading of social protection, since they involve general home help and medical care, even
+     if homecare is essentially provided by members of the person's family. Thus, the diversity
+     of medical care and social protection systems, their level, their ``Bismarckian'' or
+     ``Beveridgian'' nature, has an impact on long-term care systems. We can therefore
+     distinguish three main groups of countries that differ from an institutional point of view. In
+     the future, because of demographic and sociological changes, it seems unlikely that family
+     care could continue to play such an important spontaneous role, especially in the southern
+     European countries.
+
+
+1.    Introduction
+      The most common consequence of population ageing is to destabilize the ®nancing of
+pension schemes and healthcare systems. At the same time the rise in the proportion of very
+elderly persons leads naturally to a rise in the proportion of individuals who are likely to ®nd
+themselves in a state of dependency. Clearly the notion of dependency,1 which relates to the
+notion of need for healthcare and also for home help, is intimately related to age.2
+      This survey is based on the 15 Member States of the European Union, although it
+occasionally refers to the situation in the United States, Canada and Japan. The major issues
+relating to dependency coverage are analysed after a brief review of population ageing. Then
+we examine dependency coverage from an institutional point of view before presenting the
+various forms of coverage. In the last part we attempt to reply to questions relating to the
+various types of long-term care bene®ts.
+
+2.    Population ageing
+     One of the prime indicators for measuring the potential pressure that the increasingly
+ageing population brings to bear on care systems for the elderly is the rise in the proportion of
+
+        This article is partly based on a working paper written together with Pierre Ralle (see References), to whom
+the author extends her warmest thanks for the time he devoted to this survey and for all the advice he gave. Thanks are
+also due to Christel Lolin, Mireille Elbaum, Marie-Eve JoeÈl, Nicole Kerschen and Ronan Mahieu for their useful
+comments on the earlier versions of this paper.
+        Atthetimeofpreparationofthisarticle,theauthorwasaneconomistoftheMinistryofSocialAffairs,DREES.
+       1
+          The notion of ``dependency'' is very often used in France. In other countries, the concept is rather one of
+``long-term care''. This article uses both terms.
+       2
+          Frequency of dependency rises sharply with age, with a break between the ages of 80 and 85 (Badeyan and
+Colin, 1999). But the notion of dependency is not necessarily related to age. In most countries (except for France
+where the of®cial political view is that dependent persons aged under 60 are handicapped), dependency is seen as a
+risk that could arise at any age.
+
+
+
+                                                         # 2001 The International Association for the Study of Insurance Economics.
+                                                         Published by Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, UK.
+668                                                                                                                                                                                           ASSOUS
+
+
+persons aged 80 and over in the population as a whole. In the 18 countries in this survey the
+proportion of over-80s has increased over the last 40 years or so. In 1960 the proportion of
+over-80s in the relevant countries was between 0.7 and 2 per cent of the population, whereas in
+1997 it ranged from 2.5 to 4.8 per cent. However, the pattern of changes in the ageing
+population has varied from country to country.
+     If we use the ratio of over-80s to over-65s as an indicator we can eliminate the effects of
+``downward ageing''due to a sharp fall in the birth rate (as in Italy). In Figure 1, which shows
+the proportion of over-65s in the population as a whole along the bottom line, we can see that
+there are ®ve groups of countries:
+·                     Young countries (Ireland and Canada), with 11 to 12 per cent of the population aged 65
+                      and over and about a ®fth of the population aged over 80;
+·                     Relatively young countries (United States, Netherlands, Luxembourg and Finland), with
+                      the proportion of over-65s ranging between 12.7 per cent in the U.S. and 14.5 per cent in
+                      Finland;
+·                     Spain, Portugal, Greece and Japan where there is already a high proportion of the
+                      population aged 65 and over (between 15 and 16 per cent) but where the ratio of over-80s
+                      to over-65s remains relatively low. These countries have slightly different patterns of
+                      ageing from the European countries;
+·                     The remainder of the European countries, where the proportion of over-65s ranges from
+                      15 per cent (Denmark) to 17.1 per cent (Italy), but where the proportion of over-80s is
+                      higher than in the southern European countries or in Japan (between 23 per cent for
+                      Belgium and 26 per cent for Denmark);
+·                     Sweden, where 17.4 per cent of the population are over 65 and nearly 28 per cent of the
+                      over-65s are over 80, is the ``oldest'' country in the world.
+                                                            According to the Eurostat predictions (1997), if we consider the proportion of over-80s
+
+                                                            28                                                                                                                      Sweden
+
+                                                            27
+     Proportion aged 80 and over in the over-65 age group
+
+
+
+
+                                                            26                                                                             Denmark
+                                                                                                                                                      United Kingdom
+                                                                                                     United                                       France
+                                                            25                                       States                                           Germany
+
+                                                            24                                                                                   Austria
+                                                                                                                                                                                 Italy
+
+                                                            23                              Canada            Netherlands Luxembourg
+                                                                                                                                                                     Belgium
+                                                            22               Ireland                                            Finland
+                                                                                                                                                                   Greece
+                                                                                                                                                           Spain
+                                                            21                                                                                   Japan
+
+                                                            20
+
+                                                            19
+                                                                                                                                       Portugal
+
+                                                            18
+                                                                 10    11              12              13            14               15                    16              17               18
+                                                                                                 Proportion of over-65 in the total population
+
+
+Figure 1: Ratio of very elderly in the population aged 65 and over to older persons in the total
+                                          population
+                            Source: Eurostat, DREES calculation.
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                   669
+
+in the population as a whole by the year 2020, this analysis will change signi®cantly. Two
+southern countries, Italy and Greece, will become the ``oldest'', with respectively 6.8 and 6.3
+per cent of their population aged over 80. The other countries with a score above the European
+average, which at that date is projected to be 5.6 per cent, will be Germany, France and
+Belgium, which will keep their relative positions. Spain will be very close to the European
+average, just above Sweden, where 5 per cent of the population as a whole will be over 80.
+Ireland, Denmark and Portugal will be the countries with the lowest proportion of over-80s
+(3.3 per cent in Ireland, 4.3 per cent in Denmark and Portugal). Thus we can see that generally
+speaking it will be the countries in southern Europe that become ``old'', while the countries in
+the north will have a proportion of the very elderly much below the average. In Japan there will
+be a spectacular rise in the elderly population: in 2020, according to the forecast by the
+Japanese ministry of health, the population aged 75 and over will form 12.5 per cent of the
+population as a whole, which will place Japan far ahead of the other countries.
+     This increase, past, present and future, in the number of the very elderly is therefore
+putting pressure on the care systems in all the European countries, with distinct patterns in
+each group of countries: the southern European countries and Japan have to face a
+spectacularly ageing population; France, Germany and Belgium are in a similar situation,
+though it is slightly less severe.
+
+3.   The main problems of dependency coverage
+      Dependent persons need help both with the routine of their daily lives and for medical
+reasons. These needs come generally under the umbrella of social protection, i.e. the social
+services and the health services, and are not unconnected. Thus provision for long-term care
+goes hand in hand with the provision of medical care. It is therefore not always easy to draw
+the line between what concerns health insurance and what comes under the systems
+speci®cally concerned with dependency. There are two consequences of this: ®rstly, the
+orientations of the various countries with regard to long-term care coverage are generally
+linked to their existing health system (and more generally to social protection) (summary
+no. 1). Secondly, because of the multiplicity of the social actors concerned and their diversity
+from one country to another, it is dif®cult to quantify the ®nancial amounts devoted to
+®nancing dependency.
+      In virtually all of the countries in the survey medical care is covered by the health
+insurance system when individuals lose their mobility. Where insurance cover for long-term
+care exists, its general purpose is to reimburse the expenses that arise from calling on the
+services of a third person to assist with the essential day-to-day routine. In the countries where
+there is only a system of social welfare, the local authority bears the cost of caring for those
+below a certain income level. With regard to the accommodation of dependent persons, it is
+possible for the local authority or the pension funds to carry part of the costs that arise from
+adapting the home to their needs. By contrast, the long-term care services do not generally
+carry the costs related to accommodation, which, if they arise, come under complementary
+social assistance.
+      We may distinguish three main groups of countries from the point of view of their
+institutional systems (Table 1). In the Beveridge-type countries long-term care is generally
+provided by the local authorities who organize home-based services. In some of the
+Bismarck-type countries, dependency is recognized as a new risk. In southern Europe the
+main system is one of social welfare. Apart from these differences, the main areas of concern
+with regard to dependency provision are the following: Is there a suf®ciently large market of
+
+
+                                               # 2001 The International Association for the Study of Insurance Economics.
+670                                                                                                           ASSOUS
+
+
+                                                Table 1:
+                    The main types of institutional system for dependency provision
+                                        Dependency: a new risk Approach based
+                  Beveridge-type      (date when the new system primarily on
+                  responses                  was introduced)         social welfare
+                  Denmark                    Germany (1995)             Belgium
+                  Sweden                      Austria (1993)             France
+                  Finland                  Luxembourg (1998)             Greece
+                  Netherlands3             Japan (01/04/2000)            Spain
+                  United Kingdom                                        Portugal
+                  Ireland                                                 Italy
+
+
+
+the dependent elderly? Does the existing provision tend to favour informal care? And ®nally,
+what is the level of dependency bene®ts? ± a level which logically should increase as the level
+of family involvement decreases.
+
+    Summary no. 1
+                                     Healthcare and social protection systems
+
+    In Europe (and in Japan), the social protection systems are based on two models:
+    ·     The Bismarck model, which is still in use in Germany. This system of social
+          protection is designed to cover the worker and his family against social risks that
+          deprive him temporarily or permanently of his job and of his income. Using a
+          system of income-based contributions, this form of social protection guarantees the
+          worker's previous standard of living by paying him a replacement income. This type
+          of insurance scheme is described by Esping-Andersen (1993) as ``conservative-
+          corporate''.
+    ·     The Beveridge model. This system of social protection aims to cover the whole
+          population against social risks. It implements direct rights called universal rights,
+          awarded to all the residents of a country, uniform for all and ®nanced by the
+          taxpayer. The Scandinavian model should be seen separately from the English and
+          Irish models. According to Esping-Andersen's typology, the social-democratic
+          Scandinavian systems are based on a universal principle: their aim is to ensure
+          social cohesion and improve living conditions. The so-called ``liberal''systems in
+          the U.K. and Ireland are less generous: they are exposed to market forces and a
+          major part of social policy is directed towards the poorest sections of society (rather
+          low levels of bene®ts are available subject to means-testing).
+
+
+       3
+         In the Netherlands, a special fund for exceptional health costs (AWBZ), introduced in 1968 and ®nanced by
+the taxpayer, is available to all residents whatever their level of income and covers long-term care where the cost is
+considered too high to be borne by the individual or adequately covered by a private insurance. At ®rst the AWBZ bore
+the whole cost of residential care. Since the early 1980s the ®nancial contribution on the part of the user has been
+increasing.
+
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                          671
+
+   The European countries have therefore progressively moved away from the standard
+   models and the differences between the systems of social protection have generally
+   become blurred. In fact there is more of a tendency for the systems of most of these
+   countries to converge, adopting as they do more and more frequently elements that
+   derive both from the Beveridge and the Bismarck models. Currently the European
+   Union has three main categories of health system (Table 2): the national health services
+   of northern Europe, the continental systems based on health insurance schemes
+   supported by the state and the mixed systems of southern Europe, very similar to the
+   continental countries, but with their own characteristics (major institutional fragmen-
+   tation of the income maintenance systems; but on the other hand universal health
+   systems).
+
+
+                                          Table 2:
+                               The main types of health system
+           National health systems       Systems based on      Mixed systems in
+           in northern Europe        insurance health schemes southern Europe
+           Denmark                            Germany              Spain
+           Finland                             Austria              Italy
+           Sweden                             Belgium              Greece
+           United Kingdom                      France             Portugal
+           Ireland                              Japan
+                                            Luxembourg
+                                            Netherlands
+
+
+
+3.1.   Complementarity between the various types of coverage
+      Given the complexity of the systems that cover long-term care it is dif®cult to evaluate
+the global sums that are allocated to this area, each type of institutional system having its own
+method of measurement. A recent OECD report nevertheless estimates the total cost of
+covering long-term care for the elderly as between 1 per cent and 3 per cent of the GDP
+(Jacobzone, 1999). According to this report, the levels of expenditure are lower in southern
+Europe (between 0.2 per cent of the GDP in Greece and 0.6 per cent in Italy) than in northern
+Europe (2.7 per cent in Sweden and Netherlands, 1.3 per cent in the United Kingdom).
+      The level of agreed expenditure therefore remains rather restrained and in any event
+considerably below the amount allocated to pensions or healthcare. Older people usually
+receive long-term care bene®ts in complementarity to a pension.4 Dependency bene®ts must
+therefore be viewed together with the retirement pension rate, with the levels of provision
+offered by the social protection system and with healthcare coverage. It is therefore entirely
+likely that some countries where the health and retirement schemes offer a relatively high
+level of social protection have felt less than others the need to implement a system of provision
+for long-term care, the elderly people in question being able to ®nance this risk out of their
+
+
+      4
+        By contrast with handicapped persons unable to work (before the age of retirement) who are in need of an
+additional bene®t, besides the basic income necessary to be able to take on the cost of their dependency.
+
+
+
+                                                      # 2001 The International Association for the Study of Insurance Economics.
+672                                                                                          ASSOUS
+
+
+own resources. Looked at the other way round, we may suppose that if dependency led to high
+levels of coverage, expenditure on pensions would be lower, as the elderly would have less
+need to protect themselves against this potential risk by saving or by taking out private
+insurance.
+
+
+3.2.     Co-ordination between the social services and the health services
+      In most of the countries in the survey, the social services and the health services are
+separate structures, and so they often operate in a rather disjointed fashion in relation to each
+other. To deal with the problems that arise in this situation, most reforms concentrate on better
+co-ordination or integration between the health and the social services. Frequently medical
+care works out as more costly for the taxpayer but is often free to the user, whereas the social
+services generally require a contribution ± sometimes signi®cant ± from those who use them,
+but they are less heavy on the public purse. This situation may result in economic inef®ciency,
+as individuals will naturally opt for the solution that is the cheapest for them; this may,
+however, turn out to be the most expensive for the taxpayer or for the local authority as a
+whole.
+      Thus, for example, the Spanish social services, by contrast with the health services,
+require a contribution from the individual towards the cost of residential care, so the
+dependent elderly who turn to the health services get completely free treatment and those who
+turn to the social services are deprived of three-quarters of their pension. This system,
+together with the lack of co-ordination with the social services, has resulted in older persons
+taking excessive advantage of hospital stays. Similarly, in the United Kingdom families often
+put pressure on the use of the free hospital structures in preference to the social services. This
+problem is nevertheless regulated by the number of hospital beds available for the dependent
+elderly.
+      In Germany, long-term care insurance is a separate legal entity from health insurance
+even though all the applications for bene®ts go through the same health insurance scheme.
+The decision to introduce a separate social insurance scheme to cover long-term care has not,
+however, solved the problem of distinguishing between dependency and illness: the dividing
+line between them remains just as blurred. Moreover the health insurance schemes are
+reluctant to cover prevention and re-education, as then the dependency insurance schemes
+would be the ones to reap any bene®ts of these treatments. So setting up dependency insurance
+schemes in Germany has not resolved all the problems to do with co-ordination. With separate
+budgets and roles that are not always suf®ciently well de®ned, what happens is that the
+insurance schemes try to pass on responsibility, and the costs, to each other.
+
+
+4.     Three main types of institutional system
+4.1. The Beveridge-type schemes: an uneven level of protection in the Scandinavian
+countries and a rather less generous system in the United Kingdom
+     In the 1960s one of the special features of the Scandinavian welfare state systems was to
+view the right to enter an institution to receive care as a basic citizen's right, which resulted in
+the development of services of a very high standard, ®nanced by the taxpayer. In the 1970s
+these countries started to question the justi®cation of giving this priority to institutional care,
+both from an economic and a humane point of view, and homecare for the elderly became
+much more widespread. Since then, in spite of the serious economic crisis suffered by Sweden
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                            673
+
+and Finland, the Scandinavian countries have tried to improve their care offer by making it
+more ¯exible in order to enable dependent elderly people to stay at home.
+      Today the high level of social protection and the extent of homecare services available to
+the elderly in the Scandinavian countries are practically unrivalled. These Beveridge-style
+countries have progressively reorganized their health and social services to respond to the
+needs of the dependent elderly. They long ago integrated long-term care into the existing
+public health and social services provision.
+      In the domain of services to the individual, Denmark has acquired the reputation of being
+the leader amongst the Nordic countries, both because of the early date at which it adopted the
+concept of support within the community and because of the generosity of the services. In
+Denmark the distinction between institutional accommodation and homecare was abolished
+by legislation in 1987. The new notion is that of a ``habitat adapted to an advanced age''
+combined with services provided according to the needs of the elderly person regardless of
+their place of residence. These services are gradually replacing residential establishments.
+The ®nancial contribution of the users is minimal even if the person is in residential care: since
+1995 dependent people pay 15 per cent of their pension towards their rent and a ®xed sum for
+accommodation and electricity. District nursing and medical appliances are supplied free of
+charge to the user. Denmark is the only country where some home help is supplied to the
+elderly.
+      In the United Kingdom, the National Health Service (NHS) offers the over-60s
+completely free access to the medical services, but the system of long-term care and medical
+treatment turns out to be much less generous. State support for the dependent elderly is limited
+to those with assets worth less than £16,000. In general, people with assets of over £16,000 pay
+all of the costs until their income is reduced to this level (``spending down''), those with an
+income of less than £10,000 per annum pay nothing, and the rest pay part of the costs. If the
+dependent person has an income of over £16,000 but has only a small pension, the local
+authority generally grants a full allowance, which is then recovered by selling the person's
+home after the owner dies. A general review of long-term care and medical treatment is
+currently being carried out in the United Kingdom. The Royal Commission on Long Term
+Care made some proposals in 1999 to which the government replied in 2000.5 Amongst other
+things, the Royal Commission suggested abolishing the means test for granting dependency
+bene®ts, but the government did not agree to do this; on the other hand, from 1 April 2001 the
+income threshold was raised to £18,000 and the value of a person's main place of residence is
+not taken into account in calculating his or her ®nancial contribution to the ®rst three months
+of residential care.
+
+4.2.    The Bismark model of the welfare state: dependency is recognized as a new risk
+     Most of the welfare states based on the Bismarck model have entered into or concluded
+the debate on the creation of an insurance system speci®cally to provide for long-term care.
+Recently, because they consider that the social provision is inadequate in the face of a
+situation whose cost far exceeds the normal income of an individual, Germany, Luxembourg
+and Japan have been looking at mechanisms that would provide funding for the demand.
+
+
+
+      5
+        These reports are available on the internet: the report of the Royal Commission is at http://www.open.gov.uk/
+royal-commission-elderly/ and the government's reply is at http://www.nhs.uk/nationalplan/ltcreport.htm
+
+
+
+                                                        # 2001 The International Association for the Study of Insurance Economics.
+674                                                                                                         ASSOUS
+
+
+      The form they have chosen is that of dependency insurance as a new branch of social
+insurance. But it must be said that these countries have decided, primarily for budgetary
+reasons, to take on only persons in the most dependent category and to set, in contrast to the
+normal health insurance bene®ts, a maximum ®gure for bene®ts. Thus the German de-
+pendency insurance scheme, in contrast to health insurance, does not provide total cover;
+dependency is only covered beyond a certain threshold of ``high-level needs'' and for a stated
+amount.
+      In Germany, the law on dependency insurance which was introduced in 1995 guarantees
+all the contributors to a state insurance scheme speci®c cover for long-term care regardless of
+their ®nancial means or their age. Bene®ts are available to persons who require a ``substan-
+tial''degree of assistance to carry out their normal daily activities over a period of at least six
+months. The law de®nes three levels of dependency (need for assistance is de®ned as
+substantial, serious or very serious) and also includes social coverage for family members
+who care for a dependent relative.6 The cause of the dependency must be illness or physical,
+psychological or mental handicap. In this way Germany is trying to link up dependency with
+the health policy in the areas of prevention and re-education. The state insurance scheme for
+long-term care is ®nanced by a contribution of 1.7 per cent of gross salary up to the social
+security ceiling, shared equally between the employer and the employee for those in work.
+Pensioners share the contribution payments in equal measure with their pension organization.
+Government concern over the funding is shown by the exclusion of any federal responsibility
+for any insurance de®cit that might arise.
+      In the German system, workers whose income is below the social security level
+automatically come under the state insurance scheme, both for sickness and for long-term
+care (the bene®ts apply equally to all the bene®ciaries). The rest have a choice between
+contributing to a state insurance scheme or taking out private insurance: 10 per cent of the
+population are in the private insurance sector (once a person has decided to leave the state
+insurance system she or he cannot return). The terms of private insurance for long-term care
+are extremely well-de®ned: the schemes are obliged to offer bene®ts at least equivalent to
+those of the state schemes and the ceiling of the premium is set at the level of the maximum
+contribution to the state schemes.
+      In Japan, the law on long-term care, which was adopted in 1997 and came into force on
+1 April 2000, clearly marks a new departure with regard to dependency coverage. The law was
+introduced to establish a new insurance scheme. In this system all residents aged 40 and over
+are insured and pay contributions. The over-65s are covered if they need long-term care
+whatever the cause of their dependence. Bene®ciaries under the age of 65, however, are only
+covered by this system if the cause of their dependency is related to a geriatric disorder.
+
+
+4.3. The situation in France and in the southern European countries: hitherto mainly a
+pattern of social welfare7
+     Although some countries have opted to set up a speci®c contribution scheme to cover the
+costs of long-term care, most developed countries (including France, the United States and the
+
+
+
+       6
+         In 1998, 550,000 carers, of whom 90 per cent were women, were covered by this mechanismn.
+       7
+         Social welfare provides bene®ts and services to persons with too low an income to cope with needs generally
+related to handicap, sickness, old age or social dif®culties.
+
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                   675
+
+southern European countries) have so far steered away from treating dependency as a new risk
+supported by national solidarity.
+      Dependency coverage in France at the present time is predominantly characterized by a
+social welfare structure and also by a wide diversity of actors and sources of ®nancing. After
+years of testing various schemes in the domain of allowances to the dependent elderly, in 1997
+France introduced a speci®c bene®t called the Prestation speÂci®que deÂpendance, or PSD.
+This scheme is on the point of being revised. The PSD, set up to gradually replace the third-
+party bene®t scheme (Allocation compensatrice pour tierce personne, or ACTP) for persons
+aged 60 and over, is a service in kind paid for by the French departments and de®ned as part of
+an individual welfare plan. This bene®t, which is subject to a means test, is intended for the
+most severely dependent persons: currently 135,000 persons receive this allowance (and
+40,000 continue to bene®t from the ACTP), although the number of elderly persons who have
+lost their mobility is around 800,000 (Kerjosse, 2001; Colin, 2000).
+      The funds devoted to the PSD represent just a small part of the public effort to help
+elderly persons who have lost their mobility. At the national level, the cost of medical care for
+dependent persons is covered by the national health insurance scheme; and the social action of
+the retirement schemes ®nances a major part of homecare by supplying home help. At the
+departmental level, the local authorities (Conseils geÂneÂraux), who since decentralization have
+taken over the responsibility for social welfare, have become the main decision-makers
+according to PSD legislation (see summary no. 2). Awhole system of ®xed arrangements also
+contributes to the ®nancing of dependency coverage: persons receiving the PSD or ACTP are
+completely exempt from the employers' contributions related to the employment of a third
+person. In addition, there are tax rebates known as ``emplois familiaux'' which allow
+taxpayers to deduct 50 per cent of the sum they commit to paying a home help up to the ®gure
+of FF45,000. This ceiling is doubled if the taxpayer or one of the members of his ®scal
+household is the holder of a disabled card for at least 80 per cent disability. The costs of long-
+term residential care or relating to a medical cure also entitle the bene®ciary to a tax rebate of
+up to FF15,000 per person.
+      The law to create an individual mobility allowance (allocation personnaliseÂe aÁ
+l'autonomie, or APA) (which was voted in June 2001 and will come into force on 1 January
+2002) is a reply to the main criticisms levelled against the PSD: that the latter is awarded to too
+few bene®ciaries (because the access conditions are too restrictive and because it excludes
+persons of average dependency) and presents too much disparity between one department and
+another.
+      The APA, which is to be paid to persons who have lost their mobility, regardless of
+income, is to be of a standard amount throughout the country to pay for assistance received.
+But only the lowest income brackets will be exonerated from paying the patient's contribution;
+at the highest levels these may amount to 80 per cent of the bene®ts. This new scheme is to
+be ®nanced by the departments and by the attribution of one point of a general social
+contribution (contribution sociale generaliseÂe or CSG). This project may mark the ®rst stage
+in France of recognition of a new life risk, even though for the time being this plan, which has
+borrowed elements from other systems, is dif®cult to characterize.
+      In the Mediterranean countries, the debate around the necessity for long-term care
+insurance has had much less encouragement, no doubt because of an attachment to the family
+models of informal aid or because the constraints on public funding are too great. In these
+countries, as in France, bene®ts are awarded both within a contributory protection system
+(such as those covering sickness, disability, accidents at work and old-age pensions) and
+within the system of social welfare. Thus bene®ts to the dependent elderly are mainly awarded
+
+
+                                               # 2001 The International Association for the Study of Insurance Economics.
+676                                                                                          ASSOUS
+
+
+on the grounds of handicap or old age, and in the case of the latter in the form of an increased
+pension or tax deductions. In Spain, for example, families who have living with them a parent
+aged 70 or over, and whose income is below a certain level, may claim exemption from part of
+their income tax. This exemption is more than three times higher if the person is handicapped.
+      Spain is currently implementing an ``Action Plan 2000±2005'' for the elderly which
+includes some ambitious actions to modernize their system of dependency coverage. This is
+characterized by far-reaching decentralization of the services and by involving the users in the
+de®nition of the programme. Greece and Italy also have some special programmes which are
+administered at the local level (which leads to considerable disparities).
+
+
+    Summary no. 2
+                                           The maintenance obligation:
+                                      a perspective on the situation in France
+
+    Civil-law countries differ from common-law countries with regard to the relationship
+    between individuals, the family and the state. Common-law countries, with their
+    individualist philosophy, refuse to let the government interfere in their private lives
+    (Martin, 1997). There is therefore virtually no rule of law that orders family
+    relationships. By contrast, the civil-law countries have always been concerned to
+    guarantee a principle of mutual solidarity and legal obligations between the members
+    of the same family.
+       The main countries that uphold a system of compulsory support by the younger
+    generation towards the senior members of their family are France, Germany, Austria
+    and Spain. French civil law theoretically upholds a wide-ranging maintenance
+    obligation, particularly of children towards their parents and grandparents and even
+    their great-grandparents. In France the family is particularly called on to pay the cost of
+    residential care for a dependent elderly person. In Germany, there is a ®lial obligation,
+    subject to a means test, of children towards their parents. In Austria, in all the provinces,
+    with the exception of Vienna where ®lial obligations have been abolished, there is a
+    strict maintenance obligation which is nevertheless subject to a means test (Jensen,
+    1999). In Spain, there is the possibility of participation by the family in the cost of
+    covering dependency under the maintenance obligation, but this possibility remains
+    theoretical as very little is done to implement it. In Sweden, the legislation concerning
+    ``®lial duty'' was annulled in 1956, the government deciding that it had become
+    ``obsolete and pointless''. Denmark for its part has never had any legislation of this
+    type; Norway kept its version rather longer (SundstroÈm, 1999).
+
+    Death duties: legislation that leads to unequal treatment
+    In France, in the case of the PSD, the maintenance obligation is not immediate but
+    deferred: members of the family are not required to contribute during the lifetime of the
+    dependent person; on the other hand, the cost of care to the local authority may be
+    deducted later from the bene®ciary's personal assets. The possibility of recovering the
+    cost of social care when a person's main place of residence is sold after the death of the
+    owner also exists in Great Britain and in the United States. In the United States, if
+    the persons bene®ting from the ``Medicaid''social welfare programme in an institution
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                            677
+
+     are married, their spouse may keep part of their income and assets, but after the death of
+     the bene®ciary, the federal state may recover the cost of social care from the ®xed assets
+     of the deceased.
+        In France until the end of 2001, if a dependent person uses the PSD, the payments
+     may be deducted from their assets above the level FF300,000 before the remainder is
+     redistributed to all the successors. In order to guarantee this possibility of recovery from
+     the descendants, the administration may take out a charge on the property of the
+     bene®ciary. Recovery can also be made from donations made by the recipient of the
+     care bene®t after his/her application for care in the ten years preceding this request. The
+     notion of a death duty, whatever the threshold ®gure above which it takes effect, raises
+     very real psychological resistance, which explains why so many cases are abandoned
+     during the procedure, or why an application for PSD is not taken out (Sueur Report,
+     2000).
+        These days application of the maintenance obligation is on the way out. In France for
+     example, some departments have decided never to appeal to the relatives who would
+     have a maintenance obligation towards an elderly person or, to give another situation, to
+     approach their grandchildren. In any case, recovery of the sums paid out for social
+     welfare is far from systematic: a decision is made by the access committee for social
+     welfare on each individual case according to circumstances, a system which can easily
+     lead to unequal treatment.
+
+
+5.     Various modes of dependency coverage
+5.1.       The essential role of the family and a predictable diminution in the scope of family care
+      Although one may note a fall in the number of elderly persons living with their children,
+the family is the ®rst natural support for dependent elderly persons. In most countries, most of
+the caring is done within the family. This form of assistance, which is said to cost the social
+services less than formal care, generally corresponds well with the expectations of the elderly
+person. But it can be very varied, depending on whether the elderly person lives alone or with
+other members of his or her family. From this point of view, the family con®gurations vary
+considerably from one country to another.
+      If we de®ne ``simple'' households as those where the elderly persons live alone or with a
+partner, and ``complex'' households as those where they live with their children or in some
+other con®guration, very roughly, the northern European countries have a different pattern
+from those in the south.8 In southern Europe, the proportion of complex households is quite
+high. In Spain in 1994, 54 per cent of the population aged 80 and over still at home lived in a
+complex household. The same population accounted for 42 per cent in Portugal, 35 per cent in
+Greece and 34 per cent in Italy. Other countries with similar patterns are Ireland, Austria and
+Luxembourg. In the northern European countries on the other hand, there are very few over-
+80-year-olds living in a complex household (2 per cent in Denmark, 5 per cent in Nether-
+lands). In France (where the ®gure is 18 per cent), Germany, Belgium and the United
+Kingdom, the situation is somewhere between the two.
+      Even if we accept that the role of the family is primordial in supporting elderly dependent
+persons, demographic changes are bringing about a diminution in the practical facilities for
+
+
+       8
+           The analysis that follows is based on the community family panel (DREES calculation).
+
+
+
+                                                        # 2001 The International Association for the Study of Insurance Economics.
+678                                                                                        ASSOUS
+
+
+caring for the dependent elderly. Thus the ratio between the number of women aged between
+45 and 69 (who are the principal carers) and persons aged 80 and over has diminished by about
+a third in the OECD countries over the last 30 years. The present average is 3.8 in the European
+Union and is expected to drop to 3.1 in 2020 according to the population forecasts of Eurostat.
+In ®ve countries this ratio will remain stable (Sweden, Denmark, the United Kingdom,
+Austria, Ireland). In the others it will go down. The countries where this diminution will be the
+most signi®cant are Greece, Finland, Portugal, Germany and Italy. So in the future there will
+no doubt be a considerable diminution in homecare capacity in the southern European
+countries.
+      Moreover in the industrialized countries there is a signi®cant rise in the activity rate of
+women of working age. This general phenomenon, which has not yet affected all the countries
+to the same degree, will of necessity reduce the ``care potential'' that might be supplied by
+more mature women by limiting the time they have available for unpaid domestic duties. At
+the present time the activity rate for women aged 45 to 59 is much lower in southern than in
+northern Europe. Nevertheless it is probable that in the future the rate in the south will
+approach that in the north, reducing even further the future potential for care within the family.
+      Over and above these particular national contexts, which may be explained by
+demographic and sociological differences, there are sometimes obligations of a cultural or
+legal nature that lead to other divergences in the role of the family. In Japan, the role of the
+family is preponderant. Although the ®gure is falling, the proportion of elderly persons living
+with their children is over 50 per cent. This ratio, which is much higher than the average in the
+other developed countries, re¯ects a particular form of family care: it is generally the son who
+takes in his elderly parents and the daughter-in-law who looks after them (Ribault, 1999). In
+Germany, the of®cial downward view of the family organization presupposes, in the absence
+of evidence to the contrary, that the family is in a position to provide the necessary support. In
+France, support within the family has always had a central place in social policies.
+
+
+5.2.     Arrangements for encouraging informal aid
+      In spite of the undeniable advantages that are universally recognized it is unlikely that
+informal aid, particularly in the southern countries, can continue to play such a large
+spontaneous role. In this respect a number of countries have already decided on the usefulness
+of giving ®nancial support to intra-family solidarity by offering economic incentives.
+      Thus in the last few years Germany, Austria, Luxembourg, Sweden, Finland, the United
+Kingdom and Ireland have set up bene®t schemes aimed at persons who look after their
+elderly parents, or cash allowances to elderly persons who have lost their mobility which can
+then be used to ``pay'' the person who is looking after them in an informal situation. In
+addition, in some countries these bene®ts are not limited to the immediate payments: in
+Finland, as in Austria, Germany and Luxembourg, persons providing care for a relative can
+contribute to a pension scheme and have access to other social advantages. In Japan, the hours
+devoted to giving voluntary care provide the right to hours of free assistance later on,
+following a principle known as ``capitalization of the time devoted to mutual assistance''.
+      Another form of assistance awarded to carers is in the area of ``relief'' care, which
+recognizes the need of carers to be able to free themselves from the heavy burden of looking
+after a dependent person. Several countries have programmes of relief services (including
+Germany and Luxembourg), but Finland has gone the furthest down this line, demanding that
+local authorities provide one weekend of leave per month. These measures that are gradually
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                   679
+
+being set up, even though in a limited way at ®rst, are a ®rst step in the process of institutional
+recognition of informal care.
+
+
+5.3. The number of residential care places and the availability of homecare services are
+generally interrelated
+      The fact that the family is the ®rst potential assistant to a dependent elderly person is not
+in contradiction with the development of a more formal care structure. An elderly person may
+live at home and still have recourse to homecare services; she or he may also live in an
+institution. The expansion of places in institutions nevertheless came to an end in the 1980s.
+The rate of institutionalization has dropped in nearly all countries. Now the solution that is
+generally put forward by governments is for home support, made easier by the development of
+new home services.
+      It is however important to distinguish between the nature of the institutional system of
+dependency coverage and the existence of a suf®ciently large market, private or public, for
+services to the dependent elderly (at home or in an institution). In fact, except in the
+Scandinavian countries and Netherlands, who are very advanced in this domain, the need is
+generally felt to develop the extent and the quality of the available services and often to favour
+the creation of a market of private service providers.
+      With regard to the number of beds and the services available, international comparisons
+are made dif®cult by the absence of uniform data and because similar labels can refer to
+different situations. The heading ``institutional care'', may cover various different situations,
+from accommodation offering simple hostel services through highly specialized medical care
+to long-term hospitalization. The growing databank deriving from various sources (Jacob-
+zone, 1999; OCDE, 1996; etc.) makes it possible to distinguish three main types of situation
+(Table 3). Denmark, Sweden, Finland and the Netherlands have a high proportion
+of their elderly population living in institutions (about a quarter of the over-85s in the
+Scandinavian countries and more than 8 per cent of the over-65s in Denmark, Sweden and
+Netherlands) and in these countries more than 10 per cent of persons aged 65 and over receive
+home help. In the southern European countries, as well as in Ireland and Japan, fewer than 5
+per cent of the over-65s live in institutions (0.5 per cent in Greece and 5 per cent in Ireland);
+similarly, fewer than 5 per cent of this population receive home help. In France, 7 per cent of
+the over-65s and 2 per cent of over-85-year-olds are accommodated in institutions.
+
+                                         Table 3:
+      Level of development of long-term care establishments and of formal homecare
+High percentage of persons in                             Low percentage of persons in
+long-term care establishments/                           long-term care establishments/
+more than 10 per cent of older                            fewer than 5 per cent of older
+persons receive home help             Intermediate          persons receive home help
+Denmark                                   France                      Ireland
+Sweden                                  Belgium                        Japan
+Finland                           The United Kingdom                  Greece
+Netherlands                             Germany                        Spain
+                                         Austria                     Portugal
+                                       Luxembourg                       Italy
+
+
+
+                                               # 2001 The International Association for the Study of Insurance Economics.
+680                                                                                       ASSOUS
+
+
+      This analysis shows that the demand for a place in an institution does not rise until after
+the age of 80. On the other hand, the countries that prefer to accommodate the elderly in
+institutions are also those where most of the elderly population receive assistance at home. So
+homecare is not a compensation for a shortage of residential accommodation.
+      Furthermore, and contrary to what one might expect, the typology that emerges from
+these various data bears no relation to the composition by age of the elderly population, or to
+put it another way, with the proportion of very elderly persons in the group of persons aged 65
+and over. In fact, the group of countries where there is a high rate of use of institutional
+accommodation includes the Netherlands, which is still a relatively ``young'' country,
+whereas the group of countries where the rate of institutionalization is low includes Italy,
+which has a relatively old population (see Figure 1). This distribution would therefore seem to
+re¯ect the orientations of long-term social policies in each country and the changing patterns
+of family life rather than the demographic situation.
+
+
+6.     What types of dependency bene®ts?
+6.1.     Bene®ts in kind or cash bene®ts?
+     Traditionally, the Bismarck model of social protection attaches more importance to cash
+bene®ts than the Beveridge model, which favours bene®ts in kind (offering direct services).
+     However with regard to long-term care the European countries and Japan seem to have a
+declared preference for assistance in kind. This is so that the sums that are paid out are not
+used for some purpose other than their prime objective, or simply hoarded; and also because
+most governments are generally in need of improving their offer of services. Thus, in Japan
+the notion of offering cash payments to family carers was rejected, mainly because it does not
+contribute to the development of the professional services (Ribault, 1999). Other countries,
+such as Austria, opted for cash bene®ts to cope with the diversity in the lifestyles of dependent
+elderly persons, as cash bene®ts can be awarded in a ¯exible manner by different services or
+paid to a relative, thereby favouring informal aid. Austria, which since 1993 has offered a
+universal ``care allowance'' to dependent persons who need to be cared for at home, an
+allowance which is not part of the social security system, is nevertheless the only European
+country to offer only cash bene®ts.
+
+
+6.2.     Means-testing
+      In most European countries the bene®ts are subject to means testing. In the countries
+where dependency bene®ts are allocated within the framework of social welfare, the ceiling is
+generally low (even though, as is currently the case in France for PSD, it may be higher than
+for other social welfare bene®ts).
+      This type of thinking goes against the recognition of dependency as a normal life risk
+(which may concern everybody and sometimes necessitate care for a long period of time). In
+reality, means-tested bene®ts were originally intended as a safety net for the exceptional cases
+of victims more deprived than the average, or in the case of relatively rare temporary distress
+(Kessler, 1997). In addition, applying a means test implies little participation in the system by
+persons whose income is above the ceiling, and this might lead to debatable distinctions
+between bene®ciaries and non-bene®ciaries (stigmatization of the bene®ciaries of social
+welfare). In Germany, the main justi®cation given to explain the implementation of long-term
+care insurance was that ``it is not politically admissible for an elderly person to have to spend
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                            681
+
+the whole of their retirement pension on ®nancing dependency services or to have to be
+obliged to ask for social assistance in the case of dependency'' (Igl, 1997).
+      The decision to provide means-tested coverage probably derives from the fact that a
+policy of uniform bene®ts with no means test costs more for each bene®t awarded than a
+service directed at only a limited section of the population. In addition, in the case of bene®ts
+that have a high practical value (domestic help, for example), a policy of uniform bene®ts
+could be open to criticism on ethical grounds. Why, for example, pay for all the domestic
+services supplied to a well-off person as soon as that person becomes dependent?
+      Note that in the case of medical care these criticisms are less pertinent inasmuch as the
+services supplied do not have intrinsic consumer value. On the contrary, state coverage of
+healthcare, with conditions determined only by the needs of the elderly person, agrees with
+the principle of equality for all in matters of medical care (Breuil-Genier, 1996). But could
+this principle not be applied to dependency coverage in its entirety?
+
+6.3.    Is private insurance adapted to the problem of dependency?
+      Until now there have been few indicators of a massive implication of the private sector in
+dependency insurance. Even in the United States private insurance only offers (limited) cover
+to less than 10 per cent of the elderly population (Wiener et al., 2000). In France at the end
+of 1999, 18 insurance companies offered savings schemes or dependency insurance. The
+number of contracts sold in France at the end of 2000 was 1 million.9
+      There are several reasons for the small part that private insurance has played in covering
+dependency risks. Firstly, surveys carried out in the United States show that most people
+underestimate the risk of becoming dependent. Also, for the time being it seems that the
+premiums required in dependency insurance policies are too high to appeal to a very wide
+public ± either the elderly person cannot pay them or at that price the loss due to the immediate
+expense is not compensated for by the hypothetical future bene®ts, especially when they are
+policies with sinking funds (as opposed to life annuity policies). This slow development of the
+private insurance market can no doubt be explained by the fact that in addition to the usual
+insurance problems ± anti-selection (over-representation of high risks in the population
+ensured), moral hazard (over-consumption encouraged by the insurance), and the fact that
+insurers try to exclude bad risks (Bocognano et al., 1999) ± there are dif®culties in the case of
+dependency in covering a chronic risk in a shifting demographic, economic and health
+environment.
+      The dependency risk is in fact chronic and, according to Breuil-Genier (1996), ``the only
+way to insure this risk is to introduce providence mechanisms, involving contributions or
+premiums spread out over part of the lifecycle, whereas the bene®ts themselves tend to be
+concentrated at the end of life.'' Just as with a retirement pension, there is a marked time
+dimension to the dependency risk. If, for example, we take the case of a private dependency
+policy, the contract cannot be based only on the calculation of annual premiums re¯ecting the
+anticipated expenditure for the current year. Policies have to be designed to provide a balance
+across the whole lifecycle of the policy-holders.
+      Pricing for dependency insurance products is therefore likely to be subject to wide
+variations. There are several dif®cult unknown factors since the advent of dependency, the
+
+
+      9
+         For further details see Assous and Mahieu: ``L'assural biliteÂ de la deÂpendance et sa prise en charge par le
+secteur priveÂ: une mise en perspective internationale'', forthcoming.
+
+
+
+                                                        # 2001 The International Association for the Study of Insurance Economics.
+682                                                                                                        ASSOUS
+
+
+length of life in this condition, the change in life expectancy and in life expectancy without
+handicaps are particularly dif®cult to anticipate. In addition it is unclear what the average
+future cost of dependency coverage might be. This could be increased by the possible addition
+of medical costs to the liability. Routine home help, based on acts that are not specially skilled
+but that are very costly in time and often unrewarding, is also a service for which it is dif®cult
+to calculate a future rate. Thus, whereas in a standard insurance policy the uncertainty factor
+affects the difference between the expenditure of an individual and the average expenditure, in
+dependency insurance the uncertainty factor essentially relates to the average level of
+expenditure in the future.
+     As the problems of dependency and how to ®nance it seem similar to those of retirement
+schemes ± all the expenses are concentrated at the end of the lifecycle (obviously over a
+shorter period for dependency than for retirement) ± opting to build up reserves that may be
+used to ®nance the future cost of dependency coverage could be a good solution from an
+economic point of view. Finally, a policy of actively preventing the dependency of elderly
+persons, where one attempts to reduce the gravity of increasing dependency by developing re-
+education programmes, might lead to a diminution in the ®nancial burden over the long term.
+
+7.    Conclusion
+      The Scandinavian countries and Netherlands are amongst the countries where
+dependency coverage is very highly professionalized, with very few elderly persons living
+with their children and a signi®cant proportion in residential care or receiving home help.
+These countries are not expected to experience major dif®culties in the coming years as their
+demographic situation seems fairly stable and population ageing well anticipated. The
+situation in the U.K. provides a greater contrast.
+      The southern European countries for their part tend to favour family care for a dependent
+person. Formal care, in an institution or at home, remains very limited. With the exception of
+Portugal, these countries are expected to experience more rapid and more pronounced ageing
+than the European average, which is likely to result in a sharp rise in the demand for long-term
+care. Up to the present in these countries the family has played a crucial role, with social
+welfare sometimes complementing this traditional pattern. However it is probable that this
+model will not survive. The number of working women is increasing and the number of
+potential carers is diminishing, as is the habit of living with one's parents, and the number of
+dependent persons is showing a rising trend. So these countries will most likely veer towards a
+more formal system of dependency coverage.
+      The countries that have a Bismarck-type system, with the exception of Japan (which is
+fast becoming the ``oldest'' country), are generally in a mid-way situation between the north
+and the south of Europe. In these countries the demographic and sociological changes are less
+marked than in southern Europe. They seem nevertheless inescapable and the authorities are
+probably not suf®ciently conscious of the combined consequences of future population
+ageing and the predictable diminution in informal care.
+
+                                                             REFERENCES
+ASSOUS, L. and RALLE, P., 2000, ``La prise en charge de la deÂpendance des personnes aÃgeÂes: une mise en
+    perspective internationale'', Document de travail collection eÂtudes, DREES, no. 1, 44 pp.
+BADEYAN, G. and COLIN, C., 1999, ``Les personnes aÃgeÂes dans les anneÂes 90 : perspectives deÂmographiques, santeÂ
+    et modes d'accueil'', Etudes et ReÂsultats, DREES, no. 40.
+BOCOGNANO, A., COUFFINHAL, A., GRIGNON, M., MAHIEU, R. and POLTON, D., 1999, ``Concurrence entre
+
+
+
+# 2001 The International Association for the Study of Insurance Economics.
+LONG-TERM HEALTH AND SOCIAL CARE FOR THE ELDERLY                                                                              683
+
+      assureurs, entre prestataires et monopole naturel : une revue des expeÂriences eÂtrangeÁres en matieÁre de santeÂ'',
+      Economie et statistique, no. 328, pp. 21±36.
+BREUIL-GENIER, P., 1996, ``La gestion du risque de deÂpendance: le roÃle de la famille, de l'Etat et du secteur priveÂ'',
+      Economie et statistique, no. 291±292, pp. 103±117.
+COLIN, C., 2000, ``Le nombre de personnes aÃgeÂes deÂpendantes d'apreÁs l'enqueÃte handicaps-incapaciteÂs-
+      deÂpendance'', Etudes et ReÂsultats, DREES, no. 94.
+ESPING-ANDERSEN, G. 1993, ``The Comparative Macro-sociology of Welfare States'', in Moreno, L. (ed.), Social
+      Exchange and Welfare Development. Madrid: Consejo Superior de Investigaciones Cienti®cas.
+IGL, G., 1997, ``La prise en charge de la deÂpendance: quelques reÂ¯exions aÁ partir de l'expeÂrience allemande'', in La
+      deÂpendance des personnes aÃgeÂes, 2nd edn. Droit sanitaire et social.
+JACOBZONE, S., 1999, ``Les perspectives de prise en charge de la deÂpendance au niveau international'', Retraite et
+      socieÂteÂ, no. 25.
+JENSEN, J. and the OECD SECRETARIAT 1999, ``Les aides publiques en faveur des soins aÁ domicile des personnes
+      aÃgeÂes deÂpendantes et leur impact sur les aidants feÂminins'', working paper, DEELSA, OECD.
+KERJOSSE, R., 2001, ``La prestation speÂci®que deÂpendance au 30 septembre 2000'', Etudes et ReÂsultats, DREES,
+      no. 98.
+KESSLER, F., 1997, ``La prestation speÂci®que deÂpendance: premier commentaire de la loi no 97-60 du 24 janvier
+      1997'', in La deÂpendance des personnes aÃgeÂes, 2nd edn. Droit sanitaire et social.
+MARTIN, C., 1997, ``Protection sociale et protection par la famille en Europe du Sud : quelles speÂci®citeÂs ?'' in
+      Comparer les systeÁmes de protection sociale en Europe du Sud. MIRE.
+OCDE, 1996, ``ProteÂger les personnes aÃgeÂes deÂpendantes : des politiques en mutation'' in Etudes de politique sociale,
+      no. 19, Paris, 343 pp.
+RIBAULT, T., 1999, ``Care Services for the Japanese Elderly: Between Family Arrangements and Market
+      Mechanisms'', Economic Research Center Discussion Paper, Nagoya University, no. 116.
+SUEUR, J.-P. 2000, ``L'aide personnaliseÂe aÁ l'autonomie : un nouveau droit fondeÂ sur le principe d'eÂgaliteÂ'', report
+      submitted to Martine Aubry, Minister of Employment and Solidarity.
+SUNDSTRO     È M, G. 1999, ``Politique sociale et modes de vie des personnes aÃgeÂes'', in Comparer les systeÁmes de
+      protection sociale en Europe du Nord et in France. Rencontres de Copenhague, vol. 1, MIRE-DREES.
+WIENER, J., TILLY, J. and GOLDENSON, S. 2000, ``Federal and State Initiatives to Jump Start the Market for
+      Private Long-Term Care Insurance '', The Elder Law Journal, 8 (1), pp. 58±99.
+
+
+
+
+                                                          # 2001 The International Association for the Study of Insurance Economics.
+

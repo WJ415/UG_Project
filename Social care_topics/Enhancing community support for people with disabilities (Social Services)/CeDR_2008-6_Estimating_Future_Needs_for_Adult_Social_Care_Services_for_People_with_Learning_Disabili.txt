@@ -1,0 +1,966 @@
+ Estimating Future Need for Adult
+Social Care Services for People with
+  Learning Disabilities in England
+
+
+        Eric Emerson & Chris Hatton
+
+
+          CeDR Research Report 2008:6
+                November 2008
+Contents
+Summary......................................................................................................................................i
+   Background..............................................................................................................................i
+   The Process.............................................................................................................................ii
+   Findings: Estimated Change in Overall Need 2009-2026 ......................................................iii
+   Comments .............................................................................................................................iv
+Background................................................................................................................................ 1
+The Process................................................................................................................................ 2
+   Stage 1: Identifying Children with SEN Associated with Learning Disability......................... 2
+   Stage 2: Adjusting for Child Mortality ................................................................................... 5
+   Stage 3: Estimating the Numbers of Young People Who Are Likely to Become Users of
+   Adult Social Care Services...................................................................................................... 6
+   Stage 4: Estimating Attrition among Current Users of Adult Social Care Services................ 8
+   Stage 5: Estimating Net Changes in Adult User Population .................................................. 8
+Findings: Estimated Change in Overall Need 2009-2026 .......................................................... 9
+   Selected Characteristics of Young People with Learning Disabilities Entering Adult Social
+   Care Services: 2009-2026 .................................................................................................... 13
+Summary & Comments ........................................................................................................... 15
+References............................................................................................................................... 18
+
+
+
+
+Acknowledgements: The research described in this report was funded by Mencap. We are
+extremely grateful to Richard Parrott, John Wolstenholme and Anne Bowman for providing
+data on mortality and the age-profile of current adult users from the Sheffield, Merton,
+Sutton and Lambeth learning disability case registers.
+Summary
+Background
+The work in this report was conducted by the Centre for Disability Research at Lancaster
+University on behalf of Mencap. The aim of the project was to estimate changes in the needs
+of adults with learning disabilities in England for social care services from 2009 to 2026.
+Previous estimates have suggested that the extent and pattern of need for social care
+services for adults with learning disabilities in England is likely to change over the next
+decade, changes driven by three main factors:
+
+    •    Decreasing mortality among people with learning disabilities, especially in older age
+         ranges and among children with severe and complex needs;
+    •    The impact of changes in fertility over the past two decades in the general
+         population;
+    •    The ageing of the ‘baby boomers’, among whom there appears to be an increased
+         incidence of learning disabilities.
+
+It is predicted that these demographic changes will result in a significant increase in the
+numbers of older people with learning disabilities and young people with complex needs
+and learning disabilities requiring support. These increases are likely to be associated with
+even greater changes in demand for support due to a range of factors that will act to reduce
+the capacity of informal support networks to provide care, networks that have primarily
+relied on the unpaid labour of women. These include:
+
+    •    Increases in lone parent families
+    •    Increasing rates of maternal employment
+    •    Increases in the percentage of older people with learning disabilities (whose parents
+         are likely to have died or be very frail)
+    •    Changing expectations among families regarding the person’s right to an
+         independent life.
+
+However, the factors that are leading to increased need and demand are operating at a time
+of decreasing birth rates in the general population. For example, the number of children in
+England aged below one dropped by 15% from 660,000 in 1991 to 558,000 in 2001. Since
+2001 birth rates have begun to increase, with the number of children in England aged below
+one rising to 620,000 in 2006. While the impact of changes in birth rates will, to an extent,
+be modified by reductions in child mortality, the number of children currently reaching
+adulthood is expected to decrease from 2008 to 2018, after which it will begin to rise.
+
+In this report we build on methods we have developed for estimating changes in need for
+local areas, based on information about current users of adult social care services for people
+with learning disabilities and possible new entrants into adult social care services
+transitioning from children’s services.
+
+These methods take account of factors influencing the prevalence of learning disabilities in
+the context of changes in the overall population of young people in England.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England      i
+The Process
+The process of estimating future need involved the following six stages.
+
+    1. The number of children with Special Educational Needs (SEN) associated with
+       learning disability in England was ascertained from the Department of Children,
+       School and Families’ (DCSF) spring 2008 School Census.
+    2. These data, adjusted for the effects of mortality, were used to estimate the number
+       of children with Special Educational Needs (SEN) associated with learning disability
+       in England who would reach 18 years of age between 2009 and 2026.
+    3. We derived upper, middle and lower estimates of the percentage of these children
+       that were likely to become eligible for adult social care services under current Fair
+       Access to Care Services (FACS) eligibility criteria.
+    4. We used information from the Information Centre for Health and Social Care and
+       information extracted from the Sheffield, Merton, Sutton and Lambeth learning
+       disability case registers to estimate the number and age profile of adults with
+       learning disabilities who were using social care services in 2008.
+    5. We adjusted the population of current adult service users for the expected effects of
+       mortality over the period 2009-2026.
+    6. These data were combined with estimated inflows from child services to estimate
+       net changes in need over the period 2009-2026. For each of the three estimates of
+       eligibility (upper, middle, lower) we investigated three approaches to the rationing
+       of adult social care:
+            a. Adult social care services would only be available to people with critical or
+                 substantial need;
+            b. Adult social care services would only be available to people with critical or
+                 substantial need and 50% of people with moderate need;
+            c. Adult social care services would only be available to people with critical,
+                 substantial or moderate need.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England    ii
+Findings: Estimated Change in Overall Need 2009-2026
+All scenarios suggest sustained growth in the need for social care services for adults with
+learning disabilities over the period 2009-2026. Average estimated annual increases varied
+from 1.04% (lower estimate of eligibility, services only provided to new entrants with critical
+or substantial needs) to 7.94% (upper estimate, services are provided to new entrants with
+critical, substantial or moderate needs). It is notable that in our previous work,
+commissioned by the Department of Health, we had estimated an average annual increase
+of 1.10% between 2001-2011.
+
+However, we believe that rationing access to social care to those with just critical or
+substantial needs is incompatible with current policy objectives for adult social care services.
+If these estimates are excluded the average estimated annual increases vary from 3.20%
+(lower estimate, services provided to 50% of new entrants with moderate needs) to 7.94%.
+These estimates would involve providing support to between an additional 47,000 (34%)
+adults (lower estimate) to 113,000 (82%) adults with learning disabilities over the next ten
+years.
+
+For all estimates the annual rate of growth in need slows from 2009 to 2018/19 at which
+point it stabilises. However, in our estimates based on providing services to 50% of new
+entrants with moderate needs the annual rate of growth in need never falls below 1.9% in
+any given year.
+
+The characteristics of new entrants to adult social care will depend on the assumptions used
+in the estimates. To give an idea of the potential range, we estimated the severity of
+learning disability and ethnicity of predicted new entrants to adult social care between 2009
+and 2026 for the two most extreme scenarios (lower level estimate with services only
+provided to people with critical or substantial needs, upper level estimate with services
+provided to people with critical, substantial or moderate needs).
+
+There was little difference between these two most extreme estimates with regard to the
+ethnic composition of predicted new entrants into social care. In both estimates over 20% of
+new entrants to adult social care are expected to belong to British minority ethnic
+communities.
+
+There was, however, a marked difference between the two most extreme estimates with
+regard to the severity of intellectual disability. Increasing the estimate of the proportion of
+people who are likely to be eligible for adult social care services, or reducing rationing has
+the same effect. Both have the effect that higher level estimates (or estimates with less
+stringent rationing ) include a significantly greater proportion of people with less severe
+learning disabilities. It is this group of people (people with mild or moderate learning
+disabilities) who are currently at greatest risk of ‘falling through the net’.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England        iii
+Comments
+All scenarios included in our estimation procedures suggested sustained growth in the need
+for social care services for adults with learning disabilities over the time period 2009-2026.
+Our estimates that are compatible with current policy objectives for adult social care
+services suggests that the average estimated annual growth in need will vary from 3.20%
+(lower estimate, services provided to 50% of new entrants with moderate needs) to 7.94%.
+These estimates would involve providing support to between an additional 47,000 (34%)
+adults (lower estimate) to 113,000 (82%) adults with learning disabilities over the next ten
+years.
+
+These estimates are based on a number of assumptions, some we believe to be highly
+robust, some less so. The most critical source of uncertainty in the predictions lies in
+estimating the likely eligibility for social care services for new entrants with mild or
+moderate learning disabilities. For example, people with mild learning disabilities constitute
+85% of the population of young people with learning disabilities. An increase in their
+estimated eligibility for social care of 1% is associated with a 0.15% increase in annual
+average growth rates over the period 2009-2026. Most young adults with mild learning
+disabilities, unless they are parents, are unlikely to have ‘critical’ or ‘substantial’ needs due
+to their learning disability per se. However, people with mild learning disabilities do have
+much higher rates of mental health problems, have poorer health and are much more likely
+to live in poverty than their non-disabled peers. It is this combination of mild learning
+disabilities and additional adversity and/or health problems that is likely to determine
+eligibility for social care.
+
+It is our opinion that the estimates of eligibility used in these analyses are conservative.
+Indeed, it is notable that the one consultation response we had that questioned our
+estimates did so explicitly on our (alleged) under-estimate of the eligibility for social care
+among young people with mild and moderate learning disabilities. However, there is a
+pressing need to empirically test the validity of these eligibility estimates in practice.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England         iv
+Background
+The work in this report was conducted by the Centre for Disability Research at Lancaster
+University on behalf of Mencap. The aim of the project was to estimate changes in the needs
+of adults with learning disabilities in England for social care services from 2009 to 2026.
+
+In 2004 we attempted to derive national estimates of future need for services for adults with
+learning disabilities by applying age-specific prevalence estimates to general population
+projections.1 2 These estimates suggested that the extent and pattern of need for social care
+services for adults with learning disabilities in England is likely to change over the next
+decade. These changes will be driven by three main factors:3
+
+    •    Decreasing mortality among people with learning disabilities, especially in older age
+         ranges and among children with severe and complex needs;
+    •    The impact of changes in fertility over the past two decades in the general
+         population;4
+    •    The ageing of the ‘baby boomers’, among whom there appears to be an increased
+         incidence of learning disabilities.
+
+These demographic changes will result in a significant increase in the numbers of older
+people with learning disabilities and young people with complex needs and learning
+disabilities requiring support. These increases are likely to be associated with even greater
+changes in demand for support due to a range of factors that will act to reduce the capacity
+of informal support networks to provide care, networks that have primarily relied on the
+unpaid labour of women. These factors include:
+
+    •    Increases in lone parent families5
+    •    Increasing rates of maternal employment5
+    •    Increases in the percentage of older people with learning disabilities (whose parents
+         are likely to have died or be very frail)6 7
+    •    Changing expectations among families regarding the person’s right to an
+         independent life.
+
+However, the factors that are leading to increased need and demand are operating at a time
+of decreasing birth rates in the general population. For example, the number of children in
+England aged below one dropped by 15% from 660,000 in 1991 to 558,000 in 2001.8 Since
+2001 birth rates have begun to increase, with the number of children in England aged below
+one rising to 620,000 in 2006. While the impact of changes in birth rates will, to an extent,
+be modified by reductions in child mortality,8 the number of children currently reaching
+adulthood is expected to decrease from 2008 to 2018, after which it will begin to rise.
+
+In this report we build on methods we have developed for estimating changes in need for
+local areas, based on information about current users of adult social care services for people
+with learning disabilities and possible new entrants into adult social care services
+transitioning from children’s services.9 10
+
+These methods take account of factors influencing the prevalence of learning disabilities in
+the context of changes in the overall population of young people in England.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England      1
+The Process
+The process of estimating future need involved the following six stages.
+
+      1   The number of children with Special Educational Needs (SEN) associated with
+          learning disability in England was ascertained from the Department of Children,
+          School and Families’ (DCSF) spring 2008 School Census.
+      2   These data, adjusted for the effects of mortality, were used to estimate the number
+          of children with Special Educational Needs (SEN) associated with learning disability
+          in England who would reach 18 years of age between 2009 and 2026.
+      3   We derived estimates of the percentage of these children that were likely to
+          become eligible for adult social care services under current Fair Access to Care
+          Services (FACS) eligibility criteria.
+      4   We used information from the Information Centre for Health and Social Care and
+          information extracted from the Sheffield, Merton, Sutton and Lambeth learning
+          disability case registers to estimate the number and age profile of adults with
+          learning disabilities who were using social care services in 2008.
+      5   We adjusted the population of current adult service users for the expected effects of
+          mortality over the period 2009-2026.
+      6   These data were combined with estimated inflows from child services to estimate
+          net changes in need over the period 2009-2026.
+
+Further details of the process are given below.
+
+Stage 1: Identifying Children with SEN Associated with Learning
+Disability
+Each school term the DCSF conducts a School Census, collecting data on all children
+attending school in England.a The pupil-level component of the School Census collects
+information on, among many other things, whether a pupil is recorded as being at the
+School Action Plus stage of assessment of SEN or has a Statement of SEN. If the pupil meets
+either of these criteria, information is collected on the primary and (for some children)
+secondary type of SEN. The SEN categories include four categories that are associated with
+learning disabilities:
+
+      •   MLD – Moderate learning difficulties
+      •   SLD – Severe learning difficulties
+      •   PMLD – Profound and multiple learning difficulties
+      •   ASD – Autistic spectrum disorder
+
+The categories MLD, SLD and PMLD refer to general learning difficulties (i.e., what would be
+termed learning disabilities in non-educational settings). They do not include children with
+specific learning difficulties (e.g., dyslexia) who are identified separately in the School
+Census.
+
+
+
+
+a
+    http://www.teachernet.gov.uk/management/ims/datacollections/sc2008/
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England       2
+From the spring 2008 School Census we calculated the number and percentage of children
+with MLD, SLD, PMLD and ASD across the 6.8 million pupils who were 4-15 years old at the
+commencement of the school year. We determined these administrative prevalence ratesb
+separately for each year age group for boys and girls. We excluded children younger than 4
+years of age and children older than 15 years of age as presence of SEN associated with
+learning disabilities is likely to be associated with early school entry and, especially for
+children with MLD, leaving school at age 16.
+
+As would be expected, administrative prevalence rates of all categories of SEN (but
+especially MLD) rise with age across the primary school years, primarily due to delays in the
+identification of SEN and time-lapse between identification and the involvement of external
+professional staff (a criterion of being placed at School Action Plus). They then drop slightly
+across secondary school years. It is not possible within these data to distinguish between
+cohort effects (changes in the prevalence of learning disabilities across children born at
+different points in time) and time-related effects (changes in prevalence rates among
+children born in a particular year over time).
+
+In the modelling contained in this report we made the assumption that prevalence rates of
+SEN associated with learning disability are constant across different age cohorts of children.
+We estimated prevalence rates from the average prevalence rate among children aged 7-15
+in the spring 2008 School Census.
+
+The estimates we used were (per 1,000 children):
+
+    •    35.8 for MLD
+    •    4.63 for SLD
+    •    1.14 for PMLD
+    •    8.20 for ASD
+
+These estimates are broadly consistent with the findings of epidemiological studies of the
+prevalence of learning disabilities and ASD among children.11-16 We were interested in
+information on the number of children with ASD as, while it is known that approximately
+50% of children with ASD also have learning disabilities,13 14 the combination of ASD and
+MLD/SLD/PLMD was relatively rarely recorded in the data.
+
+To test the validity of the identification of SEN associated with learning disabilities in these
+data, we examined the extent to which prevalence varied by gender and social deprivation.
+All categories of SEN associated with learning disabilities were significantly more common
+among boys, with girl:boy ratios of 1:1.85 for MLD, 1:1.83 for SLD, 1:1.28 for PMLD and
+1:5.73 for ASD. These associations are broadly consistent with the results of previous
+epidemiological studies. Social deprivation was measured by the Income Deprivation
+Affecting Children Index (IDACI) from the English Indices of Deprivation 2007.17 There were
+significant associations between the prevalence of MLD and to a much lesser extent SLD and
+the area-based IDACI. There was no significant association between the prevalence of PMLD
+or ASD and IDACI. Again, these associations are broadly consistent with the results of
+previous epidemiological studies.
+
+
+b
+  Administrative prevalence refers to the percentage of children identified through administrative
+records (in this case the School Census) with a particular characteristic. Administrative prevalence is
+influenced by the true or underlying prevalence of a particular condition and the efficiency and
+reliability of administrative systems in correctly identifying children with that particular characteristic.
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England                    3
+In our estimates of the numbers of children with learning disabilities, we included children
+with recorded SEN of MLD, SLD or PMLD and 50% of children with recorded SEN of ASD
+(after taking into account the small number of children who had been identified in the data
+as having ASD and MLD/SLD/PLMD).
+
+We derived estimates of the numbers of children with learning disabilities in each year age
+band from 0-17 by applying our prevalence estimates to current population projections of
+children in England.c This resulted in the identification of 466,000 children with learning
+disabilities in England aged under 18 in 2008. A breakdown of the numbers of children by
+category of SEN is given below in Table 1.
+
+            Table 1: Estimated Number of Children (Age Under 18) with
+            Learning Disabilities in England 2008
+            SEN Category                              Total    Average per
+                                                      Number   One-Year
+                                                               Age Band
+                   Moderate Learning Difficulties      394,078       21,893
+                       Severe Learning Difficulties     50,896        2,828
+                       Profound Multiple Learning       12,567          698
+                                         Difficulties
+
+
+
+
+c
+ http://www.gad.gov.uk/Demography_Data/Population/2006/england/weng06singyear.xls We used
+these estimates as they include all children in England including those not covered by the DCSF School
+Census (e.g., children being educated at home).
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England              4
+Stage 2: Adjusting for Child Mortality
+The second stage of the process involved estimating the number of children with learning
+disabilities in England who would reach 18 years of age between 2011 and 2026. In order to
+estimate these numbers we adjusted the current cohort of children to take account of
+cohort attrition as a result of child mortality between the child’s current age and age 18.
+
+It has been suggested that mortality rates among people with mild learning disabilities may
+be similar to those of the general population.18 19 However, given that children with mild or
+moderate learning disabilities (equivalent to the SEN category of MLD) are much more likely
+than other children to live in poverty20 and that exposure to poverty is associated with
+increased child mortality,21 we made a conservative estimate that mortality rates among
+children with MLD would be 50 per cent higher than those observed among children in the
+general population of a similar age and gender.19 Population child mortality rates were taken
+from the latest data available from the Office for National Statistics.8
+
+For children with SLD and children with ASD and learning disabilities we estimated mortality
+rates on the basis of information extracted from the Sheffield Learning Disability Case
+Register on child mortality over the last decade.d For children with PMLD we estimated
+annual mortality rates to be 50% higher than the rates estimated for children with SLD.18
+
+The estimates we used were (per year per 1,000 children):
+
+      •    MLD age 5-9 (0.17), age 10-14 (0.20), age 15-18 (0.56)
+      •    SLD and ASD (7.40)
+      •    PMLD (11.10)
+
+Application of these mortality estimates predicted an average of 680-690 deaths per year
+among the cohort of children with learning disabilities.
+
+
+
+
+d
+    http://www.signpostsheffield.org.uk/health/case-register
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England     5
+Stage 3: Estimating the Numbers of Young People Who Are Likely to
+Become Users of Adult Social Care Services
+Not all young people with learning disabilities will become users of social care services for
+adults. Two factors are particularly important when attempting to estimate the number of
+likely new entrants into social care services for adults.
+
+    •    The percentage of potential users with learning disabilities who are likely to meet
+         differing levels of eligibility for adult social care under the current Fair Access to Care
+         Services (FACS) guidance.22
+    •    The rationing of access to adult social care services by FACS eligibility criteria.
+
+At present no data are available regarding the percentage of young people with varying
+degrees of learning disabilities who meet differing levels of eligibility for adult social care
+under current FACS guidance. As a result, we adopted a consultative approach to deriving
+estimates.
+
+First, we asked expert organisations (e.g., member organisations of the Learning Disability
+Coalition, Local Government Association, Association of Directors of Adult Social Services,
+Information Centre for Health and Social Care, Department of Health, Office for Disability
+Issues, National Development Team) to provide their best estimate of the percentage of
+young people with MLD, SLD, PMLD, ASD and learning disabilities who, in their opinion,
+would meet the criteria for critical, substantial, moderate and low need.
+
+From this response we constructed upper, middle and lower estimates of probable FACS
+eligibility for the four categories of SEN associated with learning disabilities. We adopted a
+conservative approach to this task by taking the estimate provided by this exercise as the
+upper estimate. To create the middle and lower estimates we progressively reduced the
+proportions of people with MLD, SLD and ASD+LD we estimated would be assessed at higher
+levels of eligibility to derive middle and lower estimates. We did not reduce the proportion
+of people with PMLD we estimated would be assessed at higher levels of eligibility as there
+exists a strong consensus that all people with PMLD have ‘critical’ needs. The main effect of
+these adjustments is to reduce the proportion of people with less severe learning disabilities
+in the predicted population of likely service users.
+
+Finally, we circulated these estimates to the same set of organisations for comment. The
+comments received suggested that either our estimates appeared reasonable or were too
+conservative, especially with regard to estimating eligibility among people with less severe
+learning disabilities.
+
+The estimates used in the subsequent analyses are presented below in Table 2.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England            6
+    Table 2: Estimates of Assessed Level of Eligible Need by SEN Associated with Learning
+                                         Disabilities
+ Upper Estimate
+                      Critical        Substantial       Moderate             Low              None
+         MLD                  5%             10%              30%                  45%            10%
+          SLD                30%             70%               0%                   0%             0%
+        PMLD                100%               0%              0%                   0%             0%
+      ASD+LD                 30%             40%              20%                  10%             0%
+ Middle Estimate
+                      Critical        Substantial       Moderate             Low              None
+         MLD                  3%               5%             25%                  57%            10%
+          SLD                20%             70%              10%                   0%             0%
+        PMLD                100%               0%              0%                   0%             0%
+     ASD+LD                  20%             40%              30%                  10%             0%
+ Lower Estimate
+                      Critical        Substantial       Moderate             Low              None
+         MLD                  2%               3%             25%                  45%            25%
+          SLD                20%             60%              10%                  10%             0%
+        PMLD                100%               0%              0%                   0%             0%
+       ASD+LD                15%             30%              45%                  10%             0%
+
+For each of these three estimates we investigated three approaches to the rationing of adult
+social care:
+
+    1. Adult social care services would only be available to people with critical or
+       substantial need. In 2007-08, 72% of councils were operating this level of
+       rationing.23 However, significant concerns have been expressed regarding the
+       conflict between this level of rationing and the importance, a policy objective
+       strongly emphasised in Putting People First24, of adopting a more preventative
+       approach to social care.23 25 We believe that such a stringent approach to rationing
+       is incompatible with current policy objectives and, as a result, also include two
+       alternative scenarios.
+    2. Adult social care services would only be available to people with critical or
+       substantial need and 50% of people with moderate need.
+    3. Adult social care services would only be available to people with critical, substantial
+       or moderate need.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England             7
+Stage 4: Estimating Attrition among Current Users of Adult Social
+Care Services
+The most recent information available suggests that, in 2006-7, 137,000 adults with learning
+disabilities used adult social care services in England. 26 This estimate is lower than the
+estimate of 187,000 adults with learning disabilities known to health and social care
+services27 as not all people known to health and social care services will be actual users of
+social care services in any given year. The available data does not, however, provide a
+detailed breakdown of the age profile of the population of current users. To do this we
+applied an age-profile estimated from data provided to us from the Sheffield, Merton,
+Sutton and Lambeth learning disabilities case registers,e the City of Manchester and the
+Metropolitan Borough of Stockport.
+
+ For this cohort of current users of adult social care services we applied year on year age-
+specific adjustments for predicted mortality for the period 2009-2026. The mortality
+estimates used were derived from actual death rates recorded by the Sheffield Case Register
+(1998-2007), the Sutton and Merton Case Registers (2003-2007) and the Leicestershire Case
+Register (1993-2005). Data from Sheffield, Merton and Sutton was provided for us by the
+register managers. Data from Leicestershire were extracted from a published report.28 These
+mortality estimates (presented in Table 3) were derived from information covering over
+60,000 person-years. For purposes of comparison, death rates (per 1,000) in the general
+population for 2006 were below 1 in the 20-34 year age range, below 10 in all age groups
+below 65, rising to 23.2 in the 65-74 age group and 64.7 in the 75-84 age group.8 The
+markedly greater death rates among people with learning difficulties apparent in these
+figures is consistent with that reported in previous research studies.28
+
+                             Table 3: Age-Specific Mortality Estimates
+Age Group                  20-29     30-39      40-49      50-59     60-69           70-79       80+
+Annual mortality
+                             5.07       6.62       8.61       21.38       34.96      70.04    118.59
+rate (per 1,000)
+
+
+Stage 5: Estimating Net Changes in Adult User Population
+In order to estimate net changes in the population of people with learning disabilities who
+use adult social care services we combined our estimates of inflows from children’s services
+with our estimates of attrition in the cohort of current service users. Nine estimates were
+generated by combining the three estimates of likely eligibility (upper, medium, lower) with
+each of the three scenarios of rationing.
+
+
+
+
+e
+    http://www.i-count.org/index.html http://www.signpostsheffield.org.uk/health/case-register
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England            8
+Findings: Estimated Change in Overall Need 2009-
+2026
+Our projection for future need for social care services for adults with learning disabilities in
+England are presented below in Tables 4-6. Each table presents upper, middle and lower
+estimates of the number of eligible users under a distinct scenario of service rationing. In
+each table we present for each year the estimated numbers of eligible adult users of social
+care services and the annual percentage change from the previous year. Figures 2-4 present
+the data contained in Tables 4-6 in graphical form.
+
+All scenarios suggest sustained growth in the need for social care services for adults with
+learning disabilities over the full time period. However, average estimated annual increases
+vary from 1.04% (lower estimate, services are only provided to new entrants with critical or
+substantial needs) to 7.94% (upper estimate, services are provided to new entrants with
+critical, substantial or moderate needs).
+
+As we have stated above, we believe that rationing access to social care to those with just
+critical or substantial needs is incompatible with current policy objectives. If these estimates
+are excluded the average estimated annual increases vary from 3.20% (lower estimate,
+services provided to 50% of new entrants with moderate needs) to 7.94%. These estimates
+would involve providing support to between an additional 47,000 (34%) adults (lower
+estimate) to 113,000 (82%) adults with learning disabilities over the next ten years.
+
+ Table 4: Services Provided to New Entrants with Critical or Substantial Needs Only
+            Estimated         Estimated          Estimated          % Annual      % Annual    % Annual
+            Eligible Users:   Eligible Users:    Eligible Users:    Change:       Change:     Change:
+            Upper             Middle             Lower              Upper         Middle      Lower
+ 2009       142,507           140,452            139,339            4.0%          2.5%        1.7%
+ 2010       147,757           143,707            141,514            3.7%          2.3%        1.6%
+ 2011       152,684           146,711            143,479            3.3%          2.1%        1.4%
+ 2012       157,443           149,578            145,325            3.1%          2.0%        1.3%
+ 2013       161,981           152,268            147,018            2.9%          1.8%        1.2%
+ 2014       166,367           154,817            148,579            2.7%          1.7%        1.1%
+ 2015       170,734           157,340            150,109            2.6%          1.6%        1.0%
+ 2016       174,851           159,660            151,464            2.4%          1.5%        0.9%
+ 2017       178,782           161,830            152,689            2.2%          1.4%        0.8%
+ 2018       182,484           163,821            153,763            2.1%          1.2%        0.7%
+ 2019       185,985           165,652            154,701            1.9%          1.1%        0.6%
+ 2020       189,472           167,464            155,617            1.9%          1.1%        0.6%
+ 2021       193,111           169,379            156,612            1.9%          1.1%        0.6%
+ 2022       196,936           171,421            157,702            2.0%          1.2%        0.7%
+ 2023       200,815           173,495            158,814            2.0%          1.2%        0.7%
+ 2024       204,810           175,642            159,979            2.0%          1.2%        0.7%
+ 2025       209,102           178,000            161,309            2.1%          1.3%        0.8%
+ 2026       213,371           180,333            162,614            2.0%          1.3%        0.8%
+                                                         Average    3.1%          1.8%        1.0%
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England          9
+ Table 5: Services Provided to New Entrants with Critical or Substantial Needs and 50% of New
+ Entrants with Moderate Needs
+           Estimated       Estimated       Estimated          % Annual     % Annual    % Annual
+           Eligible Users: Eligible Users: Eligible Users: Change:         Change:     Change:
+           Upper           Middle          Lower              Upper        Middle      Lower
+ 2009       146,187           143,708            142,634            6.7%          4.9%        4.1%
+ 2010       155,014           150,127            148,010            6.0%          4.5%        3.8%
+ 2011       163,390           156,181            153,061            5.4%          4.0%        3.4%
+ 2012       171,549           162,053            157,946            5.0%          3.8%        3.2%
+ 2013       179,412           167,679            162,610            4.6%          3.5%        3.0%
+ 2014       187,105           173,149            167,125            4.3%          3.3%        2.8%
+ 2015       194,798           178,607            171,624            4.1%          3.2%        2.7%
+ 2016       202,158           183,789            175,873            3.8%          2.9%        2.5%
+ 2017       209,269           188,765            179,936            3.5%          2.7%        2.3%
+ 2018       216,067           193,485            183,770            3.2%          2.5%        2.1%
+ 2019       222,591           197,980            187,401            3.0%          2.3%        2.0%
+ 2020       229,114           202,468            191,022            2.9%          2.3%        1.9%
+ 2021       235,883           207,138            194,803            3.0%          2.3%        2.0%
+ 2022       242,948           212,032            198,777            3.0%          2.4%        2.0%
+ 2023       250,112           216,996            202,810            2.9%          2.3%        2.0%
+ 2024       257,469           222,102            206,965            2.9%          2.4%        2.0%
+ 2025       265,288           227,561            211,429            3.0%          2.5%        2.2%
+ 2026       273,089           232,998            215,872            2.9%          2.4%        2.1%
+                                                       Average      5.5%          3.9%        3.2%
+
+ Table 6: Services Provided to New Entrants with Critical, Substantial or Moderate
+           Estimated       Estimated       Estimated         % Annual      % Annual           % Annual
+           Eligible Users: Eligible Users: Eligible Users: Change:         Change:            Change:
+           Upper           Middle          Lower             Upper         Middle             Lower
+ 2009       149,867           146,965            145,929           9.4%           7.3%        6.5%
+ 2010       162,271           156,546            154,506           8.3%           6.5%        5.9%
+ 2011       174,097           165,651            162,643           7.3%           5.8%        5.3%
+ 2012       185,656           174,527            170,567           6.6%           5.4%        4.9%
+ 2013       196,842           183,090            178,202           6.0%           4.9%        4.5%
+ 2014       207,843           191,481            185,671           5.6%           4.6%        4.2%
+ 2015       218,862           199,875            193,140           5.3%           4.4%        4.0%
+ 2016       229,464           207,918            200,282           4.8%           4.0%        3.7%
+ 2017       239,757           215,699            207,182           4.5%           3.7%        3.4%
+ 2018       249,650           223,149            213,776           4.1%           3.5%        3.2%
+ 2019       259,197           230,309            220,101           3.8%           3.2%        3.0%
+ 2020       268,757           237,471            226,427           3.7%           3.1%        2.9%
+ 2021       278,655           244,898            232,994           3.7%           3.1%        2.9%
+ 2022       288,961           252,644            239,851           3.7%           3.2%        2.9%
+ 2023       299,408           260,498            246,806           3.6%           3.1%        2.9%
+ 2024       310,128           268,562            253,951           3.6%           3.1%        2.9%
+ 2025       321,473           277,121            261,548           3.7%           3.2%        3.0%
+ 2026       332,807           285,664            269,129           3.5%           3.1%        2.9%
+                                                       Average     7.9%           6.0%        5.4%
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England          10
+Figure 1: Predicted Need (Upper Estimate) by Level of Rationing
+
+
+
+
+Figure 2: Predicted Need (Middle Estimate) by Level of Rationing
+
+
+
+
+Figure 3: Predicted Need (Lower Estimate) by Level of Rationing
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England   11
+For all estimates the annual percentage growth rate slows from 2009 to 2018/19 at which
+point it stabilises. This pattern reflects changes in birth rates over the last two decades. The
+number of live birth in England has declined year on year from 1991 to 2001, since which
+time it has gradually increased. As a result, the latest population projections for England
+estimate that the number of children in each one year age band drops systematically from
+675,000 children aged 17 years to 557,000 children aged 7 years.f This will mean that the
+total number of children reaching adulthood (and the total number of children with learning
+disabilities reaching adulthood) will gradually drop over the next decade, after which it will
+gradually begin to rise.
+
+
+
+
+f
+    http://www.gad.gov.uk/Demography_Data/Population/2006/england/weng06singyear.xls
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England        12
+Selected Characteristics of Young People with Learning Disabilities
+Entering Adult Social Care Services: 2009-2026
+The characteristics of new entrants to adult social care will depend on the assumptions used
+in the estimates. To give an idea of the potential range, a breakdown of the severity of
+learning disability and ethnicity (as recorded in the School Census) of predicted new entrants
+to adult social care between 2009 and 2026 is presented in Table 7 for the two most
+extreme scenarios (lower level estimate with services only provided to people with critical or
+substantial needs, upper level estimate with services provided to people with critical,
+substantial or moderate needs).
+
+Table 7: Severity Of Learning Disability And Ethnicity Of Predicted New Entrants To Adult
+Social Care Between 2009 And 2026
+                                                                    Lower estimate,    Upper estimate,
+                                                                    services only      services
+                                                                    provided to        provided to
+                                                                    people with        people with
+                                                                    critical or        critical,
+                                                                    substantial        substantial or
+                                                                    needs              moderate needs
+Severity of Learning Disability
+                                                Mild/Moderate                 27.0%             73.6%
+                                                       Severe                 55.8%             21.1%
+                                             Profound Multiple                17.2%              5.2%
+Ethnic Group
+                                                         African               3.2%              2.8%
+                                                      Caribbean                1.7%              1.9%
+                                       Other Black Background                  0.7%              0.6%
+                                       Total Black Background                  5.6%              5.3%
+                                                        Chinese                0.3%              0.2%
+                                                    Bangladeshi                1.6%              1.4%
+                                                          Indian               1.9%              1.7%
+                                                       Pakistani               5.1%              4.7%
+                                      Other Asian Background                   1.1%              0.8%
+                                       Total Asian Background                 10.0%              8.8%
+                                                Gypsy/Romany                   0.3%              0.5%
+                                                            Irish              0.3%              0.3%
+                                     Traveller of Irish Heritage               0.2%              0.3%
+                                                   White British              76.4%             78.0%
+                                      Other White Background                   2.7%              2.5%
+                                      Total White Background                  79.9%             81.6%
+                                              White and Asian                  0.6%              0.6%
+                                       White and Black African                 0.4%              0.4%
+                                    White and Black Caribbean                  1.2%              1.3%
+                                     Other Mixed Background                    1.3%              1.1%
+                                     Total ‘Mixed’ Background                  3.5%              3.4%
+
+There is little difference between these two estimates with regard to the ethnic composition
+of predicted new entrants into social care with nationally over 20% coming from minority
+ethnic communities.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England              13
+There is, however, a marked difference between the two estimates with regard to the
+severity of intellectual disability. Increasing the estimates and reducing rationing both have
+the effect of increasing the proportion of predicted new entrants with less severe learning
+disabilities. While the proportions of people with different levels of severity of learning
+disabilities varies between estimates, the predicted number of people with profound
+multiple learning disabilities does not as all estimates assume that all people with profound
+multiple learning disabilities will be eligible for services. The estimated number of new
+entrants to adult social care services with profound multiple learning disabilities ranges
+between 559 and 763 per year, with an average of 630. Year by year projections are
+presented in Figure 5.
+
+
+
+
+Figure 4: Predicted Number of New Entrants to Adult Social Care Services with Profound Multiple
+Learning Disabilities
+
+The decrease in the number of predicted new entrants with profound multiple learning
+disabilities between 2009 and 2019 is the result of the reductions in the numbers of children
+reaching adulthood in the general population.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England       14
+Summary & Comments
+All scenarios included in our estimation procedures suggested sustained growth in the need
+for social care services for adults with learning disabilities over the time period 2009-2026.
+As we have stated above, we believe that rationing access to social care to those with just
+critical or substantial needs is in. Our estimates that are compatible with current policy
+objectives indicate that annual increases in need will range from 3.20% (lower estimate,
+services provided to 50% of new entrants with moderate needs) to 7.94%. These estimates
+would involve providing support to between an additional 47,000 and 113,000 adults with
+learning disabilities over the next ten years. In our previous work, commissioned by the
+Department of Health, we had estimated an average annual increase of 1.10% between
+2001-2011.27
+
+These estimates are based on a number of assumptions, some we believe to be highly
+robust, some less so. In Table 8 we list the key assumptions and data sources used and
+indicate the degree of confidence (from fair to very high) we feel can be placed in these
+assumptions/data. We also estimate the sensitivity of the predictions to any reasonably
+expected error in these assumptions (rated from very low to moderate).
+
+Table 8: Assumptions and Data Included in the Projections
+Assumption/Data                                               Confidence          Sensitivity
+Age-specific general population predictions                   Very high           Moderate
+published by the Office for National Statistics
+Prevalence of learning disabilities estimated for 2008        High                Low
+spring School Census data
+General population age-specific child mortality               Very high           Very low
+estimates published by the Office for National
+Statistics
+Adjustment of age-specific general population child           High                Low
+mortality estimates for children with mild/moderate
+learning disabilities
+Child mortality estimates for children with more              Moderate            Low
+severe learning disabilities
+Age-specific mortality estimates for adult users of           Moderate            Low
+learning disability services
+Estimates of eligibility for new entrants with                Fair                Moderate
+mild/moderate learning disabilities
+Estimates of eligibility for new entrants with severe         Moderate            Low
+learning disabilities or ASD and learning disabilities
+Estimates of eligibility for new entrants with                High                Very low
+profound multiple learning disabilities
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England      15
+The most critical source of uncertainty in the predictions lies in estimating the likely
+eligibility for social care services for new entrants with mild or moderate learning disabilities.
+For example, people with mild learning disabilities constitute 85% of the population of
+young people with learning disabilities. An increase in their estimated eligibility for social
+care of 1% is associated with a 0.15% increase in annual average growth rates over the
+period 2009-2026. Most young adults with mild learning disabilities, unless they are parents,
+are unlikely to have ‘critical’ or ‘substantial’ needs due to their learning disability per se.
+However, people with mild learning disabilities do have much higher rates of mental health
+problems and are much more likely to live in poverty than their non-disabled peers.20 29 It is
+this combination of mild learning disabilities and additional adversity or mental health
+problems that is likely to determine eligibility for social care. It is our opinion that the
+estimates of eligibility used in these analyses are conservative. Indeed, it is notable that the
+one consultation response we had that questioned our estimates did so explicitly on our
+(alleged) under-estimate of the eligibility for social care among young people with mild or
+moderate learning disabilities. Clearly, there would be considerable value in empirically
+testing these eligibility estimates.
+
+There are a number of factors that would have an impact on future need that we did not
+take into account. These included:
+
+    •    Effects due to international migration. We believe that at a national level any net
+         effects are likely to be minimal. Effects may be of local importance, however, in
+         areas with high concentrations of refugee children.
+    •    Changes in the incidence of learning disabilities over time. We do not feel that there
+         are sufficient grounds for building in estimates of changes in the incidence of
+         learning disabilities. Factors that are likely to lead to an increase in the incidence of
+         learning disabilities include increases in maternal age (associated with higher risk
+         factors for some conditions associated with learning disabilities, such as Down’s
+         syndrome), improved survival of ‘at risk’ infants (e.g., very low birth weight or very
+         pre-term infants), increasing levels of HIV and AIDS in children. Factors that are likely
+         to lead to a decrease in incidence include the increasing availability of prenatal
+         screening for Down’s syndrome, improving health care and support resulting in
+         fewer ‘at risk’ infants developing learning disabilities, reductions in child poverty
+         rates and improvements in early years services. The net effect of these competing
+         pressures on the incidence of learning disabilities is not known. We consider it
+         unlikely, however, that any changes that do occur will be of a magnitude to have a
+         significant impact on these predictions.
+    •    Changes in mortality rates among people with learning disabilities over time.
+         Current trends suggest that mortality rates among people with learning disabilities
+         should continue to fall (as they are expected to do in the general population). It is
+         not possible, however, top predict these changes with any degree of precision.
+         Given that the model used is relatively insensitive to changes in mortality rates (i.e.,
+         such changes have little impact on the final estimate), we decided to make a
+         conservative assumption that mortality rates would remain constant. Any error here
+         would lead us to marginally underestimating future need.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England          16
+Finally, it must be stressed that our predictions are based on estimates of ‘need’ rather than
+‘demand’. Changes in demand are likely to outstrip changes in need due to a variety of
+factors combining to reduce the capacity of informal support networks to provide care,
+networks that have primarily relied on the unpaid labour of women. As noted above, these
+factors include:
+
+    •    Increases in lone parent families5
+    •    Increasing rates of maternal employment5
+    •    Increases in the percentage of older people with learning disabilities (whose parents
+         are likely to have died or be very frail)6 7
+    •    Changing expectations among families regarding the person’s right to an
+         independent life.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England      17
+References
+1. Emerson E, Hatton C. Estimating the Current Need/Demand for Supports for People with
+         Learning Disabilities in England. Lancaster: Institute for Health Research, Lancaster
+         University, 2004.
+2. Emerson E, Hatton C. Estimating Future Need/Demand for Supports for Adults with
+         Learning Disabilities in England. Lancaster: Institute for Health Research, Lancaster
+         University, 2004.
+3. Emerson E, Hatton C, Felce D, Murphy G. Learning Disabilities: The Fundamental Facts.
+         London: The Foundation for People With Learning Disabilities, 2001.
+4. Office for Disability National Statistics. Population Trends. London: Office for Disability
+         National Statistics, 2008.
+5. Office for National Statistics. Social Trends. London: Office for National Statistics, 2008.
+6. Emerson E. Future need and demand for supported accommodation for people with
+         learning disabilities in England. Housing, Care & Support 2005;8(4):17-22.
+7. Mencap. The Housing Timebomb: The housing crisis facing people with a learning
+         disability and their older parents. London: Mencap, 2002.
+8. Office for National Statistics. Population Trends 132. London: Office for National Statistics,
+         2008.
+9. Emerson E. Future Needs for Services for Adults with Learning Disabilities in Manchester.
+         Lancaster: Centre for Disability Research, Lancaster University, 2007.
+10. Emerson E. Future Needs for Services for Adults with Learning Disabilities in Stockport.
+         Lancaster: Centre for Disability Research, Lancaster University, 2008.
+11. Einfeld S, Emerson E. Intellectual disability. In: Rutter M, Bishop D, Pine D, Scott S,
+         Stevenson J, Taylor E, et al., editors. Rutter's Child and Adolescent Psychiatry. 5th ed.
+         Oxford: Blackwell, 2008.
+12. Fombonne E. The changing epidemiology of autism. Journal of Applied Research in
+         Intellectual Disabilities 2005;18:281-94.
+13. Baird G, Simonoff E, Pickles A, Chandler S, Loucas T, Meldrum D, et al. Prevalence of
+         disorders of the autism spectrum in a population cohort of children in South
+         Thames: the Special Needs and Autism Project (SNAP). Lancet 2006;368:210-15.
+14. Newschaffer CJ, Croen LA, Daniels J, Giarelli E, Grether JK, Levy SE, et al. The
+         epidemiology of autism spectrum disorders. Annual Review of Public Health
+         2007;28:235-58.
+15. Leonard H, Wen X. The epidemiology of mental retardation: challenges and
+         opportunities in the new millennium. Mental Retardation and Developmental
+         Disabilities Research Reviews 2002;8:117-34.
+16. Roeleveld N, Zielhuis GA, Gabreels F. The prevalence of mental retardation: a critical
+         review of recent literature. Developmental Medicine & Child Neurology 1997;39:125-
+         32.
+17. Noble M, McLennan D, Wilkinson K, Whitworth A, Barnes H, Dibben C. The English
+         Indices of Deprivation 2007. London: Communities and Local Government, 2008.
+18. Patja K, Mölsä P, Iivanainen M. Cause-specific mortality of people with intellectual
+         disability in a population-based, 35-year follow-up study. Journal of Intellectual
+         Disability Research 2001;45(1):30-40.
+19. Decouflé P, Autry A. Increased mortality in children and adolescents with developmental
+         disabilities. Paediatric and Perinatal Epidemiology 2002;16:375-82.
+20. Emerson E. Poverty and people with intellectual disability. Mental Retardation and
+         Developmental Disabilities Research Reviews 2007;13:107-13.
+21. Spencer NJ. Health consequences of poverty for children. London: End Child Poverty,
+         2008.
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England          18
+22. Department of Health. Fair access to care services: guidance on eligibility criteria for
+        adult social care, LAC (2002) 13. London: Department of Health, 2002.
+23. Commission for Social Care Inspection. Cutting the cake fairly: CSCI review of eligibility
+        criteria for social care. London: Commission for Social Care Inspection, 2008.
+24. HM Government. Putting People First: a shared vision and commitment to the
+        transformation of adult social care. London: HM Government, 2007.
+25. Henwood M, Hudson B. Lost to the system? The impact of Fair Access to Care: a report
+        commissioned by CSCI for the production of ‘The state of social care in England
+        2006-07’. London: Commission for Social Care Inspection, 2008.
+26. The Information Centre for Health and Social Care. Community Care Statistics 2006-07:
+        Referrals, Assessments and Packages of Care for Adults, England. Leeds: The
+        Information Centre for Health and Social Care, 2008.
+27. Emerson E, Hatton C. People with Learning Disabilities in England. Lancaster: Centre for
+        Disability Research, Lancaster University, 2008.
+28. Tyrer F, Smith LK, McGrother CW. Mortality in adults with moderate to profound
+        intellectual disability: a population-based study. Journal of Intellectual Disability
+        Research 2007;51(7):520-27.
+29. Emerson E, Hatton C. The mental health of children and adolescents with intellectual
+        disabilities in Britain. British Journal of Psychiatry 2007;191:493-99.
+
+
+
+
+Future Need for Adult Social Care Services for People with Learning Disabilities in England      19
+

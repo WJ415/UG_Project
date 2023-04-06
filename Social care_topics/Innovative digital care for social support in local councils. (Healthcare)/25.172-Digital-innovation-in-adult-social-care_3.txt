@@ -1,0 +1,1184 @@
+Digital innovation in adult
+social care: how we’ve
+been supporting
+communities during
+COVID-19
+What we have done, what we
+have learned and what next
+for digital innovation in adult
+social care
+Acknowledgements
+We would like to offer our personal thanks to all the councils and national partners who
+invested their time in speaking with us as we have developed this report, particularly during
+such challenging times.
+The views and practical examples they shared assisted in developing our understanding of
+Acknowledgements
+the key issues and opportunities.
+Authors:  Michael
+ It also shaped ourPreston-Shoot
+                    thinking on the and
+                                      resulting key messages required to drive and deliver
+Jane   Lawson
+ continued  progress
+               (on behalf
+                      in theofarea
+                               LGA/ADASS)
+                                   of social care digital innovation.
+Contents
+
+Introduction: a new ‘normal’ for digital?                         4
+
+About this report                                                 5
+
+  At a glance: a very short summary                               6
+
+Part one: What have we done?                                      7
+
+Part two: What have we learned?                                  18
+
+Part three: What next?                                           21
+
+Appendix: Social care digital tools and resources for councils   23
+4     DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+Introduction: a new ‘normal’ for digital?
+
+
+We are all affected by the impact of the COVID-19                  technology, innovate at scale or move beyond one-
+pandemic in our daily lives.                                       off funded projects.
+
+Despite the many challenges, we have seen the                      Though some evidence of the financial benefits
+adult social care sector and more broadly local                    from investment in digital approaches, there is
+government adapt at scale and pace to support                      stronger evidence about improved outcomes
+communities through this time.                                     for people. Councils need resources to take an
+                                                                   investment approach in this area in partnership
+Technology has played a significant role in                        with people and providers.
+supporting the work of councils in collaboration
+with local partners and communities.                               We know that technology alone will not solve all
+                                                                   the challenges facing social care and the NHS but
+Locally, we are starting to see people experience                  it can under the right conditions be an enabler of
+‘virtual’ care in their community as well as                       preventative, personalised and joined up care and
+continued collaboration between councils and                       support.
+care providers to support digital adoption,
+building on existing progress in this area.                        The Association of Directors of Adult Social
+                                                                   Services (ADASS) statements to help shape adult
+We are also realising the value of technology for                  social care reform places digital at the heart of
+connection, wellbeing and bringing communities                     that reform.4
+closer together.
+                                                                   “It is vital that we harness all of the power that
+Nationally, there is drive from government in                      technology and digital innovations offer us.”
+supporting the adult social care sector to invest in
+and embed more technology and capturing recent                     We asked the Institute of Public Care at Oxford
+learning will be part of the legacy that will shape                Brookes University to work with us and councils
+future support.                                                    to capture examples of where progress has been
+                                                                   made in this area in recent months.
+However, whilst progress is being made councils
+are facing extraordinary and ongoing funding                       This report is intended to share our learning and
+pressures. Over the last decade councils have                      offer practical considerations for councils, their
+lost £15 billion1 of core government funding and                   partners and national bodies on how best to
+additional cost pressures and income losses as                     support greater digital innovation and adoption
+a result of the pandemic leaves the sector with a                  across the adult social care sector.
+funding gap of £7.4 billion.2
+
+In adult social care, only 4 per cent of directors
+are fully confident their budget is sufficient to meet
+                                                                   Cllr Ian Hudspeth, Chairman, LGA Community
+statutory duties.3
+                                                                   Wellbeing Board
+Unsurprisingly, this reduces the ability for
+councils to invest in technology and digital
+services sustainably and makes it challenging                      James Bullion, Director of Adult Social Care,
+to find evidence to make the business case for                     Norfolk County Council, ADASS President
+1   www.local.gov.uk/sites/default/files/documents/29.17%20The%20future%20of%20care%20and%20support_03.2%20-%20Final.pdf
+2   www.local.gov.uk/lga-analysis-covid-19-council-funding-gap-widens-ps74-billion
+3   www.adass.org.uk/adass-budget-survey-2020
+4   www.adass.org.uk/adass-publishes-nine-statements-to-help-shape-adult-social-care-reform
+                                      HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                                     5
+
+
+
+About this report
+
+
+The Local Government Association (LGA) and                                 It is also grouped into the following four themes,
+Association of Directors of Adult Social Services                          although these are not mutually exclusive and are
+(ADASS) initially commissioned this report in early                        enablers of each other.
+2020 but it was soon paused to prioritise the local
+government adult social care COVID-19 response.                            Promoting wellbeing and independence
+
+It was resumed in June 2020 with a revised                                 Flexible and enabled working
+focus on capturing progress made in social care                            Digital for everyone
+digital innovation particularly in the immediate
+response to the pandemic and to provide practical                          Working together with partners
+messages to help new approaches be sustained
+                                                                           In each theme, we link with Think Local Act
+and embedded.
+                                                                           Personal’s (TLAP) ‘Making it Real’ Framework
+Our insights and key messages from our                                     which articulates what co-produced, personalised
+engagement with councils before the pandemic are                           and community-based support looks like.5
+still relevant now – if not more so given the pace
+                                                                           For councils, it is hoped this report is a useful
+and scale of recent digital innovation and adoption.
+                                                                           stock take of recent digital activity across local
+Therefore, this report draws on engagement and                             government which can be used to promote and
+learning both before and during the adult social                           stimulate continued work in this area with local
+care COVID-19 initial response. It has been                                communities. The key messages for councils
+compiled from engagement with councils and key                             are practical considerations to help develop and
+national bodies by the Institute of Public Care (IPC)                      embed digital approaches to support people live
+at Oxford Brookes University. It has three parts:                          the lives they want to lead.
+
+Part one: What have we done to support the                                 For national bodies (including the government in
+use of technology for connection, wellbeing and                            collaboration with the LGA, ADASS and partners),
+bringing communities closer together?                                      this report captures key areas of continued work
+                                                                           needed to enable successful and sustainable
+Part two: What have we learned about the factors                           digital innovation in adult social care. The key
+which lead to successful digital innovation in adult                       messages for national bodies are practical
+social care and those that don’t?                                          considerations to enable digital approaches to be
+Part three: What next if we want to keep up the                            embedded in adult social care through the right
+momentum and sustain new learning, approaches                              level of support and investment.
+and ways of working?                                                       This report is not intended to be detailed or
+Part one of the report includes case study                                 technical but rather highlight the breadth of
+examples of digital innovation in adult social care,                       digital activity underway across the adult social
+although it is important to remember that social                           care sector. As use of technology supports
+care is embedded in a wider network of local                               personalisation and the wider integration of
+government functions that enable people to live                            health and care, so will the need to ensure
+the lives they want to lead.                                               that approaches are underpinned by the
+                                                                           right information standards, interoperability
+                                                                           requirements and robust data and cyber security.
+
+
+5   www.thinklocalactpersonal.org.uk/makingitreal/about/six-themes-of-making-it-real
+6                    DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+In response to the pandemic there has been an                        Work is underway across these areas supported
+increased reliance on digital communications                         by the LGA and partners including NHS Digital,
+and services; n​ ew data sharing arrangements;                       Digital Social Care and NHSX but is not within the
+accelerated digital innovation; and ​new working                     scope of this report.
+conditions. T
+            ​ his has led to an increase in cyber
+threats, and risks associated with a cyber incident.
+
+
+
+
+A very short summary of the key messages in this report
+
+                        Promoting               Flexible and            Digital for              Working together
+                        wellbeing and           enabled working         everyone                 with partners
+                        independence
+
+                        Made greater use of     Adopted digital         Worked with              Collaborated with
+ What we have done
+
+
+
+
+                        technology to help      technology to keep      communities to           others to adopt
+                        people of all ages      vital services up and   provide digital          digital technology
+                        and in all settings     running                 support to those         at pace and scale
+                        get connected and                               who need it
+                        stay connected,
+                        independent and
+                        well
+ have learned
+
+
+
+
+                        Simple technologies     Digital                 It’s not just about      Sustainable and
+                        can help people         transformation          the kit, but about       meaningful change
+ What we
+
+
+
+
+                        with daily activities   requires strong         enabling outcomes        needs strong
+                        and reduce isolation    leadership and a        for people and           partnerships and
+                                                culture shift           communities              commitment
+
+                        Think beyond            Invest in people        Invest in local and      Invest in digital to
+                        social care as          to achieve digital      co-produced digital      support longer-term
+                        technology can be       change and              approaches as they       adult social care
+ What next
+
+
+
+
+                        used preventatively     transformation          work best                reform which is co-
+                        to support self-                                                         produced with key
+                        management of own                                                        stakeholders and
+                        health and wellbeing                                                     communities
+                                    HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                                  7
+
+
+
+Part one:
+What have we done?
+
+a) Promoting wellbeing                                                   Kent County Council: supporting
+and independence                                                         adults with autism through use
+                                                                         of technology
+“Living the life I want,                                                 The occupational therapy team providing
+living safe and well”                                                    enablement support for adults with autism
+TLAP, Making it Real Theme                                               in Kent is embracing blended physical and
+                                                                         virtual approaches. Digital technology can help
+Adult social care aims to support people to live the                     people have greater independence and self-
+lives they want to lead. It is rooted in supporting                      management over their lives.
+people’s wellbeing in line with The Care Act, 2014.
+                                                                         For many people with autism, technology can be
+Councils play a key role in providing information,
+                                                                         an accessible, autonomous and accepted way
+advice and guidance (regardless of whether
+                                                                         to be supported. In Kent many individuals are
+a person has eligible needs or not), as well as
+                                                                         exploring the use of electronic whiteboards and
+support to individuals, unpaid carers, families
+                                                                         apps to help with organisational and planning
+and communities.
+                                                                         skills so that they can carry out day-to-day tasks
+There has been lots of gradual progress in                               independently. Whiteboards and apps can be
+recent years across local government to utilise                          set up to provide step-by-step prompts on ‘how
+technology to support people to live well, connect                       to’ do something. Prompts can be via pictures,
+with their communities, families and friends and                         written or voice activated, sync with a person’s
+meet their aspirations. However, increasingly, and                       calendar on their phone and be added remotely
+more recently in response to the pandemic, we                            by carers or support staff.
+have seen activity accelerated.
+                                                                         Day-to-day tasks such as making a hot drink
+“Social care has shown itself                                            or washing bed linen can be made easier by
+                                                                         utilising personal photographs demonstrating
+not as an end point on a                                                 how the process can be broken down into
+journey toward a service or                                              smaller steps.
+
+services, but as the way in                                              “[technology] allows support in a way that is
+                                                                         accepted by him. My son is 25 years old and
+which people are supported                                               has a degree but without the level of prompts
+to continue their own personal                                           provided by the technology to help with daily
+                                                                         tasks, they wouldn’t get done”.
+journey in life”
+LGA, ‘Re-thinking local’, 2020                                           [Occupational therapist in Kent speaking of her
+                                                                         experience of using technology to support her
+Approximately 1.7 million people (with eligible                          own son with autism].
+and non-eligible care needs) are supported by
+technology-enabled care (TEC) and demand has
+increased in recent months.6
+
+
+
+6   From Stabilisation to Innovation: The Response and Redesign of TEC Services during Covid-19 (TSA)
+8       DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+    Care technology (or technology-enabled care)                           The councils and partners have also ensured
+    involves the provision of services such as                             contactless delivery and on-going technical
+    telecare (long distance monitoring of people                           support to provide any troubleshooting or
+    to support them to live independently at home),                        reassurance about using the device.
+    assistive technology and telehealth which
+    provides arrangements for people to manage                             “The best part is that I don’t
+    short and long-term conditions. It can also
+    include the use of newer technologies including
+                                                                           need log-ons or codes to be
+    video phones, data tools, self-help apps and                           able to see or speak to people.
+    the wider ‘Internet of Things’ that help put                           I also hope I can receive my
+    people in control of their own health, wellbeing
+    and support.                                                           private physio sessions on
+                                                                           the Carephone and I like the
+Care technology approaches in the sector are
+wide ranging – from supporting people at home
+                                                                           idea that it can prompt me to
+after being in hospital to technology to help young                        move every hour to prevent me
+disabled people live at home independently. As                             getting sores and to keep doing
+well as direct support to people, technology can
+also play a huge role in supporting those who care                         my exercises”
+for others, such as providing reassurance about                            Robert Greenfield, editor of MS magazine
+their loved ones’ safety and activity throughout                           and recipient of the device in Kent.8
+the day.
+                                                                           The technology-enabled care sector includes
+Essex, Kent and Suffolk county councils made                               158 alarm receiving centres in England which
+commitments early in the pandemic to utilise                               co-ordinate responses to help people if, for
+greater care technology to support people                                  example, they have had a fall and an alert is
+receiving care in their own home. They identified                          triggered through a device that they wear (such
+a secure tablet device called a Video Carephone                            as a falls pendant). Most alarm receiving centres
+to enable people to contact their care workers,                            (approximately 72 per cent) are delivered in-house
+family members and other approved services                                 by councils and the rest by housing associations,
+via ‘virtual check-ins’. These are being used in a                         the private sector and community interest
+variety of ways from prompts or reminders about                            companies.9
+taking medication or drinking fluids, to observing
+changes in people who might be presenting with                             Recent research by the Technology Enabled Care
+COVID-19 symptoms. They are also being used for                            Services Association (TSA) shows how the TEC
+daily, informal contact with friends and family. The                       sector has had to adapt quickly to continue to
+full case study sets out how over 5,000 devices                            provide support to those who need it, despite a
+were purchased by the councils for roll-out over                           35 per cent reduction in staffing levels.
+an eight-week period supported by a mobilisation
+partner and technology supplier.7
+
+
+
+7    www.local.gov.uk/covid-19/covid-19-local-examples-care-technology-approaches
+8    https://kccmediahub.net/kcc-launches-videophone-system-for-vulnerable-residents745
+9    TSA, Data and cyber security research in the technology enabled care sector, July 2019
+                                     HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                                     9
+
+
+
+
+In some areas, to meet increased demand,                                 The LGA is also providing funding and support
+additional staff from the council or organisation                        to councils who want to work collaboratively with
+have been re-trained or re-deployed to support                           other councils in looking at new ways of helping
+frontline activities like call handling, discharge                       people to stay independent and well beyond
+support, proactive calling and outreach activity. A                      the immediate response to the pandemic. Five
+number of case studies on the technology enabled                         councils are working together to develop a new
+care sector’s early response to the pandemic is                          digital approach to support people with learning
+available in TSA’s new report, including learning                        disabilities as part of the LGA social care digital
+from Bury, Hampshire, Stockport, Sunderland, and                         innovation accelerator programme.12
+Torbay and South Devon.10
+
+ Recent research by TSA suggests that older
+                                                                         “The provision of outcomes
+ Alarm Receiving Centres (relying on traditional                         focused support that helps
+ analogue communications) have encountered                               those with learning disabilities
+ challenges moving to alternative working
+ models. There is an opportunity to work more                            to improve employability and/
+ closely with Government to support technology                           or manage their health and
+ enabled care services to manage the
+ forthcoming analogue to digital transition.
+                                                                         wellbeing and reintegrate
+                                                                         back into social settings post
+The LGA has also been providing support in                               COVID-19 – in a cost-effective
+this area, including tailored support for councils
+leading care technology responses to COVID-19.                           way – will be a key challenge
+In April 2020, a new COVID-19 rapid care                                 nationally.”
+technology deployment tool was published to
+                                                                         Stephan Liebrecht, Operational Director, Adults
+help councils identify common adult social care
+                                                                         Care and Support, London Borough of Barking
+challenges and offers potential care technology
+                                                                         and Dagenham
+responses to these.11
+
+With ReThink Partners, and with input from over                          The project is looking to develop a digital
+30 councils the LGA tool is intended to be an aide                       approach to providing people with tools and
+to help with care technology planning, decision-                         resources to help manage their own health and
+making and mobilisation. It also includes a number                       wellbeing. It is being led by the London Borough
+of practical case studies on local care technology                       of Barking and Dagenham, in collaboration
+approaches in the area of home care, care homes                          with the London Borough of Haringey, Telford &
+and hospital discharge. A planning and diagnostic                        Wrekin Council, West Sussex County Council and
+tool is also being developed which will enable                           Cambridgeshire and Peterborough Councils. It
+councils to review their own care technology                             is also being designed to provide employability
+approach and support targeted action planning.                           support to people with learning disabilities.13
+This new tool, developed with councils and ReThink
+Partners, will be available in summer 2020.
+
+10   From Stabilisation to Innovation: The Response and Redesign of TEC Services during Covid-19 (TSA)
+11   www.local.gov.uk/caretechtool
+12   www.local.gov.uk/scdip
+13   https://cc2i.org.uk/virtual-support
+10       DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+The project, which is co-funded by each participating       Across each of the projects, the councils
+council with match funding from NHS Digital through         have worked together with individuals and
+the LGA, is being undertaken in collaboration with          care workers to put in place comprehensive
+people with learning disabilities across each of the        packages of essential support to help people
+councils, a technology supplier and local employers.        use devices, provide troubleshooting and
+                                                            technical support as well as putting in place
+The accelerator programme is also supporting                the infrastructure needed to support use of the
+Walsall Council, in collaboration with local health         technology where this has been a barrier.
+and police partners, to lead the development of a
+new data-driven approach to safeguarding.14 This            Similar approaches have been taken by Walsall
+project will support collaboration at organisational        and Dudley councils who, in partnership with
+and operational levels, enabling multi-disciplinary         local organisations and businesses, have been
+teams to see one version of the truth while                 providing tablet devices to local care homes to
+accessing and updating live data so care                    help residents maintain contact with loved ones.
+professionals can provide effective, timely and
+person-centred support.
+
+ As part of the national offer of support to the
+ social care sector, NHSX partnered with Facebook
+ to provide over 2,000 portal devices (tablets) to
+ help those in social care settings connect with
+ family and friends through video calls when
+ visiting was restricted during lockdown.
+
+ A number of areas have been involved in
+ piloting the devices in care homes, including
+ North Yorkshire County Council, Staffordshire
+ County Council and Stoke on Trent Council. In
+ North Yorkshire, use of the portals is part of
+ a suite of support offered to council-run care
+ homes across the county.
+
+ In collaboration with services managers, care
+ workers and with feedback from families, a
+ package of support (including three different
+ video calling solutions) were provided to each
+ of the ten care homes. Feedback has been
+ positive, for example, in one care home the use
+ of video calling enabled residents and families
+ to celebrate VE day. Most people preferred
+ devices which are portable as they are easier
+ for staff to move around the care home and
+ hence better supports private calls in a person’s
+ room rather than public spaces.
+
+14 https://cc2i.org.uk/aim-active-intervention-management
+                                                                                                                              11
+
+
+
+
+b) Flexible and                                                             We have also seen more remote assessments and
+                                                                            reviews being used in occupational therapy and
+enabled working                                                             social work. Many areas, such as Staffordshire
+                                                                            county council and Stoke-On-Trent council, are
+“The people who support me”                                                 doing so using consumer, or everyday technology
+TLAP, Making it Real Theme                                                  like WhatsApp or Facetime, which many people
+                                                                            are already familiar with.
+In recent months technology has enabled many
+of us to continue to work and maintain contact                               Practical guidance on video-calling applications
+with others.                                                                 and professional practice has recently been
+                                                                             developed by Socitm in partnership with a number
+Within and across councils, the reduction in most                            of councils. See appendix one for details.
+face-to-face contact due to COVID-19 restrictions
+has necesitated the introduction of simple but                              Derbyshire county council, with funding from
+effective digital collaboration tools such as shared                        NHS Digital via the LGA social care digital
+email directories, calendars, service directories or                        innovation programme, has explored approaches
+instant messaging platforms.                                                to occupational therapy remote assessments
+ A survey completed by over 2,500 local                                     for equipment using various platforms such as
+ government staff from over 90 councils                                     Microsoft Teams, as well as formalising new
+ suggests that approximately 82 per cent of staff                           processes to utilise photographs and videos.
+ have been able to work from home - up from 5                               Additional funding to accelerate this project
+ per cent before lockdown.                                                  and develop a broader community of practice
+ Socitm, Digital and ICT Impact Survey 202015                               in collaboration with the Royal College of
+                                                                            Occupational Therapists, Skills for Care and Digital
+                                                                            Social Care is planned for later in the year.
+Councils have also found other and often new ways
+to interact with their communities during this period.                      In rural areas like Kent, remote assessments
+                                                                            and reviews (where these are appropriate for
+In some councils, we are starting to see, where
+                                                                            the individual) are also creating opportunities for
+appropriate, more virtual forms of social work
+                                                                            social workers and occupational therapists to
+professional practice. This is a big shift from face-
+                                                                            spend more time with people and families and
+to-face contact as the foundation of personalised
+                                                                            less time travelling to visits across the county.
+care and support. Technology has played a key role
+in enabling social work professionals to continue to                        It is important to remember that there are ongoing
+carry out key functions safely and effectively where                        pressures in rural areas where mobile reception
+personal contact has not been possible particularly                         and internet access may be limited. Although
+in response to COVID-19 restrictions.                                       in some areas this can be overcome through
+                                                                            use of data-enabled devices, this is not always
+Kirklees council and North Yorkshire county
+                                                                            a viable option for those in rural areas with poor
+council – supported through national and local
+                                                                            overall connectivity.
+guidance – have been carrying out virtual
+deprivation of liberty assessments for the first time
+through a combination of video and telephone
+calls where it is appropriate to do so.
+
+15 https://socitm.net/download/covid-19-digital-ict-impact-survey-results
+12        DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+As engagement in services is set to become                              More information is available on the Digital Social
+more digital, it is important now more than ever                        Care COVID-19 pages17 - and a report about the
+for people to have faster and more reliable                             use of technology by adult social care provider
+connectivity or Wi-Fi options, particularly for those                   services during the initial pandemic response has
+most vulnerable and at risk of social isolation.                        been published.18
+
+Work is underway in NHSX to improve connectivity                        We have also seen the benefits of technology in
+infrastructure for adult social care providers,                         supporting adult social care recruitment. Self-
+including the negotiation of various internet                           isolation, shielding and/or taking time to fully
+connection deals with the UK telecommunications                         recover after being ill have all had an impact on
+sector.16                                                               the number and availability of social care staff in
+                                                                        recent months.
+ Did you know that Digital Social Care is a free
+ online resource run by and for care providers                          For example, in the West Midlands, a collaborative
+ to assist with all things digital?                                     digital recruitment drive between 14 councils,
+                                                                        the regional ADASS branch and West Midlands
+ Funded by NHS Digital, Digital Social Care                             Employers has helped to maintain a flexible and
+ provides support to adult social care providers                        diverse social care workforce.
+ to help them on their digital journeys.
+                                                                        The approach to recruit to the sector during the
+ A digital self-assessment tool has been                                initial pandemic response saw the development of
+ developed in partnership with Skills for Care                          three tailored campaigns – one to attract former
+ to help social care organisations measure their                        social workers,19 another for recruiting final year
+ digital skills and readiness.                                          social work students20 and the final to attract
+ Details for Digital Social Care can be found                           social care staff21 into the independent care sector
+ in appendix one.                                                       across the West Midlands.
+
+                                                                        Through a combination of targeted digital
+It forms part of wider work across NHSX to                              communications such as social media,
+support the digital transformation of adult social                      collaboration with local universities, and digital
+care and health which the LGA continues to                              campaign materials (videos, dedicated campaign
+engage in.                                                              websites) over 1,000 new applications were
+                                                                        received between April and June 2020 from
+The use of technology by adult social care
+                                                                        candidates looking to join or return to social care.
+providers has changed rapidly since the
+pandemic started. Information governance
+compliance requirements have been temporarily
+relaxed, a new quick process to give care
+providers free access to NHSmail and Microsoft
+Teams has been set up and some free digital tools
+have been made available to care providers.
+
+16   www.nhsx.nhs.uk/covid-19-response/social-care/internet-connection-deals-care-homes
+17   www.digitalsocialcare.co.uk/covid-19-guidance
+18   https://ipc.brookes.ac.uk/publications/Technology_Action_Research.html
+19   https://comebacktocare.org.uk
+20   https://stepupnow.org.uk
+21   https://timetocare.org.uk
+                              HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                          13
+
+
+
+
+c) Digital for everyone                                    DigiKnow was set up by a local digital champion
+                                                           movement comprising a team of volunteers
+“Flexible and integrated                                   from the community, local organisations and
+                                                           businesses. Before COVID-19, volunteers would
+care and support”                                          deliver digital skills and training sessions in
+TLAP, Making it Real Theme                                 areas such as community centres or communal
+                                                           areas of supported housing. Support is now
+Across the country, councils are working with              virtual and focused on providing assistance to
+communities to ensure that people are able to use          anyone needing help with using technology to
+digital channels to do things which benefit them in        stay well and connected.
+their daily lives.
+                                                           The digital champions have helped several
+Technology has changed the way councils do                 churches reach their congregations online as
+things and the pandemic has amplified this more            well as support Stockport Advocacy to continue
+than ever. But we know this is not always easy             its services virtually. It has also provided
+and there are a range of factors that can impact           technical support to residents and care workers
+how people engage digitally, including skills and          from care homes who have received tablet
+levels of digital confidence, connectivity and             devices from the council.
+infrastructure, as well as technology accessibility
+and affordability.                                         The council has also been helping people
+                                                           who want to improve their digital skills and
+The work councils are doing to support people to be        confidence but are restricted by the cost of
+digitally included is broader than digital interactions    buying a device or connecting to the internet
+with adult social care or other council services.          through developing a digital device lending
+                                                           library. Through this lending library anyone can
+Councils have taken new strides in identifying
+                                                           borrow a device with free access to the internet
+and supporting those most vulnerable, isolated
+                                                           and be supported, if needed, on how to use it
+or shielding and who may not have access to the
+                                                           by a digital champion.
+technology used by many to maintain contact and
+daily living.                                              Hear from 91-year-old Mabel on how she is
+                                                           benefitting from receiving a tablet through one
+ Stockport Metropolitan Borough                            of the schemes supported by the Stockport
+                                                           Digital Inclusion Alliance.23
+ Council: DigiKnow
+ Stockport council has been working over the              Of course, work with communities to enable and
+ last two years to set up the Stockport Digital           support digital inclusion in local government isn’t
+ Inclusion Alliance, also known as DigiKnow.22            new and in many areas isn’t about ‘digital’ but
+ Initially setup to support digital uptake across         about inclusion and people.
+ the borough through a range of initiatives, many         Local health and care system leaders (councillors
+ of which have accelerated due to the COVID-19,           and officers) in Leeds city council have embraced
+ it is a partnership between the council, the             a city-wide approach to digital innovation. Shared
+ voluntary and community sector and other                 governance arrangements, joint digital posts and
+ public and private sector partners.                      pooled budgets – focused upon Health and
+
+22 https://stockporttpa.co.uk/digiknow
+23 www.youtube.com/watch?v=SLSYeLAz7Vw&feature=youtu.be
+14       DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+Wellbeing Board objectives – guide the city’s                             Norfolk county council’s future approach to digital
+approach to digital transformation.                                       technology includes supporting improvements
+                                                                          in the way staff can work, better use of data to
+It is supported by the wider 100 per cent Digital                         support integrated and interoperable systems and
+Leeds programme which takes a community                                   investments in local connectivity infrastructure to
+approach, in collaboration with local organisations,                      help people, businesses and organisations access
+to actively tackling digital exclusion.24                                 the internet.
+Through the programme, residents of the city                              They have also committed to help people contact
+can develop their digital skills and confidence, by                       the council through digital means supported by a
+borrowing technology through the tablet lending                           wider digital inclusion programme.
+scheme and access support through the digital
+champions offer. The scheme has over 1,000                                The digital inclusion programme in Norfolk similar
+trained volunteers at hand to provide digital                             to other councils is cross-directorate – bringing
+support to anyone who needs it.                                           together schools, libraries, ICT, adult social care
+                                                                          and other council functions to develop the digital
+ Community Circles and Social Care Future25                               skills and confidence of local people and provide
+  are helping people living in accommodation                              technology (through initiatives like issuing recycled
+ with support to stay connected with family                               laptops) to people who need it.
+ and friends by setting up a ‘Kit for Connection’
+ scheme. This involves linking people who need                            The LGA, as part of the digital inclusion
+ kit, like tablets or phones, with people who can                         programme, is funding 10 councils to work with
+ offer it, or can donate some money to buy it.                            communities to develop digital skills, infrastructure
+                                                                          and confidence by providing tailored support,
+In the London Borough of Camden, a project to                             assistance and one to one mentoring.26
+develop a community map app to help improve                               The projects being funded are wide ranging from
+travel confidence and connect communities was                             provision of 4G enabled laptops to people in
+adapted in light of COVID-19, to focus on digital                         deprived areas to funding technology support for
+connection and inclusion to support people to                             young people transitioning from children’s to adult
+regain confidence after lockdown.                                         social care.
+There was also a council and voluntary and
+community sector response to support people
+who are digitally excluded which includes
+delivering bespoke digital skills training and set-up
+support, providing laptops or tablets and ways to
+access the internet for those most in need.
+
+Many councils are starting to consider the learning
+from the adult social care digital response to the
+pandemic in the wider context of council digital
+transformation and its relationship with local
+people, businesses and communities.
+24 https://librarybookings.leeds.gov.uk/digitalinclusion
+25 https://socialcarefuture.blog/2020/04/22/helping-people-living-in-accommodation-with-support-stay-connected-with-family-and-friends-by-
+   setting-up-a-kit-for-connection-scheme
+26 www.local.gov.uk/digital-inclusion-programme
+                                     HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                   15
+
+
+
+
+d) Working together                                      Joint working between Nottinghamshire county
+                                                         council and Sherwood Forest Hospitals NHS
+with partners                                            Foundation Trust enabled the creation of a new
+                                                         digitised ‘discharge to assess’ form to support
+“Flexible and integrated                                 transformed roles, structures and ways of working
+care and support”                                        between hospitals and social care.
+
+TLAP, Making it Real Theme                               This enabled local colleagues to take a discharge
+                                                         to assess approach in line with new COVID-19
+As with all new ways of working, technology is           hospital discharge service requirements.
+often the easy part. Digital innovation is at its
+strongest when the technology is just one part           Learning is being shared and will inform the
+of a wider approach to transformation.                   NHS Digital funded LGA social care digital
+                                                         innovation accelerator project which is developing
+Technology is important and needs to be                  a digital discharge to assess platform through
+functional, but a number of other conditions             collaboration between Southend-on-Sea borough
+must be firmly in place for new approaches               council, Birmingham city council, Herefordshire
+to be sustained, including strong leadership,            county council, North Lincolnshire council and the
+co-production and sustainable resourcing.                London Borough of Sutton with local health and
+Approaches to the use of technology must also            care partners.27
+exist in a wider network of on-going support and         In Camden and Stockport, technology has
+training. These conditions are best achieved when        enabled people with learning disabilities in
+people and organisations work together.                  supporting living settings to continue to talk to
+As democratically accountable leaders of place,          professionals and people important to them,
+councils play a key role in bringing local partners      including each other.
+together to work with and support their local            This was vital given the temporary closure of
+communities.                                             many day services as lockdown measures were
+In adult social care, councils have been working         introduced, and as people voluntarily reduced
+together with the NHS, housing, voluntary and            their use of services in order to stay safe.
+community sector and care provider partners to           Both councils, in collaboration with local learning
+make sure that people, their families and carers         disability providers, have funded tablet devices
+can achieve their greatest potential, whilst living      which enable video-calling with others. Some areas,
+full and meaningful lives in their community.            including Camden, are also supporting people
+Digital technology has played a huge part,               wishing to purchase their own technology via a
+enabling not only the continuation of formal care        direct payment or carers grant to be able to do so.
+and support but also facilitating social connection      In Hull and Lincolnshire councils, new technologies
+and contact with loved ones.                             have been introduced to support virtual clinical
+In Nottinghamshire, close local partnership with         assessments and remote monitoring in care homes.
+the NHS has helped to share data and join up
+care before and since the outbreak of COVID-19.
+
+
+27 https://cc2i.org.uk/digital-d2a
+16        DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+This is helping important activities such as virtual                      sharing and interfaces with the NHS, as well as
+consultations between care homes and primary                              remote monitoring approaches. 28
+care, electronic referrals into community health and
+enabling the recording and sharing of baseline                            This includes not just the deployment of the
+observation data across health and care.                                  technology itself, but more importantly the
+                                                                          wraparound support to help with uptake, training
+ Across Lincolnshire, the county council has                              and ongoing troubleshooting or technical
+ been working with the local care association,                            assistance. The impact of the pandemic has led
+ CCG and a technology supplier to rapidly                                 this to be achieved 14 months earlier than the
+ expand a telehealth pilot project to support care                        original timescales. The approach is now being
+ homes during the pandemic.                                               extended to other social care settings.
+
+ A simple telehealth kit provided to care homes,                          Councils have been working with care providers on
+ allows basic observations like blood pressure,                           technology adoption. Many have been supported
+ temperature, pulse and oxygen levels to be                               through formal, national programmes such as the
+ reviewed and shared with health and care                                 NHS Digital Social Care Programme,29 (including the
+ professionals remotely, allowing health partners                         LGA social care digital innovation and accelerator
+ to ensure a number of commitments under the                              Programmes) as well as the Cabinet Office funded
+ NHS care homes directive are met.                                        social care data and cyber security programme.30
+
+ 150 care homes have been provided with the                               There has been significant progress through
+ telehealth kit to date and training has been                             locally led approaches too. For instance, in
+ given to care staff across all homes and primary                         the immediate response to the pandemic we
+ care network staff.                                                      have seen significant digital adoption by the
+                                                                          independent care provider sector.
+ Feedback from local partners has highlighted
+ the collaborative ‘peer to peer’ approach that                           Though many providers as independent
+ has been taken to support the sector as a major                          organisations are considering technology as part
+ factor in the successful roll out.                                       of their future operating models, there are also
+                                                                          opportunities for councils to support providers
+ A business case has now been approved                                    as part of wider market shaping work. One area
+ securing funding for additional kits to enable                           that councils may wish to consider providing
+ 100 per cent coverage of care homes in the                               support to care providers, is in the safe and
+ county as well as two years funding for licenses                         secure handling of information, whether physical
+ and admin costs.                                                         or electronic. The LGA in collaboration with the
+                                                                          Institute of Public Care has published practical
+In many areas, much of this activity was already                          support to assist commissioners in this area.31
+underway before the pandemic. For example,
+Durham county council in partnership with County
+Durham and Darlington NHS Foundation Trust
+have supported all older people’s care homes in
+the county with using technology to improve data
+28   www.local.gov.uk/covid-19/covid-19-local-examples-care-technology-approaches
+29   https://digital.nhs.uk/services/social-care-programme/digital-social-care-pathfinders-programme-2019-21
+30   www.local.gov.uk/our-support/our-improvement-offer/care-and-health-improvement/informatics/cyberdatadiscovery
+31   www.local.gov.uk/our-support/our-improvement-offer/care-and-health-improvement/innovation-and-transformation/cyber-security-for-
+     commissioners
+                           HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19   17
+
+
+
+
+Collaboration between councils
+We are also seeing more collaborative
+approaches to innovation being taken between
+and across councils. For example, in the East of
+England, all 11 councils with responsibility for
+adult social care have committed to adopting
+the same platform to collect and share data
+and intelligence to support a high quality and
+sustainable market – based on principle of
+‘doing once and not 11 times’.
+
+The region named the system they developed
+PAMMS (Provider Assessment and Market
+Management Solution) which brings together
+care quality and financial data from over 2,000
+contracted suppliers and 20,000 people to
+enable comprehensive care market overview.
+
+Providers are also benefitting from the approach
+with improved CQC ratings, peer benchmarking,
+a reduced need for multi-agency assessments
+and evidenced service improvements.
+
+Additional modules can be added as required
+which helps sustainability and scalability.
+
+In supporting the region during COVID-19, the
+system has been used to broadcast specific
+‘online’ questions directly to providers around their
+response management. The region is now looking
+at how it can be used to help support recovery.
+
+The collaborative approach has also been
+enabled by each council’s commitment to co-
+fund dedicated resource which is co-ordinating
+intelligence collation and also helping to
+strengthen local relationships between councils
+and provider partners.
+
+Capital savings of £550,000 have been
+delivered to date with further estimated ongoing
+annual savings of over £550,000. The approach
+has also seen a 10 per cent improvement in
+measurable provider quality.
+18     DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+Part two:
+What have we learned?
+
+In this report we have shown the breadth of social
+care digital activity underway to support both the
+                                                        What has worked well
+immediate response to the pandemic and the              1. Local works. Councils continue to
+longer-term social care digital transformation agenda      demonstrate their ability to ensure people have
+to enable connected communities, preventative,             the care and support they need to be safe and
+personalised and joined up care and support.               well whilst maintaining essential business as
+                                                           usual in pressured circumstances. Councils
+Councils have adapted to new challenges to
+                                                           have shown through activity before and in
+protect vulnerable people from risk of infection
+                                                           response to the pandemic that they can in
+whilst making sure they continue to receive
+                                                           partnership with their communities and with
+personalised care and support.
+                                                           the right tools and resources, drive forward
+They have worked creatively with providers to              local innovation and transformation across
+ensure that care workers, who are self-isolating           adult social care at pace and scale.
+and unable to care in person, can continue to
+                                                        2. Culture change and leadership. Digital
+work. They have also had to find easy and safe
+                                                           transformation requires strong council leadership
+ways for family members, neighbours, volunteers
+                                                           and an organisational culture that encourages
+and local community services to play their part in
+                                                           innovation. This is needed at all levels: political,
+supporting people.
+                                                           strategic and operational. The examples in this
+Councils are increasingly putting themselves at            report highlight what can happen when digital
+the forefront of using technology to sustain and           innovation is supported and enabled by effective
+enhance important activities that help keep people         leadership. This will be crucial if innovations are
+connected, safe and well.                                  to be embedded and sustained.
+
+In this section we reflect on some of the key           3. Better together. Digital transformation
+learning, shared factors and conditions which              isn’t enabled by any one piece of kit or
+help to enable successful local digital innovation         technology, but by local, regional and
+and adoption. We will look firstly at what councils        national collaboration. The progress we have
+have achieved and highlight what has worked well           seen across the sector in recent months is
+to date, then at the challenges and opportunities          underpinned by strong, and in most cases
+for development.                                           long-term, partnerships with care providers,
+                                                           the voluntary and community sector,
+These reflections may serve as helpful                     government, IT suppliers and most importantly,
+underpinning principles to inform local, regional          people and communities.
+and national social care digital approaches.
+They also form the basis of the conclusions and         4. Technology for wellbeing. We have seen how
+recommendations that follow.                               simple digital technologies can help people
+                                                           maintain daily activities which are important
+                                                           to them, such as contact with loved ones. We
+                                                           have also seen the opportunities provided by
+                                                           technology to support self-management of
+                                                           health and wellbeing and connection as much
+                                                           as focusing on clinical outcomes or direct care
+                                                           delivery. There is an opportunity to use this
+                                                           learning to inform future approaches to digital
+                           HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                         19
+
+
+
+
+   transformation of adult social care in the context   2. Funding and long-term investment. Councils
+   of early intervention, individual resilience and        have been able to continue to operate and
+   taking a whole person approach.                         support communities despite additional costs
+                                                           incurred due to the COVID-19 response.
+5. Flexibility and accessibility. Use of
+                                                           Much of the way in which councils have
+   technology has been vital to enable
+                                                           done this has been supported by the use of
+   organisations to continue to operate and it has
+                                                           technology, but this is not a sustainable way
+   helped the sector adapt the way it supports
+                                                           for councils to invest in this area. Without
+   communities. A more permissive environment,
+                                                           adequate and ongoing funding and resources,
+   through for example, the temporary relaxation
+                                                           we risk stagnating progress that has been
+   of information governance requirements,
+                                                           made in this area, limiting innovation or not
+   and targeted funding to improve connectivity
+                                                           moving beyond one-off funded pilots or
+   has made it easier for local partners to
+                                                           projects. There is an opportunity as part of
+   work together and provide accessible and
+                                                           the forthcoming Spending Review to address
+   personalised care and support.
+                                                           this with a long-term and sustainable funding
+                                                           plan for adult social care and wider local
+6. Accelerated activity. In recent months we               government services.
+   have seen new approaches to digital innovation
+                                                        3. Supporting and enabling versus command
+   across adult social care, particularly where
+                                                           and control. The last few months have seen
+   additional resources or support has been made
+                                                           local and national government supporting
+   available. But we have also seen the acceleration
+                                                           each other and working closer together.
+   of digital activity which was already planned
+                                                           Where this activity has focused on supporting
+   or underway prior to the pandemic. Though
+                                                           the adult social care sector with technology
+   the pandemic response to-date has helped to
+                                                           adoption, we have found that a ‘one size fits all’
+   further develop some of the conditions which
+                                                           approach rarely meets the diverse needs of
+   enable digital transformation, learning from
+                                                           the sector. Additional support and resources
+   existing and new digital activity will be of equal
+                                                           from government in this area is welcome but
+   value as we look ahead to the ‘new normal’.
+                                                           is most effective when it allows flexibility for
+                                                           local systems to adapt the offer to meet local
+                                                           circumstances.
+What could work better
+                                                        4. Beyond direct service delivery. We have
+1. Culture change, not just technology.                    seen how technology can play a huge role in
+   The sector has come a long way in a short               helping people to live the lives they want to
+   space of time to lead communities through               lead – both within and outside of traditional
+   the ongoing pandemic. In adult social care,             service provision. There is an opportunity
+   and across local government more broadly,               to use this learning to further develop
+   technology has played a huge role. We                   approaches to using technology preventatively
+   have found that digital transformation works            alongside a wider offer of support that makes
+   best when embedded in a wider network                   the most of community assets as well as in
+   of support, training and infrastructure                 traditional social care and NHS settings.
+   which is determined by and fits with local
+   circumstances.
+20     DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+5. Outcomes and benefits. It remains a
+   challenge to evidence the financial benefits of
+   digital technology. Given relatively low levels of
+   funding available for digital innovation in social
+   care it is often difficult to assign dedicated
+   resource to measuring financial or non-
+   financial benefits. While anecdotal evidence
+   of impact may be achievable in shorter
+   timescales, a robust analysis is more likely
+   in years rather than months. There is also no
+   one framework or methodology upon which to
+   support local benefits realisation approaches,
+   particularly where digital innovation might be
+   supporting wider prevention and wellbeing
+   activity. There is an opportunity for government
+   to support further work with the sector in this
+   area.
+                           HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                      21
+
+
+
+Part three:
+What next?
+
+The key messages in this final section are            3. It’s not just about the technology. The
+intended to offer practical considerations for           technology market is vast and fast-paced, but
+councils, their partners and national bodies on          councils have shown that this need not be a
+how best to support greater technology adoption          barrier to digital innovation and adoption. Keep
+across the adult social care sector.                     working with communities to understand their
+                                                         needs and what is valued and important. Have
+Though we know that technology alone will not
+                                                         an in-depth understanding of the problem
+solve all the challenges facing adult social care
+                                                         you’re seeking to address first and then find
+and the NHS, it can, under the right national and
+                                                         the technology to help with that – it is usually
+local conditions, be an enabler of preventative,
+                                                         already out there.
+personalised and joined up care and support.
+                                                      4. Take a collaborative approach. As we have
+These messages are drawn from our engagement
+                                                         seen, good digital transformation happens
+with councils before and during the first few
+                                                         best when people work well together at a
+months of the pandemic, as well as our continued
+                                                         local, regional and national level. Continue to
+work on national social care digital activity.
+                                                         share expertise, experience and knowledge
+                                                         between your organisations and with others
+                                                         including care providers, IT suppliers, local
+Key messages for councils                                organisations, national bodies and most
+1. Leadership at all levels. Adult social care           importantly, people in your communities.
+   digital transformation does not need to be            Collaborate with other councils too, be
+   a technical exercise when it is driven by             transparent about what you do and be
+   people with skills or enthusiasm to embrace           prepared to ask questions of others – the LGA
+   the opportunities of digital. Effective               can support with sharing approaches.
+   leadership means that digital innovations can      5. Plan how you will measure the impact of
+   be embedded and sustained. Everyone can               digital. Get into the habit of thinking about
+   play a part in this: strategically, politically,      and capturing benefits realisation as early as
+   operationally and across all levels of the            possible. Taking an outcomes-based approach
+   organisation.                                         will help you make the business case for
+2. Inform current practice. There is an                  additional investment. Financial benefits are
+   opportunity to consolidate the current                important but so too are outcomes for people.
+   enthusiasm and culture change that has                Think about the investment, or risk, against the
+   enabled rapid digital transformation in recent        potential impact for people, not just the pound
+   months. This means ensuring digital innovation        signs.
+   continues to inform all practice, including        6. Keep the pace. Councils are great innovators
+   professional practice, and being proactive in         and demonstrate considerable flexibility in
+   growing a culture and mindset for innovation.         adapting to new challenges and opportunities
+   Where there are opportunities to explore a            to support their communities. Sustainability is
+   digital approach, explore it.                         important too. Consider what new approaches
+                                                         from recent months you want to stabilise and
+                                                         embed but always with an eye to ‘what next’.
+                                                         Innovation (digital and non-digital) is about
+                                                         continuous learning.
+22     DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+                                                         4. Flexible and agile local approaches. Digital
+Key messages for                                            innovation works at the local level. Councils
+national bodies                                             are good at working in an agile, developmental
+                                                            way and this should be supported nationally
+1. Co-produce with people. Adult social care
+                                                            through resources to take an investment
+   is inherently person-centred. Approaches
+                                                            approach in partnership with people and
+   to digital innovation should be genuinely co-
+                                                            providers. Ambition for certain technologies or
+   produced with people, carers and families who
+                                                            approaches to be nationally scaled should be
+   are the experts by experience to understand
+                                                            balanced with a recognition that they need to
+   what is valued and important to them. Co-
+                                                            support local delivery and allow for flexibility to
+   production will also help to understand people’s
+                                                            fit existing local conditions and arrangements.
+   needs so they can be assisted to use digital
+   services, supporting wider approaches to              5. Help develop capabilities to measure
+   digital inclusion to build resilient communities         impact. Councils will take different
+   geared towards prevention, wellbeing and                 approaches to measuring the impact of digital
+   public health. Think Local Act Personal’s ‘Six           innovation. However, there is no standard
+   Themes of Making it Real’ can be used by                 methodology or guidance that can be used
+   organisations to support work in this area.              in an adult social care context to support
+                                                            benefits realisation. There is an opportunity to
+2. Invest in digital to support longer-term
+                                                            develop practical and tailored materials and
+   adult social care reform. It is vital that we
+                                                            tools which are sector-led and enable councils
+   harness all of the power technology and digital
+                                                            to better measure the impact of local digital
+   innovations offer but digital transformation is not
+                                                            activity in adult social care and the wider
+   about investing in specific technologies, quick
+                                                            health and care system.
+   fixes or short-term imperatives. Where there is
+   targeted national investment in adult social care     6. Removing barriers to innovation. The
+   digital transformation, it should be in people,          immediate response to the pandemic has
+   communities, staff, approaches and outcomes              enabled a more permissive environment for
+   and it must support the longer-term ambition for         innovation through for example temporary
+   adult social care funding and reform.                    relaxation of information governance
+                                                            requirements, targeted funding, prioritising
+3. Don’t forget technology for wellbeing and
+                                                            innovation, and people rapidly changing how
+   prevention. There are lots of examples of
+                                                            they work. It is important to learn lessons
+   technology supporting direct care delivery in
+                                                            from recent months and make adjustments,
+   all settings, but there are also opportunities
+                                                            where safe and appropriate, to national policy
+   to support wellbeing and connectedness
+                                                            guidance, regulations and practice to create
+   beyond traditional social care services. The
+                                                            an environment which is more supportive of
+   broader opportunities that technology offers
+                                                            digital innovation.
+   in enabling people to live the lives they want to
+   lead, which make the best use of the assets of
+   communities should be considered in national
+   programmes and digital funding opportunities.
+   This must also consider the role of technology
+   in supporting informal carers and care
+   networks.
+                             HOW WE’VE BEEN SUPPORTING COMMUNITIES DURING COVID-19                            23
+
+
+
+Appendix:
+Social care digital tools
+and resources for councils
+Below are a number of practical tools and                  LGA: Social care digital innovation programme
+resources to support councils with their local             – current and previous learning from councils
+digital innovation activity. It is not exhaustive and is   funded to deliver digital innovation projects in
+made up of resources cited by councils and key             adult social care
+partners as this report was developed.                     www.local.gov.uk/scdip
+If there are other tools or resources you are aware
+of which might help other councils, please let us          LGA: Social care digital innovation accelerator
+know at socialcaredigital@local.gov.uk.                    programme – current and previous learning from
+                                                           councils co-funding and collaborating to develop
+BASW/SCIE: Digital capabilities for social workers         solutions to shared social care challenges
+– support for social workers to develop skills and
+                                                           www.local.gov.uk/scdia
+knowledge in the use of digital technology.
+www.basw.co.uk/resources/publications-policies-
+                                                           LGA: COVID-19 good council practice – a
+and-reports/digital-capabilities-social-workers
+                                                           range of good practice examples on the local
+                                                           government response to the pandemic including
+Care Quality Commission: Innovation and                    on cyber and digital solutions
+inspiration: examples of how providers are
+                                                           www.local.gov.uk/covid-19-good-council-practice
+responding to coronavirus
+www.cqc.org.uk/publications/innovation-
+                                                           LGA: Digital inclusion programme – summaries
+inspiration-examples-how-providers-are-
+                                                           of the ten digital inclusion projects being funded
+responding-coronavirus-covid-19#hide2
+                                                           through the LGA’s sector led improvement offer
+Digital Social Care: A range of resources,                 www.local.gov.uk/digital-inclusion-programme
+guidance and support for adult social care
+providers on technology and data protection                LGA: Local government social care standards and
+www.digitalsocialcare.co.uk                                interoperability – report following discovery project
+                                                           on information sharing and interoperability in local
+Digital Social Care and the Institute of Public            government adult social care
+Care at Oxford Brookes University: New report              www.local.gov.uk/local-government-social-care-
+highlighting how care providers have been using            data-standards-and-interoperability
+technology during COVID-19
+https://ipc.brookes.ac.uk/publications/Technology_         LGA and Institute of Public Care at Oxford
+Action_Research.html                                       Brookes University: Guidance for commissioners
+                                                           on data and cyber security
+Digital Social Care and Skills for Care: Care              www.local.gov.uk/our-support/our-improvement-
+provider readiness tool - free tool for care               offer/care-and-health-improvement/innovation-and-
+providers to use to help them measure digital              transformation/cyber-security-for-commissioners
+capabilities and supporting infrastructure
+www.digitalsocialcare.co.uk/measuring-digital-
+readiness
+24     DIGITAL INNOVATION IN ADULT SOCIAL CARE
+
+
+
+
+LGA: COVID-19 rapid care technology tool             Socitm: Getting the most out of video-calling
+– practical tool to support councils with care       applications – best practice for supporting social
+technology planning and implementation with          care professional practice with video calling
+local care studies                                   https://socitm.net/download/getting-the-most-out-
+www.local.gov.uk/caretechtool                        of-video-calling-applications
+
+LGA and Technology Enabled Care Services             Technology Enabled Care Services
+Association: guidance for technology-enabled         Association: From stabilisation to innovation –
+care services on data and cyber security             highlighting examples of rapid service redesign
+www.tsa-voice.org.uk/downloads/good_practice_        and innovation through enabling technology
+guides/tsa_lga_cyber_security_guidance_full_doc.     during Covid-19 and recommendations for future
+pdf                                                  development
+                                                     www.tsa-voice.org.uk/campaigns/download-the-
+NHS Digital: Digital social care pathfinders         tsa-sector-insight-report-2020
+programme 2019-2021 – summaries of 16 digital
+projects being funded to support data standards
+and interoperability between health and care
+https://digital.nhs.uk/services/social-care-
+programme/digital-social-care-pathfinders-
+programme-2019-21
+
+NHS Digital: Digital inclusion guide for health
+and care
+https://digital.nhs.uk/about-nhs-digital/our-work/
+digital-inclusion
+
+Social Care Institute for Excellence: technology
+checklist for video calling an adult or carer
+link
+www.scie.org.uk/care-providers/coronavirus-
+covid-19/social-workers
+Local Government Association
+18 Smith Square
+London SW1P 3HZ
+
+Telephone 020 7664 3000
+Fax 020 7664 3030
+Email info@local.gov.uk
+www.local.gov.uk
+
+
+
+
+© Local Government Association, August 2020
+
+For a copy in Braille, larger print or audio,
+please contact us on 020 7664 3000.
+We consider requests on an individual basis.
+REF 25.172
+
